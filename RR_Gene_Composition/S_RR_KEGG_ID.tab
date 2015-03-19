@@ -1,0 +1,684 @@
+	KEGG	Definition
+K12185	['Skcos10018']	ESCRT-I complex subunit VPS37
+K13963	['Skcos10026']	serpin B
+K03144	['Skcos10099']	transcription initiation factor TFIIH subunit 4
+K07359	['Skcos10109', 'Skcos9501']	calcium/calmodulin-dependent protein kinase kinase [EC:2.7.11.17]
+K00616	['Skcos10178']	transaldolase [EC:2.2.1.2]
+K04648	['Skcos10197']	dynactin 1
+K17430	['Skcos10241', 'Skcos1071']	large subunit ribosomal protein L49, mitochondrial
+K02357	['Skcos10261']	elongation factor Ts
+K17943	['Skcos10292', 'Skcos9964']	pumilio RNA-binding family
+K17960	['Skcos10331', 'Skcos6748']	cytochrome P450, family 49, subfamily A
+K00685	['Skcos10340']	arginine-tRNA-protein transferase [EC:2.3.2.8]
+K03083	['Skcos10395']	glycogen synthase kinase 3 beta [EC:2.7.11.26]
+K12385	['Skcos10400']	Niemann-Pick C1 protein
+K11320	['Skcos1041', 'Skcos9015']	E1A-binding protein p400 [EC:3.6.4.-]
+K01120	['Skcos10417', 'Skcos22150', 'Skcos575']	3',5'-cyclic-nucleotide phosphodiesterase [EC:3.1.4.17]
+K13989	['Skcos10440']	Derlin-2/3
+K01873	['Skcos10452', 'Skcos11855']	valyl-tRNA synthetase [EC:6.1.1.9]
+K02726	['Skcos10464', 'Skcos14489']	20S proteasome subunit alpha 2 [EC:3.4.25.1]
+K05658	['Skcos10565', 'Skcos18123', 'Skcos22262', 'Skcos730']	ATP-binding cassette, subfamily B (MDR/TAP), member 1 [EC:3.6.3.44]
+K00036	['Skcos10576']	glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49]
+K00454	['Skcos10622', 'Skcos25725', 'Skcos4061', 'Skcos9787']	lipoxygenase [EC:1.13.11.12]
+K03260	['Skcos10638', 'Skcos22341']	translation initiation factor 4G
+K15900	['Skcos10647']	tRNA threonylcarbamoyladenosine biosynthesis protein
+K03627	['Skcos10660']	putative transcription factor
+K03939	['Skcos10662']	NADH dehydrogenase (ubiquinone) Fe-S protein 6
+K01866	['Skcos10677']	tyrosyl-tRNA synthetase [EC:6.1.1.1]
+K15542	['Skcos10679', 'Skcos12583', 'Skcos16819']	polyadenylation factor subunit 2
+K00488	['Skcos10691']	cholestanetriol 26-monooxygenase [EC:1.14.13.15]
+K01057	['Skcos10726']	6-phosphogluconolactonase [EC:3.1.1.31]
+K17302	['Skcos1079']	coatomer, subunit beta'
+K00262	['Skcos10819', 'Skcos14653']	glutamate dehydrogenase (NADP+) [EC:1.4.1.4]
+K01649	['Skcos10845', 'Skcos5605']	2-isopropylmalate synthase [EC:2.3.3.13]
+K10686	['Skcos10893']	ubiquitin-activating enzyme E1 C [EC:6.3.2.19]
+K00213	['Skcos1098']	7-dehydrocholesterol reductase [EC:1.3.1.21]
+K09647	['Skcos10987']	mitochondrial inner membrane protease subunit 1 [EC:3.4.21.-]
+K15340	['Skcos11020']	DNA cross-link repair 1A protein
+K11584	['Skcos11034']	serine/threonine-protein phosphatase 2A regulatory subunit B'
+K00910	['Skcos11062']	beta-adrenergic-receptor kinase [EC:2.7.11.15]
+K00889	['Skcos11067']	1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
+K07304	['Skcos111', 'Skcos13108', 'Skcos21329', 'Skcos8120']	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]
+K11599	['Skcos11107']	proteasome maturation protein
+K07025	['Skcos11115']	putative hydrolase of the HAD superfamily
+K14326	['Skcos11117']	regulator of nonsense transcripts 1 [EC:3.6.4.-]
+K10591	['Skcos11130', 'Skcos26670']	E3 ubiquitin-protein ligase NEDD4 [EC:6.3.2.19]
+K08874	['Skcos1114', 'Skcos16546']	transformation/transcription domain-associated protein
+K08592	['Skcos11151']	sentrin-specific protease 1 [EC:3.4.22.68]
+K09969	['Skcos11184']	general L-amino acid transport system substrate-binding protein
+K13348	['Skcos11187', 'Skcos4534']	protein Mpv17
+K01414	['Skcos11213']	oligopeptidase A [EC:3.4.24.70]
+K00049	['Skcos11235']	glyoxylate/hydroxypyruvate reductase [EC:1.1.1.791.1.1.81]
+K03106	['Skcos11245', 'Skcos21642']	signal recognition particle subunit SRP54
+K01858	['Skcos11257']	myo-inositol-1-phosphate synthase [EC:5.5.1.4]
+K01876	['Skcos11263']	aspartyl-tRNA synthetase [EC:6.1.1.12]
+K06709	['Skcos11271']	jumonji domain-containing protein 2 [EC:1.14.11.-]
+K08142	['Skcos11303', 'Skcos25264', 'Skcos853']	MFS transporter, SP family, solute carrier family 2 (facilitated glucose transporter), member 3
+K02355	['Skcos11318']	elongation factor G
+K12849	['Skcos11321']	pre-mRNA-splicing factor 38A
+K08246	['Skcos11330']	cycloeucalenol cycloisomerase [EC:5.5.1.9]
+K13525	['Skcos11350']	transitional endoplasmic reticulum ATPase
+K14950	['Skcos11373', 'Skcos14978', 'Skcos20446', 'Skcos25978']	cation-transporting ATPase 13A1 [EC:3.6.3.-]
+K15296	['Skcos11417']	alpha-soluble NSF attachment protein
+K00726	['Skcos11439']	alpha-1,3-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase [EC:2.4.1.101]
+K11583	['Skcos11513']	serine/threonine-protein phosphatase 2A regulatory subunit B''
+K12811	['Skcos11515']	ATP-dependent RNA helicase DDX46/PRP5 [EC:3.6.4.13]
+K12571	['Skcos11535', 'Skcos12087', 'Skcos20181']	PAB-dependent poly(A)-specific ribonuclease subunit 2 [EC:3.1.13.4]
+K06638	['Skcos11549']	mitotic spindle assembly checkpoint protein MAD1
+K00281	['Skcos11612']	glycine dehydrogenase [EC:1.4.4.2]
+K00383	['Skcos11618', 'Skcos9017']	glutathione reductase (NADPH) [EC:1.8.1.7]
+K01872	['Skcos11631', 'Skcos12618', 'Skcos21964']	alanyl-tRNA synthetase [EC:6.1.1.7]
+K01183	['Skcos11653', 'Skcos18986', 'Skcos7619', 'Skcos8042', 'Skcos9073', 'Skcos9319']	chitinase [EC:3.2.1.14]
+K06672	['Skcos11768', 'Skcos3547']	cohesin loading factor subunit SCC2
+K01948	['Skcos1182']	carbamoyl-phosphate synthase (ammonia) [EC:6.3.4.16]
+K13448	['Skcos11897']	calcium-binding protein CML
+K05955	['Skcos11924', 'Skcos13158', 'Skcos2656']	protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha [EC:2.5.1.582.5.1.59]
+K07204	['Skcos11925', 'Skcos8852']	regulatory associated protein of mTOR
+K00630	['Skcos12', 'Skcos12562']	glycerol-3-phosphate O-acyltransferase [EC:2.3.1.15]
+K06867	['Skcos12019']	COG:&nbsp;COG0666
+K01062	['Skcos12043']	platelet-activating factor acetylhydrolase [EC:3.1.1.47]
+K01897	['Skcos12046']	long-chain acyl-CoA synthetase [EC:6.2.1.3]
+K11805	['Skcos12061']	WD repeat-containing protein 68
+K09611	['Skcos12062']	probable aminopeptidase NPEPL1 [EC:3.4.11.-]
+K08333	['Skcos12073', 'Skcos12101']	phosphoinositide-3-kinase, regulatory subunit 4 [EC:2.7.11.1]
+K00761	['Skcos12151']	uracil phosphoribosyltransferase [EC:2.4.2.9]
+K12397	['Skcos12179', 'Skcos16595']	AP-3 complex subunit beta
+K05857	['Skcos12200']	phosphatidylinositol phospholipase C, delta [EC:3.1.4.11]
+K14376	['Skcos12202']	poly(A) polymerase [EC:2.7.7.19]
+K12854	['Skcos12203']	pre-mRNA-splicing helicase BRR2 [EC:3.6.4.13]
+K08678	['Skcos12218', 'Skcos6094']	UDP-glucuronate decarboxylase [EC:4.1.1.35]
+K00763	['Skcos12235']	nicotinate phosphoribosyltransferase [EC:6.3.4.21]
+K17267	['Skcos12245']	coatomer protein complex, subunit gamma
+K03010	['Skcos12262', 'Skcos20618']	DNA-directed RNA polymerase II subunit RPB2 [EC:2.7.7.6]
+K07198	['Skcos12266']	5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11]
+K15196	['Skcos12271']	transcription factor IIIB 90 kDa subunit
+K05283	['Skcos12287']	phosphatidylinositol glycan, class W [EC:2.3.-.-]
+K07910	['Skcos12293']	Ras-related protein Rab-18
+K00814	['Skcos12296']	alanine transaminase [EC:2.6.1.2]
+K00752	['Skcos12297']	hyaluronan synthase [EC:2.4.1.212]
+K08860	['Skcos12309']	eukaryotic translation initiation factor 2-alpha kinase 3 [EC:2.7.11.1]
+K10839	['Skcos1236', 'Skcos14803', 'Skcos25737']	UV excision repair protein RAD23
+K17506	['Skcos12361']	protein phosphatase 1L [EC:3.1.3.16]
+K03018	['Skcos12380']	DNA-directed RNA polymerase III subunit RPC1 [EC:2.7.7.6]
+K01768	['Skcos12439']	adenylate cyclase [EC:4.6.1.1]
+K12603	['Skcos12447', 'Skcos6412']	CCR4-NOT transcription complex subunit 6 [EC:3.1.13.4]
+K01809	['Skcos12454']	mannose-6-phosphate isomerase [EC:5.3.1.8]
+K14574	['Skcos12530', 'Skcos19340', 'Skcos20444']	ribosome maturation protein SDO1
+K04488	['Skcos1255']	nitrogen fixation protein NifU and related proteins
+K14572	['Skcos12593', 'Skcos13152', 'Skcos18704', 'Skcos4911']	midasin
+K04523	['Skcos1265']	ubiquilin
+K09518	['Skcos12658']	DnaJ homolog subfamily B member 12
+K02575	['Skcos1268', 'Skcos1359']	MFS transporter, NNP family, nitrate/nitrite transporter
+K00106	['Skcos12691']	xanthine dehydrogenase/oxidase [EC:1.17.1.41.17.3.2]
+K01256	['Skcos12721', 'Skcos457']	aminopeptidase N [EC:3.4.11.2]
+K13993	['Skcos12733']	HSP20 family protein
+K14306	['Skcos12772']	nuclear pore complex protein Nup62
+K01836	['Skcos12795']	phosphoacetylglucosamine mutase [EC:5.4.2.3]
+K10529	['Skcos12807']	alpha-dioxygenase [EC:1.-.-.-]
+K11865	['Skcos12825', 'Skcos20470']	protein MYSM1
+K13789	['Skcos12831']	geranylgeranyl diphosphate synthase, type II [EC:2.5.1.12.5.1.102.5.1.29]
+K06633	['Skcos12834', 'Skcos25655']	membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase [EC:2.7.11.1]
+K14401	['Skcos12837']	cleavage and polyadenylation specificity factor subunit 1
+K12184	['Skcos12851']	ESCRT-I complex subunit VPS28
+K06634	['Skcos12854']	cyclin H
+K12837	['Skcos12919']	splicing factor U2AF 65 kDa subunit
+K10580	['Skcos12956']	ubiquitin-conjugating enzyme E2 N [EC:6.3.2.19]
+K07238	['Skcos12973', 'Skcos23949', 'Skcos26416']	zinc transporter, ZIP family
+K17262	['Skcos13032']	tubulin-folding cofactor B
+K06636	['Skcos13038']	structural maintenance of chromosome 1
+K01870	['Skcos1305', 'Skcos14422', 'Skcos17560']	isoleucyl-tRNA synthetase [EC:6.1.1.5]
+K00509	['Skcos13060', 'Skcos27266']	prostaglandin-endoperoxide synthase 1 [EC:1.14.99.1]
+K10085	['Skcos13061']	ER degradation enhancer, mannosidase alpha-like 2
+K00236	['Skcos13065']	succinate dehydrogenase (ubiquinone) cytochrome b560 subunit
+K12492	['Skcos13074']	ADP-ribosylation factor GTPase-activating protein 1
+K01419	['Skcos13113']	ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]
+K01953	['Skcos13126']	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]
+K00140	['Skcos13141']	malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.181.2.1.27]
+K07112	['Skcos13148']	COG:&nbsp;COG2391
+K11204	['Skcos13149']	glutamate--cysteine ligase catalytic subunit [EC:6.3.2.2]
+K09420	['Skcos13157', 'Skcos9980']	myb proto-oncogene protein
+K01312	['Skcos13186', 'Skcos24199', 'Skcos6138']	trypsin [EC:3.4.21.4]
+K01724	['Skcos13234', 'Skcos16422']	4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]
+K12373	['Skcos13245', 'Skcos15082', 'Skcos22827', 'Skcos3111', 'Skcos6185', 'Skcos6794']	hexosaminidase [EC:3.2.1.52]
+K01490	['Skcos13283']	AMP deaminase [EC:3.5.4.6]
+K01280	['Skcos13288']	tripeptidyl-peptidase II [EC:3.4.14.10]
+K10903	['Skcos13325']	HUS1 checkpoint protein
+K00102	['Skcos13423']	D-lactate dehydrogenase (cytochrome) [EC:1.1.2.4]
+K10251	['Skcos1348']	17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase [EC:1.1.1.621.1.1.330]
+K01510	['Skcos13531']	apyrase [EC:3.6.1.5]
+K00294	['Skcos13556']	1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]
+K03715	['Skcos13560']	1,2-diacylglycerol 3-beta-galactosyltransferase [EC:2.4.1.46]
+K00799	['Skcos13574', 'Skcos6952']	glutathione S-transferase [EC:2.5.1.18]
+K01810	['Skcos13612']	glucose-6-phosphate isomerase [EC:5.3.1.9]
+K03953	['Skcos13648']	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 9
+K10258	['Skcos1365']	very-long-chain enoyl-CoA reductase [EC:1.3.1.93]
+K13539	['Skcos13728']	leishmanolysin-like peptidase [EC:3.4.24.-]
+K00327	['Skcos13768']	NADPH-ferrihemoprotein reductase [EC:1.6.2.4]
+K08903	['Skcos13777']	photosystem II 13kDa protein
+K01115	['Skcos13785']	phospholipase D1/2 [EC:3.1.4.4]
+K01754	['Skcos138']	threonine dehydratase [EC:4.3.1.19]
+K16055	['Skcos13818', 'Skcos6710', 'Skcos7380', 'Skcos9230']	trehalose 6-phosphate synthase/phosphatase [EC:2.4.1.153.1.3.12]
+K01868	['Skcos1383']	threonyl-tRNA synthetase [EC:6.1.1.3]
+K01697	['Skcos13841']	cystathionine beta-synthase [EC:4.2.1.22]
+K01875	['Skcos1385']	seryl-tRNA synthetase [EC:6.1.1.11]
+K00901	['Skcos13939']	diacylglycerol kinase (ATP dependent) [EC:2.7.1.107]
+K10413	['Skcos13951']	dynein heavy chain 1, cytosolic
+K10691	['Skcos13995', 'Skcos7345']	E3 ubiquitin-protein ligase UBR4 [EC:6.3.2.19]
+K03125	['Skcos13996']	transcription initiation factor TFIID subunit 1
+K03178	['Skcos13997', 'Skcos15791', 'Skcos19871', 'Skcos5725']	ubiquitin-activating enzyme E1 [EC:6.3.2.19]
+K00605	['Skcos14']	aminomethyltransferase [EC:2.1.2.10]
+K17686	['Skcos14004', 'Skcos2945']	Cu+-exporting ATPase [EC:3.6.3.54]
+K03696	['Skcos14031', 'Skcos17077']	ATP-dependent Clp protease ATP-binding subunit ClpC
+K14006	['Skcos14094']	protein transport protein SEC23
+K01845	['Skcos1411']	glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]
+K04615	['Skcos14113', 'Skcos45']	gamma-aminobutyric acid type B receptor
+K03036	['Skcos1413']	26S proteasome regulatory subunit N6
+K09523	['Skcos14186']	DnaJ homolog subfamily C member 3
+K12605	['Skcos1426']	CCR4-NOT transcription complex subunit 2
+K07555	['Skcos14288']	ATP synthase mitochondrial F1 complex assembly factor 1
+K08823	['Skcos14292']	CDC-like kinase [EC:2.7.12.1]
+K12304	['Skcos14306']	soluble calcium-activated nucleotidase 1 [EC:3.6.1.6]
+K01802	['Skcos1432', 'Skcos16035']	peptidylprolyl isomerase [EC:5.2.1.8]
+K10357	['Skcos1433', 'Skcos27096']	myosin V
+K00942	['Skcos14352', 'Skcos19664', 'Skcos6048']	guanylate kinase [EC:2.7.4.8]
+K00228	['Skcos14382']	coproporphyrinogen III oxidase [EC:1.3.3.3]
+K03564	['Skcos14438']	peroxiredoxin Q/BCP [EC:1.11.1.15]
+K09259	['Skcos14475']	ankyrin only family, other
+K07376	['Skcos1450', 'Skcos23134', 'Skcos27142']	protein kinase, cGMP-dependent [EC:2.7.11.12]
+K01881	['Skcos14512', 'Skcos21037', 'Skcos8998']	prolyl-tRNA synthetase [EC:6.1.1.15]
+K17086	['Skcos14616', 'Skcos3292']	transmembrane 9 superfamily member 2/4
+K14550	['Skcos14644', 'Skcos17700']	U3 small nucleolar RNA-associated protein 10
+K13207	['Skcos14655']	CUG-BP- and ETR3-like factor
+K03062	['Skcos14668']	26S proteasome regulatory subunit T2
+K03527	['Skcos14694']	4-hydroxy-3-methylbut-2-enyl diphosphate reductase [EC:1.17.1.2]
+K11824	['Skcos14750']	AP-2 complex subunit alpha
+K00816	['Skcos14839']	kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase [EC:2.6.1.74.4.1.132.6.1.64]
+K08776	['Skcos14910']	puromycin-sensitive aminopeptidase [EC:3.4.11.-]
+K01469	['Skcos14930']	5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K01914	['Skcos14945']	aspartate--ammonia ligase [EC:6.3.1.1]
+K15276	['Skcos14959']	solute carrier family 35 (adenosine 3'-phospho 5'-phosphosulfate transporter), member B2
+K01939	['Skcos15028', 'Skcos17459']	adenylosuccinate synthase [EC:6.3.4.4]
+K00417	['Skcos15081', 'Skcos23690']	ubiquinol-cytochrome c reductase subunit 7
+K07390	['Skcos15088', 'Skcos5451']	monothiol glutaredoxin
+K01358	['Skcos15092', 'Skcos18918', 'Skcos2292', 'Skcos5477']	ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+K03783	['Skcos15100']	purine-nucleoside phosphorylase [EC:2.4.2.1]
+K01784	['Skcos15147']	UDP-glucose 4-epimerase [EC:5.1.3.2]
+K03868	['Skcos15205']	RING-box protein 1
+K00264	['Skcos15292']	glutamate synthase (NADPH/NADH) [EC:1.4.1.131.4.1.14]
+K12874	['Skcos15330', 'Skcos24492']	intron-binding protein aquarius
+K02938	['Skcos15339', 'Skcos384']	large subunit ribosomal protein L8e
+K04345	['Skcos1535']	protein kinase A [EC:2.7.11.11]
+K00710	['Skcos15409']	polypeptide N-acetylgalactosaminyltransferase [EC:2.4.1.41]
+K00921	['Skcos15424', 'Skcos20427', 'Skcos8835']	1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150]
+K00464	['Skcos15449', 'Skcos9173']	all-trans-8'-apo-beta-carotenal 15,15'-oxygenase [EC:1.13.11.75]
+K00627	['Skcos15454', 'Skcos5779']	pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]
+K06207	['Skcos1549']	GTP-binding protein
+K08504	['Skcos15518']	blocked early in transport 1
+K12183	['Skcos15524', 'Skcos16295', 'Skcos2384']	ESCRT-I complex subunit TSG101
+K10276	['Skcos15545', 'Skcos7249']	F-box and leucine-rich repeat protein 10/11 [EC:1.14.11.27]
+K12850	['Skcos15558', 'Skcos8546']	pre-mRNA-splicing factor 38B
+K00654	['Skcos15594', 'Skcos18151']	serine palmitoyltransferase [EC:2.3.1.50]
+K00323	['Skcos15664']	NAD(P) transhydrogenase [EC:1.6.1.2]
+K01090	['Skcos15672']	protein phosphatase [EC:3.1.3.16]
+K13094	['Skcos15708', 'Skcos17572', 'Skcos5120']	RNA-binding protein 5/10
+K12196	['Skcos158']	vacuolar protein-sorting-associated protein 4
+K17609	['Skcos15834', 'Skcos1712']	nucleoredoxin [EC:1.8.1.8]
+K09490	['Skcos15839', 'Skcos3567']	heat shock 70kDa protein 5
+K08675	['Skcos15844', 'Skcos21928']	Lon-like ATP-dependent protease [EC:3.4.21.-]
+K08568	['Skcos15872', 'Skcos17605', 'Skcos2991']	cathepsin X [EC:3.4.18.1]
+K06013	['Skcos15959']	STE24 endopeptidase [EC:3.4.24.84]
+K09250	['Skcos15962']	cellular nucleic acid-binding protein
+K11840	['Skcos15963']	ubiquitin carboxyl-terminal hydrolase 9/24 [EC:3.4.19.12]
+K01462	['Skcos16025']	peptide deformylase [EC:3.5.1.88]
+K14721	['Skcos16141', 'Skcos22548']	DNA-directed RNA polymerase III subunit RPC5
+K09493	['Skcos16152']	T-complex protein 1 subunit alpha
+K00390	['Skcos16169']	phosphoadenosine phosphosulfate reductase [EC:1.8.4.8]
+K17969	['Skcos16220', 'Skcos3780']	mitochondrial fission 1 protein
+K17263	['Skcos16241']	cullin-associated NEDD8-dissociated protein 1
+K03526	['Skcos16297']	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1]
+K17500	['Skcos16327', 'Skcos2598']	integrin-linked kinase-associated serine/threonine phosphatase 2C [EC:3.1.3.16]
+K12493	['Skcos16431']	ADP-ribosylation factor GTPase-activating protein 2/3
+K10589	['Skcos16438', 'Skcos8582']	ubiquitin-protein ligase E3 C [EC:6.3.2.19]
+K03941	['Skcos16567']	NADH dehydrogenase (ubiquinone) Fe-S protein 8 [EC:1.6.5.31.6.99.3]
+K05316	['Skcos16581']	voltage-dependent calcium channel alpha-2/delta, invertebrate
+K11292	['Skcos16590', 'Skcos8272']	transcription elongation factor SPT6
+K00297	['Skcos16592']	methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]
+K06067	['Skcos1663']	histone deacetylase 1/2 [EC:3.5.1.98]
+K01535	['Skcos16711', 'Skcos8297']	H+-transporting ATPase [EC:3.6.3.6]
+K00826	['Skcos16722']	branched-chain amino acid aminotransferase [EC:2.6.1.42]
+K13024	['Skcos16771']	inositol hexakisphosphate/diphosphoinositol-pentakisphosphate kinase [EC:2.7.4.212.7.4.24]
+K08832	['Skcos1678']	serine/threonine-protein kinase SRPK3 [EC:2.7.11.1]
+K03283	['Skcos16857', 'Skcos3750']	heat shock 70kDa protein 1/8
+K13274	['Skcos16866']	cell wall-associated protease [EC:3.4.21.-]
+K14209	['Skcos16883']	solute carrier family 36 (proton-coupled amino acid transporter)
+K10661	['Skcos16946']	E3 ubiquitin-protein ligase MARCH6 [EC:6.3.2.19]
+K00517	['Skcos16958', 'Skcos8735']	ko00363&nbsp;&nbsp;
+K07300	['Skcos1697', 'Skcos5390', 'Skcos7848']	Ca2+:H+ antiporter
+K02154	['Skcos17035']	V-type H+-transporting ATPase subunit a
+K06669	['Skcos17067']	structural maintenance of chromosome 3 (chondroitin sulfate proteoglycan 6)
+K02377	['Skcos17094', 'Skcos7396']	GDP-L-fucose synthase [EC:1.1.1.271]
+K13289	['Skcos17206', 'Skcos6273']	cathepsin A (carboxypeptidase C) [EC:3.4.16.5]
+K14411	['Skcos17258']	RNA-binding protein Musashi
+K07877	['Skcos17288']	Ras-related protein Rab-2A
+K01365	['Skcos17295', 'Skcos6825']	cathepsin L [EC:3.4.22.15]
+K09540	['Skcos17310', 'Skcos5493']	translocation protein SEC63
+K01807	['Skcos1732']	ribose 5-phosphate isomerase A [EC:5.3.1.6]
+K03531	['Skcos17470']	cell division protein FtsZ
+K00548	['Skcos17494']	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]
+K04564	['Skcos17559']	superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+K02604	['Skcos17588']	origin recognition complex subunit 2
+K00434	['Skcos17632', 'Skcos258']	L-ascorbate peroxidase [EC:1.11.1.11]
+K07004	['Skcos17794']	COG:&nbsp;COG2374
+K10256	['Skcos1786']	omega-6 fatty acid desaturase (delta-12 desaturase) [EC:1.14.19.-]
+K02137	['Skcos17883']	F-type H+-transporting ATPase subunit O
+K10144	['Skcos17887']	RING finger and CHY zinc finger domain-containing protein 1 [EC:6.3.2.19]
+K01008	['Skcos17937']	selenide, water dikinase [EC:2.7.9.3]
+K15292	['Skcos17999']	syntaxin-binding protein 1
+K01101	['Skcos18060', 'Skcos3192']	4-nitrophenyl phosphatase [EC:3.1.3.41]
+K13210	['Skcos18071', 'Skcos7260']	far upstream element-binding protein
+K12191	['Skcos18090', 'Skcos2763']	charged multivesicular body protein 2A
+K03841	['Skcos18112']	fructose-1,6-bisphosphatase I [EC:3.1.3.11]
+K03671	['Skcos18141']	thioredoxin 1
+K15272	['Skcos1815', 'Skcos2546', 'Skcos6542']	solute carrier family 35 (UDP-sugar transporter), member A1/2/3
+K04487	['Skcos18177']	cysteine desulfurase [EC:2.8.1.7]
+K01759	['Skcos18228']	lactoylglutathione lyase [EC:4.4.1.5]
+K16344	['Skcos18235']	hepatitis B virus X-interacting protein
+K09486	['Skcos18283']	hypoxia up-regulated 1
+K14682	['Skcos18383']	amino-acid N-acetyltransferase [EC:2.3.1.1]
+K01725	['Skcos18388']	cyanate lyase [EC:4.2.1.104]
+K05665	['Skcos18414', 'Skcos18969', 'Skcos25040']	ATP-binding cassette, subfamily C (CFTR/MRP), member 1
+K12307	['Skcos18422']	MFS transporter, ceroid-lipofuscinosis neuronal protein 7
+K11295	['Skcos1846']	high mobility group protein B2
+K17279	['Skcos1848', 'Skcos27316']	receptor expression-enhancing protein 5/6
+K15033	['Skcos18665']	peptidyl-tRNA hydrolase ICT1 [EC:3.1.1.29]
+K11096	['Skcos18793', 'Skcos5057']	small nuclear ribonucleoprotein D2
+K01354	['Skcos1884', 'Skcos25866']	oligopeptidase B [EC:3.4.21.83]
+K17498	['Skcos18936']	transcription factor SPN1
+K13535	['Skcos1894']	cardiolipin-specific phospholipase [EC:3.1.1.-]
+K03108	['Skcos18960']	signal recognition particle subunit SRP72
+K00384	['Skcos19029', 'Skcos5496']	thioredoxin reductase (NADPH) [EC:1.8.1.9]
+K12893	['Skcos19092']	splicing factor, arginine/serine-rich 4/5/6
+K12856	['Skcos19146', 'Skcos5870']	pre-mRNA-processing factor 8
+K03320	['Skcos1920', 'Skcos7870']	ammonium transporter, Amt family
+K11839	['Skcos19233', 'Skcos4337', 'Skcos9679']	ubiquitin carboxyl-terminal hydrolase 8 [EC:3.4.19.12]
+K03979	['Skcos19260']	GTP-binding protein
+K02087	['Skcos1934']	cyclin-dependent kinase 1 [EC:2.7.11.222.7.11.23]
+K07393	['Skcos1963']	putative glutathione S-transferase
+K11857	['Skcos19651']	ubiquitin carboxyl-terminal hydrolase 47 [EC:3.4.19.12]
+K15277	['Skcos19701', 'Skcos19789']	solute carrier family 35 (adenosine 3'-phospho 5'-phosphosulfate transporter), member B3
+K00472	['Skcos1974']	prolyl 4-hydroxylase [EC:1.14.11.2]
+K03932	['Skcos19817', 'Skcos6035']	polyhydroxybutyrate depolymerase
+K03405	['Skcos20012']	magnesium chelatase subunit I [EC:6.6.1.1]
+K14327	['Skcos20066', 'Skcos5108']	regulator of nonsense transcripts 2
+K00789	['Skcos2011']	S-adenosylmethionine synthetase [EC:2.5.1.6]
+K15100	['Skcos20112']	solute carrier family 25 (mitochondrial citrate transporter), member 1
+K18170	['Skcos20185']	complex III assembly factor LYRM7
+K11253	['Skcos20206', 'Skcos4966']	histone H3
+K03029	['Skcos2028']	26S proteasome regulatory subunit N10
+K00962	['Skcos2029']	polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+K10704	['Skcos2038']	ubiquitin-conjugating enzyme E2 variant
+K03403	['Skcos20481']	magnesium chelatase subunit H [EC:6.6.1.1]
+K03661	['Skcos20502']	V-type H+-transporting ATPase 21kDa proteolipid subunit
+K11262	['Skcos20563', 'Skcos4084']	acetyl-CoA carboxylase / biotin carboxylase [EC:6.4.1.26.3.4.14]
+K08341	['Skcos2057']	GABA(A) receptor-associated protein
+K01885	['Skcos20571']	glutamyl-tRNA synthetase [EC:6.1.1.17]
+K17491	['Skcos20683', 'Skcos5773']	protein phosphatase 4 regulatory subunit 3
+K11254	['Skcos20788']	histone H4
+K11137	['Skcos20792']	telomere length regulation protein
+K06027	['Skcos20877', 'Skcos5073']	vesicle-fusing ATPase [EC:3.6.4.6]
+K17339	['Skcos2089']	atlastin [EC:3.6.5.-]
+K08955	['Skcos20959']	ATP-dependent metalloprotease [EC:3.4.24.-]
+K12847	['Skcos20966', 'Skcos4540']	U4/U6.U5 tri-snRNP-associated protein 2
+K09527	['Skcos21113']	DnaJ homolog subfamily C member 7
+K00820	['Skcos21164', 'Skcos23984', 'Skcos9145']	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]
+K12398	['Skcos21198']	AP-3 complex subunit mu
+K09489	['Skcos21512', 'Skcos22356']	heat shock 70kDa protein 4
+K07375	['Skcos2156', 'Skcos27624']	tubulin beta
+K01738	['Skcos21563']	cysteine synthase A [EC:2.5.1.47]
+K03428	['Skcos21571']	magnesium-protoporphyrin O-methyltransferase [EC:2.1.1.11]
+K10583	['Skcos21582']	ubiquitin-conjugating enzyme E2 S [EC:6.3.2.19]
+K14403	['Skcos21592']	cleavage and polyadenylation specificity factor subunit 3 [EC:3.1.27.-]
+K00020	['Skcos21676']	3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]
+K09313	['Skcos2169']	homeobox protein cut-like
+K00344	['Skcos21795']	NADPH2:quinone reductase [EC:1.6.5.5]
+K01534	['Skcos21837', 'Skcos8022']	Cd2+/Zn2+-exporting ATPase [EC:3.6.3.33.6.3.5]
+K00432	['Skcos222', 'Skcos9245']	glutathione peroxidase [EC:1.11.1.9]
+K09415	['Skcos22246', 'Skcos4455']	heat shock transcription factor 2
+K11064	['Skcos22247']	monocyte to macrophage differentiation protein
+K12199	['Skcos22347']	vacuolar protein sorting-associated protein VTA1
+K15177	['Skcos22348', 'Skcos6363']	RNA polymerase-associated protein LEO1
+K03773	['Skcos22436', 'Skcos3226']	FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K04575	['Skcos2246']	amyotrophic lateral sclerosis 2 protein
+K17637	['Skcos227', 'Skcos9333']	exocyst complex component 2
+K17900	['Skcos22735', 'Skcos9903']	lipase ATG15 [EC:3.1.1.3]
+K01874	['Skcos2275']	methionyl-tRNA synthetase [EC:6.1.1.10]
+K05236	['Skcos22788']	coatomer protein complex, subunit alpha (xenin)
+K03032	['Skcos22798']	26S proteasome regulatory subunit N2
+K03885	['Skcos22868', 'Skcos4719']	NADH dehydrogenase [EC:1.6.99.3]
+K15287	['Skcos22899']	solute carrier family 35, member F1/2
+K16302	['Skcos22910', 'Skcos9340']	metal transporter CNNM
+K10393	['Skcos22916']	kinesin family member 2/24
+K02267	['Skcos2298']	cytochrome c oxidase subunit 6b
+K01792	['Skcos2302']	glucose-6-phosphate 1-epimerase [EC:5.1.3.15]
+K00928	['Skcos2306']	aspartate kinase [EC:2.7.2.4]
+K16196	['Skcos23139', 'Skcos7352']	eukaryotic translation initiation factor 2-alpha kinase 4 [EC:2.7.11.1]
+K03037	['Skcos23252']	26S proteasome regulatory subunit N7
+K01958	['Skcos23267']	pyruvate carboxylase [EC:6.4.1.1]
+K02492	['Skcos23304']	glutamyl-tRNA reductase [EC:1.2.1.70]
+K00566	['Skcos23305']	tRNA-specific 2-thiouridylase [EC:2.8.1.-]
+K00589	['Skcos23308']	uroporphyrin-III C-methyltransferase [EC:2.1.1.107]
+K07195	['Skcos23316', 'Skcos3423']	exocyst complex component 7
+K17087	['Skcos23466']	transmembrane 9 superfamily member 3
+K13095	['Skcos23512', 'Skcos3654']	splicing factor 1
+K11886	['Skcos23530', 'Skcos23752', 'Skcos7805']	proteasome component ECM29
+K01137	['Skcos236']	N-acetylglucosamine-6-sulfatase [EC:3.1.6.14]
+K03686	['Skcos23694']	molecular chaperone DnaJ
+K12403	['Skcos2370', 'Skcos5115']	AP-4 complex subunit sigma-1
+K11308	['Skcos23701', 'Skcos24201', 'Skcos2685']	histone acetyltransferase MYST1 [EC:2.3.1.48]
+K02641	['Skcos23737', 'Skcos3118']	ferredoxin--NADP+ reductase [EC:1.18.1.2]
+K04498	['Skcos23740', 'Skcos25078', 'Skcos300', 'Skcos3761', 'Skcos6326']	E1A/CREB-binding protein [EC:2.3.1.48]
+K01676	['Skcos23866']	fumarate hydratase, class I [EC:4.2.1.2]
+K08907	['Skcos2391']	light-harvesting complex I chlorophyll a/b binding protein 1
+K01834	['Skcos23983']	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]
+K01890	['Skcos24044']	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+K12197	['Skcos2429']	charged multivesicular body protein 1
+K00234	['Skcos24308']	succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1]
+K03364	['Skcos2437', 'Skcos3469']	cell division cycle 20-like protein 1, cofactor of APC complex
+K01255	['Skcos24409', 'Skcos6389']	leucyl aminopeptidase [EC:3.4.11.1]
+K01769	['Skcos24473']	guanylate cyclase, other [EC:4.6.1.2]
+K01379	['Skcos2451']	cathepsin D [EC:3.4.23.5]
+K01990	['Skcos24668']	ABC-2 type transport system ATP-binding protein
+K09578	['Skcos2472']	peptidyl-prolyl cis-trans isomerase NIMA-interacting 1 [EC:5.2.1.8]
+K02326	['Skcos24724', 'Skcos424']	DNA polymerase epsilon subunit 3 [EC:2.7.7.7]
+K01262	['Skcos24750']	Xaa-Pro aminopeptidase [EC:3.4.11.9]
+K00252	['Skcos24831']	glutaryl-CoA dehydrogenase [EC:1.3.8.6]
+K13144	['Skcos24881', 'Skcos9236']	integrator complex subunit 7
+K02689	['Skcos24941']	photosystem I P700 chlorophyll a apoprotein A1
+K00951	['Skcos25030']	GTP pyrophosphokinase [EC:2.7.6.5]
+K12581	['Skcos2506']	CCR4-NOT transcription complex subunit 7/8
+K00286	['Skcos25265']	pyrroline-5-carboxylate reductase [EC:1.5.1.2]
+K13342	['Skcos25322']	peroxin-5
+K08876	['Skcos25324', 'Skcos4366']	SCY1-like protein 1
+K17600	['Skcos25432', 'Skcos9466']	vacuolar protein sorting-associated protein 54
+K12169	['Skcos25517']	Kip1 ubiquitination-promoting complex protein 1 [EC:6.3.2.19]
+K06972	['Skcos25526']	COG:&nbsp;COG1026
+K13337	['Skcos25552']	peroxin-19
+K05652	['Skcos25612']	ATP-binding cassette, subfamily A (ABC1), member 10
+K06889	['Skcos2571']	COG:&nbsp;COG1073
+K00927	['Skcos2578']	phosphoglycerate kinase [EC:2.7.2.3]
+K06158	['Skcos26', 'Skcos664', 'Skcos7452']	ATP-binding cassette, subfamily F, member 3
+K01803	['Skcos26220', 'Skcos381']	triosephosphate isomerase (TIM) [EC:5.3.1.1]
+K06639	['Skcos26252', 'Skcos27083']	cell division cycle 14 [EC:3.1.3.163.1.3.48]
+K16365	['Skcos26289', 'Skcos3516']	small glutamine-rich tetratricopeptide repeat-containing protein alpha
+K09925	['Skcos2629']	hypothetical protein
+K03943	['Skcos26517']	NADH dehydrogenase (ubiquinone) flavoprotein 2 [EC:1.6.5.31.6.99.3]
+K00972	['Skcos2652', 'Skcos5797']	UDP-N-acetylglucosamine/UDP-N-acetylgalactosamine diphosphorylase [EC:2.7.7.232.7.7.83]
+K08495	['Skcos26573']	golgi SNAP receptor complex member 1
+K12392	['Skcos26592']	AP-1 complex subunit beta-1
+K01883	['Skcos26632', 'Skcos467']	cysteinyl-tRNA synthetase [EC:6.1.1.16]
+K01303	['Skcos2668']	acylaminoacyl-peptidase [EC:3.4.19.1]
+K01601	['Skcos26739']	ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]
+K17917	['Skcos26911']	sorting nexin-1/2
+K00111	['Skcos26978', 'Skcos6378']	glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]
+K12818	['Skcos270', 'Skcos7840']	ATP-dependent RNA helicase DHX8/PRP22 [EC:3.6.4.13]
+K15555	['Skcos27004']	sulfonate transport system ATP-binding protein [EC:3.6.3.-]
+K08262	['Skcos27007']	delta12-fatty acid dehydrogenase [EC:1.14.99.33]
+K12275	['Skcos27033', 'Skcos3786']	translocation protein SEC62
+K00914	['Skcos27045']	phosphatidylinositol 3-kinase [EC:2.7.1.137]
+K14648	['Skcos27048', 'Skcos382']	poly(U)-specific endoribonuclease [EC:3.1.-.-]
+K00615	['Skcos27202']	transketolase [EC:2.2.1.1]
+K03006	['Skcos2728']	DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
+K10536	['Skcos27309']	agmatine deiminase [EC:3.5.3.12]
+K00817	['Skcos2736']	histidinol-phosphate aminotransferase [EC:2.6.1.9]
+K04554	['Skcos27458', 'Skcos8155']	ubiquitin-conjugating enzyme E2 J2 [EC:6.3.2.19]
+K12611	['Skcos27471', 'Skcos316']	mRNA-decapping enzyme 1B [EC:3.-.-.-]
+K10706	['Skcos27504']	senataxin [EC:3.6.4.-]
+K08902	['Skcos2754']	photosystem II Psb27 protein
+K03544	['Skcos27540']	ATP-dependent Clp protease ATP-binding subunit ClpX
+K02705	['Skcos27546']	photosystem II CP43 chlorophyll apoprotein
+K01889	['Skcos2755', 'Skcos6683']	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+K07511	['Skcos27607']	enoyl-CoA hydratase [EC:4.2.1.17]
+K12812	['Skcos27611', 'Skcos5185']	ATP-dependent RNA helicase UAP56/SUB2 [EC:3.6.4.13]
+K03969	['Skcos2786']	phage shock protein A
+K12813	['Skcos2821']	pre-mRNA-splicing factor ATP-dependent RNA helicase DHX16 [EC:3.6.4.13]
+K03011	['Skcos2823']	DNA-directed RNA polymerase II subunit RPB3
+K03921	['Skcos2851']	acyl-[acyl-carrier-protein] desaturase [EC:1.14.19.2]
+K03911	['Skcos2888']	antithrombin III
+K14007	['Skcos2904']	protein transport protein SEC24
+K03940	['Skcos2944']	NADH dehydrogenase (ubiquinone) Fe-S protein 7 [EC:1.6.5.31.6.99.3]
+K03676	['Skcos2952']	glutaredoxin 3
+K17255	['Skcos3006']	Rab GDP dissociation inhibitor
+K00658	['Skcos3020']	2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]
+K14683	['Skcos3023']	solute carrier family 34 (sodium-dependent phosphate cotransporter)
+K05917	['Skcos3041']	sterol 14-demethylase [EC:1.14.13.70]
+K08515	['Skcos3053', 'Skcos6933']	vesicle-associated membrane protein 7
+K12393	['Skcos3105']	AP-1 complex subunit mu
+K03687	['Skcos3137']	molecular chaperone GrpE
+K01899	['Skcos3149']	succinyl-CoA synthetase alpha subunit [EC:6.2.1.46.2.1.5]
+K00819	['Skcos3187']	ornithine--oxo-acid transaminase [EC:2.6.1.13]
+K14298	['Skcos3193']	mRNA export factor
+K06063	['Skcos3195']	SNW domain-containing protein 1
+K08794	['Skcos3227', 'Skcos4723']	calcium/calmodulin-dependent protein kinase I [EC:2.7.11.17]
+K02929	['Skcos3256']	large subunit ribosomal protein L44e
+K03667	['Skcos3259']	ATP-dependent HslUV protease ATP-binding subunit HslU
+K12524	['Skcos3291']	bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.41.1.1.3]
+K01783	['Skcos3422']	ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+K09966	['Skcos3440']	hypothetical protein
+K02155	['Skcos3493', 'Skcos440', 'Skcos6133', 'Skcos955']	V-type H+-transporting ATPase 16kDa proteolipid subunit
+K02728	['Skcos3499']	20S proteasome subunit alpha 3 [EC:3.4.25.1]
+K06942	['Skcos3504']	COG:&nbsp;COG0012
+K11717	['Skcos352']	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.74.4.1.16]
+K12618	['Skcos3554', 'Skcos5887']	5'-3' exoribonuclease 1 [EC:3.1.13.-]
+K01734	['Skcos3604']	methylglyoxal synthase [EC:4.2.3.3]
+K11644	['Skcos3608']	paired amphipathic helix protein Sin3a
+K01507	['Skcos366']	inorganic pyrophosphatase [EC:3.6.1.1]
+K01230	['Skcos368']	mannosyl-oligosaccharide alpha-1,2-mannosidase [EC:3.2.1.113]
+K13237	['Skcos3731']	peroxisomal 2,4-dienoyl-CoA reductase [EC:1.3.1.34]
+K06171	['Skcos3748']	nicastrin
+K01869	['Skcos3760']	leucyl-tRNA synthetase [EC:6.1.1.4]
+K03665	['Skcos3765']	GTP-binding protein HflX
+K13116	['Skcos3784']	ATP-dependent RNA helicase DDX41 [EC:3.6.4.13]
+K02703	['Skcos3847']	photosystem II P680 reaction center D1 protein
+K14964	['Skcos3884']	Set1/Ash2 histone methyltransferase complex subunit ASH2
+K11649	['Skcos395']	SWI/SNF related-matrix-associated actin-dependent regulator of chromatin subfamily C
+K12614	['Skcos399']	ATP-dependent RNA helicase DDX6/DHH1 [EC:3.6.4.13]
+K15172	['Skcos3997']	transcription elongation factor SPT5
+K01711	['Skcos4001']	GDPmannose 4,6-dehydratase [EC:4.2.1.47]
+K00640	['Skcos4031', 'Skcos8162']	serine O-acetyltransferase [EC:2.3.1.30]
+K10365	['Skcos4078']	capping protein (actin filament) muscle Z-line, beta
+K08956	['Skcos4083']	AFG3 family protein [EC:3.4.24.-]
+K14416	['Skcos4188']	elongation factor 1 alpha-like protein
+K13171	['Skcos4196']	serine/arginine repetitive matrix protein 1
+K12418	['Skcos4275']	fatty acid desaturase (delta-4 desaturase) [EC:1.14.19.-]
+K00232	['Skcos4349']	acyl-CoA oxidase [EC:1.3.3.6]
+K01893	['Skcos4364']	asparaginyl-tRNA synthetase [EC:6.1.1.22]
+K06100	['Skcos4368']	symplekin
+K02480	['Skcos4398', 'Skcos5843']	two-component system, NarL family, sensor kinase [EC:2.7.13.3]
+K00134	['Skcos4407', 'Skcos9436']	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+K08065	['Skcos4594']	nuclear transcription Y subunit beta
+K03139	['Skcos4617']	transcription initiation factor TFIIF subunit beta [EC:3.6.4.12]
+K08790	['Skcos4655']	serine/threonine kinase 38 [EC:2.7.11.1]
+K01647	['Skcos4668']	citrate synthase [EC:2.3.3.1]
+K00459	['Skcos4739']	nitronate monooxygenase [EC:1.13.12.16]
+K14455	['Skcos4764']	aspartate aminotransferase, mitochondrial [EC:2.6.1.1]
+K02259	['Skcos4769']	cytochrome c oxidase assembly protein subunit 15
+K02056	['Skcos4779']	simple sugar transport system ATP-binding protein [EC:3.6.3.17]
+K15181	['Skcos4814']	negative elongation factor C/D
+K08959	['Skcos4818']	casein kinase 1, delta [EC:2.7.11.1]
+K12604	['Skcos4976']	CCR4-NOT transcription complex subunit 1
+K14772	['Skcos4977']	U3 small nucleolar RNA-associated protein 20
+K03695	['Skcos4988']	ATP-dependent Clp protease ATP-binding subunit ClpB
+K14617	['Skcos5007']	LMBR1 domain-containing protein 1
+K09291	['Skcos5112']	nucleoprotein TPR
+K12625	['Skcos5127', 'Skcos952']	U6 snRNA-associated Sm-like protein LSm6
+K01590	['Skcos5145']	histidine decarboxylase [EC:4.1.1.22]
+K08679	['Skcos5166']	UDP-glucuronate 4-epimerase [EC:5.1.3.6]
+K12198	['Skcos5188']	charged multivesicular body protein 5
+K07874	['Skcos5220']	Ras-related protein Rab-1A
+K01069	['Skcos5250']	hydroxyacylglutathione hydrolase [EC:3.1.2.6]
+K03258	['Skcos5251']	translation initiation factor 4B
+K14005	['Skcos5370']	protein transport protein SEC31
+K03509	['Skcos5383']	DNA polymerase eta [EC:2.7.7.7]
+K00873	['Skcos5418']	pyruvate kinase [EC:2.7.1.40]
+K02736	['Skcos5452']	20S proteasome subunit beta 7 [EC:3.4.25.1]
+K04078	['Skcos5463']	chaperonin GroES
+K02291	['Skcos5479']	phytoene synthase [EC:2.5.1.32]
+K07151	['Skcos5495']	dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18]
+K00944	['Skcos5515']	nucleoside-triphosphate--adenylate kinase [EC:2.7.4.10]
+K06685	['Skcos5517', 'Skcos6']	MOB kinase activator 1
+K01735	['Skcos5558']	3-dehydroquinate synthase [EC:4.2.3.4]
+K06177	['Skcos557']	tRNA pseudouridine32 synthase / 23S rRNA pseudouridine746 synthase [EC:5.4.99.285.4.99.29]
+K01624	['Skcos5641', 'Skcos6315', 'Skcos7395']	fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+K00166	['Skcos5644']	2-oxoisovalerate dehydrogenase E1 component alpha subunit [EC:1.2.4.4]
+K01920	['Skcos5686']	glutathione synthase [EC:6.3.2.3]
+K15176	['Skcos5698']	RNA polymerase-associated protein CTR9
+K12580	['Skcos5780']	CCR4-NOT transcription complex subunit 3
+K09531	['Skcos5835']	DnaJ homolog subfamily C member 11
+K02863	['Skcos5866']	large subunit ribosomal protein L1
+K00559	['Skcos5899']	sterol 24-C-methyltransferase [EC:2.1.1.41]
+K03810	['Skcos592']	virulence factor
+K03094	['Skcos5930']	S-phase kinase-associated protein 1
+K07901	['Skcos5940', 'Skcos6836']	Ras-related protein Rab-8A
+K13076	['Skcos5951']	delta8-fatty-acid desaturase [EC:1.14.19.4]
+K10573	['Skcos5952']	ubiquitin-conjugating enzyme E2 A [EC:6.3.2.19]
+K07904	['Skcos5969']	Ras-related protein Rab-11A
+K05034	['Skcos5986']	solute carrier family 6 (neurotransmitter transporter, GABA) member 1
+K16536	['Skcos6024']	protein HOOK3
+K04077	['Skcos6198']	chaperonin GroEL
+K12898	['Skcos6204']	heterogeneous nuclear ribonucleoprotein F/H
+K01011	['Skcos623']	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.12.8.1.2]
+K07240	['Skcos6241']	chromate transporter
+K02469	['Skcos6267']	DNA gyrase subunit A [EC:5.99.1.3]
+K10756	['Skcos6271']	replication factor C subunit 3/5
+K02639	['Skcos6277']	ferredoxin
+K08819	['Skcos6290']	cyclin-dependent kinase 12/13 [EC:2.7.11.222.7.11.23]
+K12194	['Skcos6318']	charged multivesicular body protein 4
+K12343	['Skcos636']	3-oxo-5-alpha-steroid 4-dehydrogenase 1 [EC:1.3.1.22]
+K06215	['Skcos6362']	pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]
+K04646	['Skcos6367']	clathrin heavy chain
+K00754	['Skcos6391']	ko00051&nbsp;&nbsp;
+K12586	['Skcos6394']	exosome complex component RRP43
+K05516	['Skcos6402']	curved DNA-binding protein
+K08360	['Skcos645']	cytochrome b-561
+K03942	['Skcos6458']	NADH dehydrogenase (ubiquinone) flavoprotein 1 [EC:1.6.5.31.6.99.3]
+K11314	['Skcos6561']	transcriptional adapter 2-alpha
+K03019	['Skcos6574']	DNA-directed RNA polymerase III subunit RPC10
+K00858	['Skcos6593']	NAD+ kinase [EC:2.7.1.23]
+K05610	['Skcos663']	ubiquitin carboxyl-terminal hydrolase L5 [EC:3.4.19.12]
+K01427	['Skcos6657']	urease [EC:3.5.1.5]
+K12483	['Skcos6673']	EH domain-containing protein 1
+K01078	['Skcos6677']	acid phosphatase [EC:3.1.3.2]
+K09562	['Skcos6757']	hsp70-interacting protein
+K08869	['Skcos6768']	aarF domain-containing kinase
+K03404	['Skcos6799']	magnesium chelatase subunit D [EC:6.6.1.1]
+K13811	['Skcos6812']	3'-phosphoadenosine 5'-phosphosulfate synthase [EC:2.7.7.42.7.1.25]
+K15026	['Skcos6850']	translation initiation factor 2A
+K07942	['Skcos6855']	ADP-ribosylation factor-like protein 1
+K03456	['Skcos6893']	serine/threonine-protein phosphatase 2A regulatory subunit A
+K03949	['Skcos6936']	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 5
+K02879	['Skcos6945']	large subunit ribosomal protein L17
+K00382	['Skcos695']	dihydrolipoamide dehydrogenase [EC:1.8.1.4]
+K01694	['Skcos6968']	tryptophan synthase [EC:4.2.1.20]
+K11968	['Skcos698']	ariadne-1
+K08906	['Skcos6986']	cytochrome c6
+K01340	['Skcos7077']	tryptase [EC:3.4.21.59]
+K11188	['Skcos7079']	peroxiredoxin 6, 1-Cys peroxiredoxin [EC:1.11.1.71.11.1.153.1.1.-]
+K15692	['Skcos7129']	E3 ubiquitin-protein ligase RNF13 [EC:6.3.2.19]
+K00326	['Skcos7144']	cytochrome-b5 reductase [EC:1.6.2.2]
+K15178	['Skcos7149']	RNA polymerase-associated protein RTF1
+K01965	['Skcos716']	propionyl-CoA carboxylase alpha chain [EC:6.4.1.3]
+K12489	['Skcos7206']	Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein
+K09838	['Skcos7223']	zeaxanthin epoxidase [EC:1.14.13.90]
+K03347	['Skcos725']	cullin 1
+K02739	['Skcos7253']	20S proteasome subunit beta 2 [EC:3.4.25.1]
+K03798	['Skcos7274']	cell division protease FtsH [EC:3.4.24.-]
+K01915	['Skcos7284']	glutamine synthetase [EC:6.3.1.2]
+K14016	['Skcos729']	ubiquitin fusion degradation protein 1
+K09553	['Skcos7290']	stress-induced-phosphoprotein 1
+K11412	['Skcos7305']	NAD-dependent deacetylase sirtuin 2 [EC:3.5.1.-]
+K15279	['Skcos7321']	solute carrier family 35 (GDP-fucose transporter), member C1
+K02867	['Skcos7343']	large subunit ribosomal protein L11
+K11984	['Skcos7375']	U4/U6.U5 tri-snRNP-associated protein 1
+K12386	['Skcos7378']	cystinosin
+K15275	['Skcos741', 'Skcos8211']	solute carrier family 35 (UDP-galactose transporter), member B1
+K12855	['Skcos7417']	pre-mRNA-processing factor 6
+K00507	['Skcos7442']	stearoyl-CoA desaturase (delta-9 desaturase) [EC:1.14.19.1]
+K12391	['Skcos7443']	AP-1 complex subunit gamma-1
+K00888	['Skcos7463']	phosphatidylinositol 4-kinase [EC:2.7.1.67]
+K00600	['Skcos7467']	glycine hydroxymethyltransferase [EC:2.1.2.1]
+K05673	['Skcos7475']	ATP-binding cassette, subfamily C (CFTR/MRP), member 4
+K08269	['Skcos7482']	serine/threonine-protein kinase ULK/ATG1 [EC:2.7.11.1]
+K10735	['Skcos7545']	GINS complex subunit 4
+K08576	['Skcos7553']	calpain-7 [EC:3.4.22.-]
+K09807	['Skcos7566']	hypothetical protein
+K05539	['Skcos7648']	tRNA-dihydrouridine synthase A [EC:1.-.-.-]
+K05850	['Skcos7651']	Ca2+ transporting ATPase, plasma membrane [EC:3.6.3.8]
+K15371	['Skcos7695']	glutamate dehydrogenase [EC:1.4.1.2]
+K00318	['Skcos7765']	proline dehydrogenase [EC:1.5.-.-]
+K03350	['Skcos7819']	anaphase-promoting complex subunit 3
+K10534	['Skcos7824']	nitrate reductase (NAD(P)H) [EC:1.7.1.11.7.1.21.7.1.3]
+K01408	['Skcos7826']	insulysin [EC:3.4.24.56]
+K03869	['Skcos7872']	cullin 3
+K11493	['Skcos7879']	regulator of chromosome condensation
+K13138	['Skcos7963']	integrator complex subunit 1
+K00698	['Skcos808']	chitin synthase [EC:2.4.1.16]
+K03797	['Skcos8114', 'Skcos9675']	carboxyl-terminal processing protease [EC:3.4.21.102]
+K09680	['Skcos8115']	type II pantothenate kinase [EC:2.7.1.33]
+K01515	['Skcos8118']	ADP-ribose pyrophosphatase [EC:3.6.1.13]
+K00939	['Skcos8123']	adenylate kinase [EC:2.7.4.3]
+K00012	['Skcos817']	UDPglucose 6-dehydrogenase [EC:1.1.1.22]
+K03136	['Skcos8172']	transcription initiation factor TFIIE subunit alpha
+K07977	['Skcos824']	Arf/Sar family, other
+K03596	['Skcos8275']	GTP-binding protein LepA
+K01937	['Skcos8321']	CTP synthase [EC:6.3.4.2]
+K00416	['Skcos8401']	ubiquinol-cytochrome c reductase subunit 6
+K00760	['Skcos8402']	hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+K01537	['Skcos8450', 'Skcos867', 'Skcos9874']	Ca2+-transporting ATPase [EC:3.6.3.8]
+K01854	['Skcos8472']	UDP-galactopyranose mutase [EC:5.4.99.9]
+K02356	['Skcos8496']	elongation factor P
+K15336	['Skcos8517']	tRNA (cytosine38-C5)-methyltransferase [EC:2.1.1.204]
+K11274	['Skcos855']	chromosome transmission fidelity protein 4
+K00413	['Skcos8631']	ubiquinol-cytochrome c reductase cytochrome c1 subunit
+K12948	['Skcos8658']	signal peptidase complex subunit 3 [EC:3.4.-.-]
+K00033	['Skcos8712', 'Skcos8741']	6-phosphogluconate dehydrogenase [EC:1.1.1.44]
+K01251	['Skcos8733']	adenosylhomocysteinase [EC:3.3.1.1]
+K12572	['Skcos8738']	PAB-dependent poly(A)-specific ribonuclease subunit 3
+K17803	['Skcos8751']	methyltransferase OMS1, mitochondrial [EC:2.1.1.-]
+K00831	['Skcos8760']	phosphoserine aminotransferase [EC:2.6.1.52]
+K03639	['Skcos8782']	cyclic pyranopterin phosphate synthase [EC:4.1.99.18]
+K04536	['Skcos8828']	guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1
+K11827	['Skcos889']	AP-2 complex subunit sigma-1
+K01551	['Skcos8927']	arsenite-transporting ATPase [EC:3.6.3.16]
+K02437	['Skcos8956']	glycine cleavage system H protein
+K04712	['Skcos9055']	sphingolipid delta-4 desaturase [EC:1.14.-.-]
+K08493	['Skcos9069']	vesicle transport through interaction with t-SNAREs 1
+K03142	['Skcos908']	transcription initiation factor TFIIH subunit 2
+K08516	['Skcos9095']	synaptobrevin homolog YKT6
+K01529	['Skcos9112']	Enzymes [BR:ko01000]&nbsp;3. Hydrolases&nbsp;&nbsp;3.6&nbsp;&nbsp;Acting on acid anhydrides&nbsp;&nbsp;&nbsp;3.6.1&nbsp;&nbsp;In phosphorus-containing anhydrides&nbsp;&nbsp;&nbsp;&nbsp;3.6.1.-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K01529&nbsp;&nbsp;E3.6.1.-
+K01892	['Skcos9129']	histidyl-tRNA synthetase [EC:6.1.1.21]
+K06911	['Skcos9148']	COG:&nbsp;COG1741
+K11843	['Skcos9225']	ubiquitin carboxyl-terminal hydrolase 14 [EC:3.4.19.12]
+K00850	['Skcos9256']	6-phosphofructokinase 1 [EC:2.7.1.11]
+K00872	['Skcos9276']	homoserine kinase [EC:2.7.1.39]
+K00855	['Skcos9286']	phosphoribulokinase [EC:2.7.1.19]
+K07098	['Skcos9303']	COG:&nbsp;COG1408
+K10418	['Skcos9312']	dynein light chain LC8-type
+K14788	['Skcos9408']	ribosome biogenesis protein ENP2
+K13412	['Skcos9443']	calcium-dependent protein kinase [EC:2.7.11.1]
+K00235	['Skcos9462']	succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1]
+K14640	['Skcos9549']	solute carrier family 20 (sodium-dependent phosphate transporter)
+K00164	['Skcos9558']	2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]
+K07243	['Skcos957']	high-affinity iron transporter
+K12861	['Skcos9650']	pre-mRNA-splicing factor SPF27
+K02293	['Skcos968']	15-cis-phytoene desaturase [EC:1.3.5.5]
+K02551	['Skcos9732']	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [EC:2.2.1.9]
+K10599	['Skcos9758']	pre-mRNA-processing factor 19 [EC:6.3.2.19]
+K10597	['Skcos9826']	ubiquitin conjugation factor E4 B [EC:6.3.2.19]
+K02636	['Skcos9835']	cytochrome b6-f complex iron-sulfur subunit [EC:1.10.9.1]
+K11654	['Skcos9844']	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5 [EC:3.6.4.-]
+K07937	['Skcos9877']	ADP-ribosylation factor 1
+K05293	['Skcos9889']	phosphatidylinositol glycan, class U
+K03301	['Skcos9924']	ATP:ADP antiporter, AAA family
+K00794	['Skcos9961']	6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]
+K05546	['Skcos9975']	alpha 1,3-glucosidase [EC:3.2.1.84]
+K04532	['Skcos9981']	amyloid beta precursor protein binding protein 1

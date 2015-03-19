@@ -1,0 +1,29 @@
+
+#Today we are going to be learning about for loops in unix shell. This is going to be a skill that is 1) super easy to learn and will REALLY improve your workflow by
+  
+ for file in apple.txt grapefruit.txt 
+
+> 
+
+Notice that the normal prompt 
+
+The shell prompt changes from $ to > and back again as we were typing in our loop. The second prompt, >, is different to remind us that we haven't finished typing a complete command yet.
+
+
+
+#Alright, so in the last lesson we worked on defining and modifying variables in the shell
+
+#So, for example, we can define the variable: 
+santa=HOHOHO Merry Christmas
+
+#Do you recall how to call back the variable we just defined? 
+echo $santa
+
+#We also learned a few tricks to modify variables in the shell using regular expressions
+
+elf=${santa#HOHOHO}
+
+#Replace all the characters
+elf=${santa//HO/HE}
+
+

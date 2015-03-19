@@ -1,0 +1,59 @@
+KEGG_ID	S1	S2	S3	S4	S5	A	B	C	D	E
+Sterol biosynthesis	0	4	0	0	0	0	0	0	3	2
+Glycosaminoglycan metabolism	3	7	4	0	2	1	1	1	3	1
+Cofactor and vitamin biosynthesis	212	358	1325	6044	1804	317	277	263	310	255
+Purine metabolism	0	1	0	0	0	0	0	0	0	0
+Fatty acid metabolism	0	1	0	0	0	0	2	1	1	1
+Spliceosome	142	191	171	226	138	368	163	156	387	204
+Phosphate and amino acid transport system	614	979	837	950	598	1566	809	765	1605	948
+Ribosome	8	17	24	3	6	7	13	11	6	17
+Glycan metabolism	2	17	3	0	2	3	6	5	6	1
+Phenylpropanoid and flavonoid biosynthesis	0	2	2	0	0	0	0	0	1	1
+Unknown	871860	823742	817151	807957	855259	702108	832884	840216	714315	822871
+Aromatics degradation	73	112	430	2007	588	101	80	75	101	77
+Polyamine biosynthesis	0	4	4	1	1	0	1	1	1	2
+Phosphotransferase system (PTS)	1265	2403	2639	6656	1996	845	523	545	1079	448
+Other terpenoid biosynthesis	0	1	0	0	0	0	0	0	0	0
+Methane metabolism	8	25	14	17	8	6	5	4	10	4
+Carbon fixation	1981	3760	3620	7707	2274	1212	676	716	1595	569
+ABC-2 type and other transport systems	241	482	479	453	491	494	405	461	574	472
+DNA polymerase	0	0	0	0	0	0	0	0	0	0
+Replication system	3	6	8	1	1	2	4	5	1	4
+Other carbohydrate metabolism	131	435	661	2081	664	249	327	291	189	286
+Two-component regulatory system	1491	2383	2316	2305	1792	4053	2162	2130	3559	2075
+Proteasome	7	25	15	20	9	6	5	2	12	3
+Pyrimidine metabolism	1	1	0	0	1	0	0	0	0	1
+Nucleotide sugar	0	0	0	0	0	0	0	0	0	0
+Branched-chain amino acid metabolism	3	4	2	1	2	1	0	2	2	1
+Nitrogen metabolism	2566	3213	3290	3889	2559	7378	3105	2976	6400	2959
+Aromatic amino acid metabolism	7	23	18	12	19	7	11	15	17	15
+Bacterial secretion system	3	8	6	0	2	3	4	2	5	0
+Saccharide and polyol transport system	54	178	162	111	180	69	132	160	107	139
+Serine and threonine metabolism	0	1	1	0	1	0	0	0	1	0
+Sulfur metabolism	3	13	6	0	2	2	5	4	2	2
+Metabolic capacity	7	45	20	10	18	10	26	26	14	15
+Drug resistance	2	1	1	0	1	1	0	0	2	0
+Arginine and proline metabolism	0	1	0	0	0	0	0	0	0	0
+Aminoacyl tRNA	0	1	1	1	2	0	1	1	0	1
+Sugar metabolism	0	0	0	0	0	0	0	0	1	0
+ATP synthesis	1287	1640	1655	1946	1284	3696	1565	1500	3208	1481
+Terpenoid backbone biosynthesis	0	0	1	0	0	1	0	0	1	0
+Lipopolysaccharide metabolism	0	5	1	0	0	1	3	2	2	1
+Central carbohydrate metabolism	37	125	87	29	30	51	88	77	36	71
+Peptide and nickel transport system	147	190	175	225	137	367	161	155	385	203
+Carbohydrate metabolism	47	143	152	111	174	62	119	151	92	133
+Histidine metabolism	0	0	0	0	0	0	0	0	0	0
+Metallic cation, iron-siderophore and vitamin B12 transport system	51	145	159	112	176	64	121	151	97	133
+Other amino acid metabolism	0	0	0	0	0	0	0	0	0	0
+Photosynthesis	4	10	2	0	1	1	5	4	1	1
+Repair system	1	1	0	0	0	0	0	0	1	0
+RNA processing	96	61	336	130	241	136	192	169	297	219
+Lipid metabolism	1	2	0	1	0	2	2	1	5	0
+Mineral and organic ion transport system	11	8	6	2	2	2	0	1	5	4
+Protein processing	17	72	51	36	49	21	38	58	37	42
+Alkaloid and other secondary metabolite biosynthesis	0	0	0	0	0	1	0	0	1	0
+Lysine metabolism	5129	6419	6575	7772	5110	14754	6202	5945	12798	5910
+Cysteine and methionine metabolism	1284	1607	1645	1943	1278	3689	1551	1487	3202	1477
+Ubiquitin system	93	324	222	183	255	157	238	284	157	261
+RNA polymerase	4	0	2	0	0	1	0	0	2	0
+Pathogenicity	1	7	2	2	1	0	1	1	0	0

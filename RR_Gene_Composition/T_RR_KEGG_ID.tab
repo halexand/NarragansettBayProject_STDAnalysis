@@ -1,0 +1,90 @@
+	KEGG	Definition
+K06972	['Throt10088']	COG:&nbsp;COG1026
+K11684	['Throt10187']	bromodomain-containing factor 1
+K02712	['Throt10204']	photosystem II PsbK protein
+K08908	['Throt10358']	light-harvesting complex I chlorophyll a/b binding protein 2
+K02112	['Throt1042']	F-type H+-transporting ATPase subunit beta [EC:3.6.3.14]
+K00855	['Throt1077']	phosphoribulokinase [EC:2.7.1.19]
+K13525	['Throt1121']	transitional endoplasmic reticulum ATPase
+K01586	['Throt1127']	diaminopimelate decarboxylase [EC:4.1.1.20]
+K00670	['Throt11297']	peptide alpha-N-acetyltransferase [EC:2.3.1.88]
+K03671	['Throt11377']	thioredoxin 1
+K08568	['Throt1177']	cathepsin X [EC:3.4.18.1]
+K02366	['Throt12404']	glucuronyl/N-acetylglucosaminyl transferase EXT1 [EC:2.4.1.2242.4.1.225]
+K06669	['Throt12632']	structural maintenance of chromosome 3 (chondroitin sulfate proteoglycan 6)
+K06693	['Throt12652']	26S proteasome non-ATPase regulatory subunit 9
+K01269	['Throt13123']	aminopeptidase [EC:3.4.11.-]
+K14769	['Throt13259']	U3 small nucleolar RNA-associated protein 11
+K15687	['Throt13339', 'Throt13340']	E3 ubiquitin-protein ligase makorin [EC:6.3.2.19]
+K01148	['Throt13512']	poly(A)-specific ribonuclease [EC:3.1.13.4]
+K02639	['Throt138', 'Throt363']	ferredoxin
+K02183	['Throt14439', 'Throt17627']	calmodulin
+K02866	['Throt14530']	large subunit ribosomal protein L10e
+K14347	['Throt14636']	solute carrier family 10 (sodium/bile acid cotransporter), member 7
+K05595	['Throt14860']	multiple antibiotic resistance protein
+K17616	['Throt14956']	CTD small phosphatase-like protein 2 [EC:3.1.3.-]
+K07466	['Throt15469']	replication factor A1
+K02977	['Throt15493']	small subunit ribosomal protein S27Ae
+K08342	['Throt16114']	cysteine protease ATG4 [EC:3.4.22.-]
+K00134	['Throt169']	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+K01628	['Throt1706']	L-fuculose-phosphate aldolase [EC:4.1.2.17]
+K02551	['Throt17120']	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [EC:2.2.1.9]
+K07375	['Throt17253', 'Throt17254', 'Throt4898', 'Throt9054']	tubulin beta
+K15216	['Throt17301']	RNA polymerase I-specific transcription initiation factor RRN3
+K01814	['Throt18178']	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]
+K16056	['Throt18345']	calcium release-activated calcium channel protein 1
+K14554	['Throt19196']	U3 small nucleolar RNA-associated protein 21
+K12418	['Throt1987']	fatty acid desaturase (delta-4 desaturase) [EC:1.14.19.-]
+K14319	['Throt2013']	Ran GTPase-activating protein 1
+K02635	['Throt2146']	cytochrome b6
+K05658	['Throt2177']	ATP-binding cassette, subfamily B (MDR/TAP), member 1 [EC:3.6.3.44]
+K03969	['Throt2274']	phage shock protein A
+K00672	['Throt228']	formylmethanofuran--tetrahydromethanopterin N-formyltransferase [EC:2.3.1.101]
+K00387	['Throt2297']	sulfite oxidase [EC:1.8.3.1]
+K01694	['Throt2355']	tryptophan synthase [EC:4.2.1.20]
+K02720	['Throt2661']	photosystem II cytochrome c550
+K03040	['Throt277']	DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+K02036	['Throt2971']	phosphate transport system ATP-binding protein [EC:3.6.3.27]
+K10960	['Throt302']	geranylgeranyl reductase [EC:1.3.1.83]
+K15371	['Throt3192']	glutamate dehydrogenase [EC:1.4.1.2]
+K02636	['Throt324']	cytochrome b6-f complex iron-sulfur subunit [EC:1.10.9.1]
+K09487	['Throt330']	heat shock protein 90kDa beta
+K17609	['Throt3303']	nucleoredoxin [EC:1.8.1.8]
+K03231	['Throt3325']	elongation factor 1-alpha
+K08065	['Throt3411']	nuclear transcription Y subunit beta
+K03544	['Throt3481']	ATP-dependent Clp protease ATP-binding subunit ClpX
+K01115	['Throt3537']	phospholipase D1/2 [EC:3.1.4.4]
+K01601	['Throt360']	ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]
+K02705	['Throt380']	photosystem II CP43 chlorophyll apoprotein
+K00658	['Throt4028']	2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]
+K03016	['Throt4126']	DNA-directed RNA polymerases I, II, and III subunit RPABC3
+K10610	['Throt4146']	DNA damage-binding protein 1
+K12879	['Throt4235']	THO complex subunit 2
+K02355	['Throt439']	elongation factor G
+K03665	['Throt44']	GTP-binding protein HflX
+K01251	['Throt478']	adenosylhomocysteinase [EC:3.3.1.1]
+K10573	['Throt4887']	ubiquitin-conjugating enzyme E2 A [EC:6.3.2.19]
+K01711	['Throt4925']	GDPmannose 4,6-dehydratase [EC:4.2.1.47]
+K00939	['Throt4968', 'Throt9995']	adenylate kinase [EC:2.7.4.3]
+K13125	['Throt5301']	nitric oxide synthase-interacting protein
+K01001	['Throt54', 'Throt9675']	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]
+K12194	['Throt5475']	charged multivesicular body protein 4
+K02358	['Throt557']	elongation factor Tu
+K14683	['Throt579']	solute carrier family 34 (sodium-dependent phosphate cotransporter)
+K02690	['Throt591']	photosystem I P700 chlorophyll a apoprotein A2
+K05692	['Throt594', 'Throt595']	actin beta/gamma 1
+K13812	['Throt631']	bifunctional enzyme Fae/Hps [EC:4.2.1.1474.1.2.43]
+K01835	['Throt6601']	phosphoglucomutase [EC:5.4.2.2]
+K06672	['Throt6777']	cohesin loading factor subunit SCC2
+K01893	['Throt6954']	asparaginyl-tRNA synthetase [EC:6.1.1.22]
+K07204	['Throt7269']	regulatory associated protein of mTOR
+K07374	['Throt7363']	tubulin alpha
+K00472	['Throt7397']	prolyl 4-hydroxylase [EC:1.14.11.2]
+K01280	['Throt7475']	tripeptidyl-peptidase II [EC:3.4.14.10]
+K01183	['Throt7774']	chitinase [EC:3.2.1.14]
+K02703	['Throt81']	photosystem II P680 reaction center D1 protein
+K02111	['Throt904']	F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14]
+K02704	['Throt911']	photosystem II CP47 chlorophyll apoprotein
+K05863	['Throt9348']	solute carrier family 25 (mitochondrial adenine nucleotide translocator), member 4/5/6/31
+K02930	['Throt951', 'Throt952']	large subunit ribosomal protein L4e
+K14721	['Throt9825']	DNA-directed RNA polymerase III subunit RPC5

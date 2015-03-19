@@ -1,0 +1,305 @@
+write.csv(P6S8_2, file="/Users/harrietalexander/GraduateResearch/CoLabs/Louie/Metatranscriptome/P6S8_2.csv")
+write.csv(P7S8_2, file="/Users/harrietalexander/GraduateResearch/CoLabs/Louie/Metatranscriptome/P7S8_2.csv")
+lls
+ls
+ls()
+P1S2_2
+P3S4_2
+ls()
+P1S2_2
+P2S8_2
+source("./asc_0.1.4.R")#
+load("exampleData.rda")#
+### The example data set has two long vectors, X1 and X2, each of 20,000 genes#
+### X1 and X2 must of the same length and should represent genes in the same order#
+### To estimate the posterior mean of log fold change #
+D <- DGE(X1,X2)#
+### This function returns the estimated log fold change, as well as the hyperparamters#
+####
+### identify a subset of genes of interest.#
+### For example, those with log fold change greater than 0.5#
+k1=which(abs(D$delta[,1])>.5)#
+D$delta[k1] #
+### obtain estimated probability that the fold chnage is greater than#
+### a cut off. Here the example is 2 (notice this is fold change, not fold change).#
+postp1=PostProb(D$delta[k1,],X1[k1],X2[k1],D$pars,d0=2)#
+round(postp1,3)#
+###ANother example#
+### find the top 10 genes with the greatest estimated fold change#
+k2=order(-abs(D$delta[,1]))[1:10]#
+### estimate posterior probability that the fold change is more than 50%#
+postp2=PostProb(D$delta[k2,],X1[k2],X2[k2],D$pars,d0=1.5)#
+round(postp2,3)
+ls
+load("/Users/harrietalexander/bin/ASC/exampleData.rda")
+The example data set has two long vectors, X1 and X2, each of 20,000 genes#
+### X1 and X2 must of the same length and should represent genes in the same order#
+### To estimate the posterior mean of log fold change #
+D <- DGE(X1,X2)#
+### This function returns the estimated log fold change, as well as the hyperparamters#
+####
+### identify a subset of genes of interest.#
+### For example, those with log fold change greater than 0.5#
+k1=which(abs(D$delta[,1])>.5)#
+D$delta[k1] #
+### obtain estimated probability that the fold chnage is greater than#
+### a cut off. Here the example is 2 (notice this is fold change, not fold change).#
+postp1=PostProb(D$delta[k1,],X1[k1],X2[k1],D$pars,d0=2)#
+round(postp1,3)#
+###ANother example#
+### find the top 10 genes with the greatest estimated fold change#
+k2=order(-abs(D$delta[,1]))[1:10]#
+### estimate posterior probability that the fold change is more than 50%#
+postp2=PostProb(D$delta[k2,],X1[k2],X2[k2],D$pars,d0=1.5)#
+round(postp2,3)
+D<-DGE(X1,X2)
+D$pars$N1
+D$pars$rate
+D$pars$lambda0
+clear
+clc
+clear()
+clear
+setwd('/Users/harrietalexander/Dropbox/NB_141020/Stats')
+pwd
+wd
+cwd
+read.delim(file="Skcos_L1", header=TRUE)
+tmp=list.files(pattern="*_L*")
+tmp
+myfiles = lapply(temp, read.delim)
+myfiles = lapply(tmp, read.delim(header=TRUE))
+myfiles = lapply(tmp, read.delim(file=tmp, header=TRUE))
+for (i in 1:length(tmp)) assign(tmp[i], read.csv(tmp[i]))
+ls
+tmp
+Skcos_L1
+for (i in 1:length(tmp)) assign(tmp[i], read.delim(tmp[i], header=TRUE))
+ls
+ls()
+Skcos_L1
+save(Skcos_L1, Skcos_L2, Skcos_L3, Skcos_L4, Throt_L1, Throt_L2, Throt_L3, Throt_L4, file="SkcosThort_Quads.rda")
+anova.glm(object=)
+> y1 = c(18.2, 20.1, 17.6, 16.8, 18.8, 19.7, 19.1)
+y1 = c(18.2, 20.1, 17.6, 16.8, 18.8, 19.7, 19.1)
+y1
+Throt_L1$S1
+is.vector(y1)
+is.vector(Throt_L1$S1)
+anova.glm(object=Throt_L1)
+anova.glm(object=Throt_L1, test="lrt")
+Throt_L1
+Throt_L2
+Throt_L3
+Throt_L4
+Skcos_L4
+Skcos_L4$S1
+c(Skcos_L1)
+test<-c(Skcos_L1)
+test
+as.matrix(Skcos_L1)
+as.vector(as.matrix(Skcos_L1))
+Skcos<-as.vector(as.matrix(Skcos_L1))
+Skcos
+rep(6,25)
+n<-rep(6,25)
+group(1:6, 25)
+rep(1:6, n)
+n<-rep(6,25)
+rep(1:6, n)
+n=rep(6,25)
+rep(1:6, n)
+n = rep(7, 3)
+m
+n
+n = rep(7, 3)
+rep(1:6, n)
+group = rep(1:3, n)
+group
+n=rep(6,25)
+rep(1:6, n)
+numSamples <-25
+Skcos_L1$time=1:25
+Skcos_L1$time
+Skcos_L1
+measurements <- c(Skcos_L1$S1,Skcos_L1$S2,Skcos_L1$S3,Skcos_L1$S4,Skcos_L1$S5,Skcos_L1$C)
+groups <- do.call(c, lapply(1:6, function(i) rep(i, numSamples)))
+groups
+aov(groups ~ measurements)
+anova.glm(groups ~ measurements)
+anova.glm(groups)
+datafilename="http://personality-project.org/R/datasets/R.appendix1.data"
+data.ex1=read.table(datafilename,header=T)   #read the data into a table
+data.ex1=read.table(datafilename,header=T)   #read the data into a table
+glm(groups ~ measurements)
+aov(groups ~ measurements)
+fit<-glm(groups ~ measurements)
+fit<-aov(groups ~ measurements)
+layout(matrix(c(1,2,3,4),2,2))
+plot(fit)
+TukeyHSD(fit)
+read.table(file=)
+read.table(file="Skcos_All", header=TRUE)
+header$Quad
+Skcos_All<-read.table(file="Skcos_All", header=TRUE)
+Throt_All<-read.table(file="Throt_All", header=TRUE)
+Throt_All
+aov(Percent ~ Quad * Sample, data=Skcos_All)
+fit<-aov(Percent ~ Quad * Sample, data=Skcos_All)
+replications(Percent ~ Quad * Sample, data=Skcos_All)
+replications(Percent ~ Sample, data=Skcos_All)
+fit<-aov(Percent ~ Quad * Sample, data=Skcos_All)
+fit
+anova(fit)
+TukeyHSD(fit)
+a<-TukeyHSD(fit)
+plot(a)
+fit<-aov(Percent ~ Sample, data=Skcos_All)
+a<-TukeyHSD(fit)
+plot(a)
+HSD.test
+library(agricolae)
+library(agricolae)
+TukeyHSD(a)
+TukeyHSD(a)
+fit<-aov(Percent ~ Sample, data=Skcos_All)
+TukeyHSD(fit)
+library(agricolae)
+library("/Users/harrietalexander/bin/agricolae/R/agricolae")
+install.packages("agricolae", lib="/Users/harrietalexander/bin/agricolae/")
+library(agricolae)
+install.packages("agricolae")
+library(agricolae)
+HSD.test(a)
+HSD.test(a, 'Skcos_All')
+HSD.test(a, 'Skcos_All$Sample')
+HSD.test(a, 'Skcos_All')
+HSD.test(a)
+HSD.test(a, 'Skcos_All$Sample')
+HSD.test(a, 'Sample')
+data(sweetpotato)
+model<-aov(yield~virus, data=sweetpotato)
+fit<-aov(Percent ~ Sample, data=Skcos_All)
+HSD.test(fit, "Sample")
+HSD.test(fit, "Sample", group=TRUE, )
+out<-HSD.test(fit, "Sample", group=TRUE)
+out
+Skcos_All$Quad==L1
+Skcos_All$Quad=='L1'
+Skcos_All(Skcos_All$Quad=='L1')
+Skcos_All[1]
+Skcos_All[,1]
+Skcos_All[match("L1")]
+Skcos_All["L1"]
+Skcos_All["L1",]
+Skcos_All[,"L1"]
+Skcos_All[Skcos_All$Sample == "L1"]
+Skcos_All[Skcos_All$Sample == "L1"]
+Skcos_L1<-Skcos_All[Skcos_All$Sample == "L1"]
+Skcos_L1
+subset(Skcos_All, Sample="L1")
+subset(Skcos_All, Quad="L1")
+subset(Skcos_All, Quad=="L1")
+Skcos_L1<-subset(Skcos_All, Quad=="L1")
+fit<-aov(Percent ~ Sample, data=Skcos_L1)
+out<-HSD.test(fit, "Sample", group=TRUE)
+out
+Skcos_L2<-subset(Skcos_All, Quad=="L2")
+Skcos_L3<-subset(Skcos_All, Quad=="L3")
+Skcos_L4<-subset(Skcos_All, Quad=="L4")
+Skcos_L1
+Throt_L4<-subset(Throt_All, Quad=="L4")
+Throt_L3<-subset(Throt_All, Quad=="L3")
+Throt_L2<-subset(Throt_All, Quad=="L2")
+Throt_L1<-subset(Throt_All, Quad=="L1")
+Throt_L1
+history
+history()
+save(Throt_All, Throt_L1, Throt_L2, Throt_L3, Throt_L4, Skcos_All, Skcos_L1, Skcos_L2, Skcos_L3, Skcos_L4, file="All_Data.rda")
+less out
+out
+plot(out)
+out
+fit2<-aov(Percent ~ Sample, data=Throt_L1)
+out2<-HSD.test(fit2, "Sample", group=TRUE)
+out2
+Skcos_L1
+Skcos_L2
+Skcos_L3
+Skcos_L2
+fit2<-aov(Percent ~ Sample, data=Throt_L2)
+out2<-HSD.test(fit2, "Sample", group=TRUE)
+T2<-aov(Percent ~ Sample, data=Throt_L2)
+T3<-aov(Percent ~ Sample, data=Throt_L3)
+T4<-aov(Percent ~ Sample, data=Throt_L4)
+T1<-aov(Percent ~ Sample, data=Throt_L1)
+S1<-aov(Percent ~ Sample, data=Skcos_L1)
+S2<-aov(Percent ~ Sample, data=Skcos_L2)
+S3<-aov(Percent ~ Sample, data=Skcos_L3)
+S4<-aov(Percent ~ Sample, data=Skcos_L4)
+out<-HSD.test(T2, "Sample", group=TRUE)
+out2<-HSD.test(S2, "Sample", group=TRUE)
+T2
+out2
+out3
+out
+ls
+ls()
+save(Throt_All, Throt_L1, Throt_L2, Throt_L3, Throt_L4, Skcos_All, Skcos_L1, Skcos_L2, Skcos_L3, Skcos_L4, file="All_Data.rda")
+read.delim(file="All_L2", header=TRUE)
+read.delim(file="All_L2", header=TRUE)
+All_L2<-read.delim(file="All_L2", header=TRUE)
+All_L3<-read.delim(file="All_L3", header=TRUE)
+All_L4<-read.delim(file="All_L4", header=TRUE)
+All_L1<-read.delim(file="All_L1", header=TRUE)
+AS1<-aov(Percent ~ Sample, data=All_L1)
+AS2<-aov(Percent ~ Sample, data=All_L2)
+AS3<-aov(Percent ~ Sample, data=All_L3)
+AS4<-aov(Percent ~ Sample, data=All_L4)
+HS1<-HSD.test(AS1, "Sample", group=TRUE)
+HS2<-HSD.test(AS2, "Sample", group=TRUE)
+HS3<-HSD.test(AS3, "Sample", group=TRUE)
+HS4<-HSD.test(AS4, "Sample", group=TRUE)
+HS4
+All_L2<-read.delim(file="All_L2", header=TRUE)
+All_L3<-read.delim(file="All_L3", header=TRUE)
+All_L4<-read.delim(file="All_L4", header=TRUE)
+All_L1<-read.delim(file="All_L1", header=TRUE)
+AS1<-aov(Percent ~ Sample, data=All_L1)
+HS4<-HSD.test(AS4, "Sample", group=TRUE)
+HS4
+All_L2<-read.delim(file="All_L2", header=TRUE)#
+All_L3<-read.delim(file="All_L3", header=TRUE)#
+All_L4<-read.delim(file="All_L4", header=TRUE)#
+All_L1<-read.delim(file="All_L1", header=TRUE)#
+#
+#Calculate the aov for ANOVA/TUKEY#
+AS1<-aov(Percent ~ Sample, data=All_L1)#
+AS2<-aov(Percent ~ Sample, data=All_L2)#
+AS3<-aov(Percent ~ Sample, data=All_L3)#
+AS4<-aov(Percent ~ Sample, data=All_L4)#
+#
+#Calculate TUKEY HSD#
+HS1<-HSD.test(AS1, "Sample", group=TRUE)#
+HS2<-HSD.test(AS2, "Sample", group=TRUE)#
+HS3<-HSD.test(AS3, "Sample", group=TRUE)#
+HS4<-HSD.test(AS4, "Sample", group=TRUE)
+HS4
+All_L1
+load("Run_stats_All.R")
+source("Run_stats_All.R")
+HS1
+HS2
+All_L2
+HS3
+All_L3
+All_L1
+All_L1$Percent>.7
+All_L2$Percent>.7
+All_L3$Percent>.7
+All_L4$Percent>.7
+All_L4
+HS2
+HS4
+HS1
+clear

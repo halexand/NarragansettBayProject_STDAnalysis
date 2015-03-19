@@ -1,0 +1,19 @@
+A<b>Metabolism</b>
+B
+B  <b>Overview</b>
+C    01200 Carbon metabolism [PATH:ko01200]
+D      K00844  HK; hexokinase [EC:2.7.1.1]
+D      K12407  GCK; glucokinase [EC:2.7.1.2]
+D      K00845  glk; glucokinase [EC:2.7.1.2]
+D      K00886  ppgK; polyphosphate glucokinase [EC:2.7.1.63]
+D      K08074  ADPGK; ADP-dependent glucokinase [EC:2.7.1.147]
+D      K00918  pfkC; ADP-dependent phosphofructokinase/glucokinase [EC:2.7.1.146 2.7.1.147]
+D      K01810  GPI, pgi; glucose-6-phosphate isomerase [EC:5.3.1.9]
+D      K06859  pgi1; glucose-6-phosphate isomerase, archaeal [EC:5.3.1.9]
+D      K15916  pgi-pmi; glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8]
+D      K00850  pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]
+D      K16370  pfkB; 6-phosphofructokinase 2 [EC:2.7.1.11]
+D      K01623  ALDO; fructose-bisphosphate aldolase, class I [EC:4.1.2.13]
+D      K01624  FBA, fbaA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+D      K11645  fbaB; fructose-bisphosphate aldolase, class I [EC:4.1.2.13]
+D      K16305  K16305; fructose-bisphosphate aldolase / 6-deoxy-5-ketofructose 1-phosphate synthase [EC:4.1.2.13 2.2.1.11]

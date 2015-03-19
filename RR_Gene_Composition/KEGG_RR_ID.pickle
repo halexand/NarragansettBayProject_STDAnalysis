@@ -1,0 +1,6117 @@
+(dp0
+S'S'
+p1
+ccopy_reg
+_reconstructor
+p2
+(cpandas.core.frame
+DataFrame
+p3
+c__builtin__
+object
+p4
+Ntp5
+Rp6
+g2
+(cpandas.core.internals
+BlockManager
+p7
+g4
+Ntp8
+Rp9
+((lp10
+cnumpy.core.multiarray
+_reconstruct
+p11
+(cpandas.core.index
+Index
+p12
+(I0
+tp13
+S'b'
+p14
+tp15
+Rp16
+((I1
+(I2
+tp17
+cnumpy
+dtype
+p18
+(S'O8'
+p19
+I0
+I1
+tp20
+Rp21
+(I3
+S'|'
+p22
+NNNI-1
+I-1
+I63
+tp23
+bI00
+(lp24
+S'KEGG'
+p25
+aS'Definition'
+p26
+atp27
+(Ntp28
+tp29
+bag11
+(g12
+(I0
+tp30
+g14
+tp31
+Rp32
+((I1
+(I683
+tp33
+g21
+I00
+(lp34
+S'K12185'
+p35
+aS'K13963'
+p36
+aS'K03144'
+p37
+aS'K07359'
+p38
+aS'K00616'
+p39
+aS'K04648'
+p40
+aS'K17430'
+p41
+aS'K02357'
+p42
+aS'K17943'
+p43
+aS'K17960'
+p44
+aS'K00685'
+p45
+aS'K03083'
+p46
+aS'K12385'
+p47
+aS'K11320'
+p48
+aS'K01120'
+p49
+aS'K13989'
+p50
+aS'K01873'
+p51
+aS'K02726'
+p52
+aS'K05658'
+p53
+aS'K00036'
+p54
+aS'K00454'
+p55
+aS'K03260'
+p56
+aS'K15900'
+p57
+aS'K03627'
+p58
+aS'K03939'
+p59
+aS'K01866'
+p60
+aS'K15542'
+p61
+aS'K00488'
+p62
+aS'K01057'
+p63
+aS'K17302'
+p64
+aS'K00262'
+p65
+aS'K01649'
+p66
+aS'K10686'
+p67
+aS'K00213'
+p68
+aS'K09647'
+p69
+aS'K15340'
+p70
+aS'K11584'
+p71
+aS'K00910'
+p72
+aS'K00889'
+p73
+aS'K07304'
+p74
+aS'K11599'
+p75
+aS'K07025'
+p76
+aS'K14326'
+p77
+aS'K10591'
+p78
+aS'K08874'
+p79
+aS'K08592'
+p80
+aS'K09969'
+p81
+aS'K13348'
+p82
+aS'K01414'
+p83
+aS'K00049'
+p84
+aS'K03106'
+p85
+aS'K01858'
+p86
+aS'K01876'
+p87
+aS'K06709'
+p88
+aS'K08142'
+p89
+aS'K02355'
+p90
+aS'K12849'
+p91
+aS'K08246'
+p92
+aS'K13525'
+p93
+aS'K14950'
+p94
+aS'K15296'
+p95
+aS'K00726'
+p96
+aS'K11583'
+p97
+aS'K12811'
+p98
+aS'K12571'
+p99
+aS'K06638'
+p100
+aS'K00281'
+p101
+aS'K00383'
+p102
+aS'K01872'
+p103
+aS'K01183'
+p104
+aS'K06672'
+p105
+aS'K01948'
+p106
+aS'K13448'
+p107
+aS'K05955'
+p108
+aS'K07204'
+p109
+aS'K00630'
+p110
+aS'K06867'
+p111
+aS'K01062'
+p112
+aS'K01897'
+p113
+aS'K11805'
+p114
+aS'K09611'
+p115
+aS'K08333'
+p116
+aS'K00761'
+p117
+aS'K12397'
+p118
+aS'K05857'
+p119
+aS'K14376'
+p120
+aS'K12854'
+p121
+aS'K08678'
+p122
+aS'K00763'
+p123
+aS'K17267'
+p124
+aS'K03010'
+p125
+aS'K07198'
+p126
+aS'K15196'
+p127
+aS'K05283'
+p128
+aS'K07910'
+p129
+aS'K00814'
+p130
+aS'K00752'
+p131
+aS'K08860'
+p132
+aS'K10839'
+p133
+aS'K17506'
+p134
+aS'K03018'
+p135
+aS'K01768'
+p136
+aS'K12603'
+p137
+aS'K01809'
+p138
+aS'K14574'
+p139
+aS'K04488'
+p140
+aS'K14572'
+p141
+aS'K04523'
+p142
+aS'K09518'
+p143
+aS'K02575'
+p144
+aS'K00106'
+p145
+aS'K01256'
+p146
+aS'K13993'
+p147
+aS'K14306'
+p148
+aS'K01836'
+p149
+aS'K10529'
+p150
+aS'K11865'
+p151
+aS'K13789'
+p152
+aS'K06633'
+p153
+aS'K14401'
+p154
+aS'K12184'
+p155
+aS'K06634'
+p156
+aS'K12837'
+p157
+aS'K10580'
+p158
+aS'K07238'
+p159
+aS'K17262'
+p160
+aS'K06636'
+p161
+aS'K01870'
+p162
+aS'K00509'
+p163
+aS'K10085'
+p164
+aS'K00236'
+p165
+aS'K12492'
+p166
+aS'K01419'
+p167
+aS'K01953'
+p168
+aS'K00140'
+p169
+aS'K07112'
+p170
+aS'K11204'
+p171
+aS'K09420'
+p172
+aS'K01312'
+p173
+aS'K01724'
+p174
+aS'K12373'
+p175
+aS'K01490'
+p176
+aS'K01280'
+p177
+aS'K10903'
+p178
+aS'K00102'
+p179
+aS'K10251'
+p180
+aS'K01510'
+p181
+aS'K00294'
+p182
+aS'K03715'
+p183
+aS'K00799'
+p184
+aS'K01810'
+p185
+aS'K03953'
+p186
+aS'K10258'
+p187
+aS'K13539'
+p188
+aS'K00327'
+p189
+aS'K08903'
+p190
+aS'K01115'
+p191
+aS'K01754'
+p192
+aS'K16055'
+p193
+aS'K01868'
+p194
+aS'K01697'
+p195
+aS'K01875'
+p196
+aS'K00901'
+p197
+aS'K10413'
+p198
+aS'K10691'
+p199
+aS'K03125'
+p200
+aS'K03178'
+p201
+aS'K00605'
+p202
+aS'K17686'
+p203
+aS'K03696'
+p204
+aS'K14006'
+p205
+aS'K01845'
+p206
+aS'K04615'
+p207
+aS'K03036'
+p208
+aS'K09523'
+p209
+aS'K12605'
+p210
+aS'K07555'
+p211
+aS'K08823'
+p212
+aS'K12304'
+p213
+aS'K01802'
+p214
+aS'K10357'
+p215
+aS'K00942'
+p216
+aS'K00228'
+p217
+aS'K03564'
+p218
+aS'K09259'
+p219
+aS'K07376'
+p220
+aS'K01881'
+p221
+aS'K17086'
+p222
+aS'K14550'
+p223
+aS'K13207'
+p224
+aS'K03062'
+p225
+aS'K03527'
+p226
+aS'K11824'
+p227
+aS'K00816'
+p228
+aS'K08776'
+p229
+aS'K01469'
+p230
+aS'K01914'
+p231
+aS'K15276'
+p232
+aS'K01939'
+p233
+aS'K00417'
+p234
+aS'K07390'
+p235
+aS'K01358'
+p236
+aS'K03783'
+p237
+aS'K01784'
+p238
+aS'K03868'
+p239
+aS'K00264'
+p240
+aS'K12874'
+p241
+aS'K02938'
+p242
+aS'K04345'
+p243
+aS'K00710'
+p244
+aS'K00921'
+p245
+aS'K00464'
+p246
+aS'K00627'
+p247
+aS'K06207'
+p248
+aS'K08504'
+p249
+aS'K12183'
+p250
+aS'K10276'
+p251
+aS'K12850'
+p252
+aS'K00654'
+p253
+aS'K00323'
+p254
+aS'K01090'
+p255
+aS'K13094'
+p256
+aS'K12196'
+p257
+aS'K17609'
+p258
+aS'K09490'
+p259
+aS'K08675'
+p260
+aS'K08568'
+p261
+aS'K06013'
+p262
+aS'K09250'
+p263
+aS'K11840'
+p264
+aS'K01462'
+p265
+aS'K14721'
+p266
+aS'K09493'
+p267
+aS'K00390'
+p268
+aS'K17969'
+p269
+aS'K17263'
+p270
+aS'K03526'
+p271
+aS'K17500'
+p272
+aS'K12493'
+p273
+aS'K10589'
+p274
+aS'K03941'
+p275
+aS'K05316'
+p276
+aS'K11292'
+p277
+aS'K00297'
+p278
+aS'K06067'
+p279
+aS'K01535'
+p280
+aS'K00826'
+p281
+aS'K13024'
+p282
+aS'K08832'
+p283
+aS'K03283'
+p284
+aS'K13274'
+p285
+aS'K14209'
+p286
+aS'K10661'
+p287
+aS'K00517'
+p288
+aS'K07300'
+p289
+aS'K02154'
+p290
+aS'K06669'
+p291
+aS'K02377'
+p292
+aS'K13289'
+p293
+aS'K14411'
+p294
+aS'K07877'
+p295
+aS'K01365'
+p296
+aS'K09540'
+p297
+aS'K01807'
+p298
+aS'K03531'
+p299
+aS'K00548'
+p300
+aS'K04564'
+p301
+aS'K02604'
+p302
+aS'K00434'
+p303
+aS'K07004'
+p304
+aS'K10256'
+p305
+aS'K02137'
+p306
+aS'K10144'
+p307
+aS'K01008'
+p308
+aS'K15292'
+p309
+aS'K01101'
+p310
+aS'K13210'
+p311
+aS'K12191'
+p312
+aS'K03841'
+p313
+aS'K03671'
+p314
+aS'K15272'
+p315
+aS'K04487'
+p316
+aS'K01759'
+p317
+aS'K16344'
+p318
+aS'K09486'
+p319
+aS'K14682'
+p320
+aS'K01725'
+p321
+aS'K05665'
+p322
+aS'K12307'
+p323
+aS'K11295'
+p324
+aS'K17279'
+p325
+aS'K15033'
+p326
+aS'K11096'
+p327
+aS'K01354'
+p328
+aS'K17498'
+p329
+aS'K13535'
+p330
+aS'K03108'
+p331
+aS'K00384'
+p332
+aS'K12893'
+p333
+aS'K12856'
+p334
+aS'K03320'
+p335
+aS'K11839'
+p336
+aS'K03979'
+p337
+aS'K02087'
+p338
+aS'K07393'
+p339
+aS'K11857'
+p340
+aS'K15277'
+p341
+aS'K00472'
+p342
+aS'K03932'
+p343
+aS'K03405'
+p344
+aS'K14327'
+p345
+aS'K00789'
+p346
+aS'K15100'
+p347
+aS'K18170'
+p348
+aS'K11253'
+p349
+aS'K03029'
+p350
+aS'K00962'
+p351
+aS'K10704'
+p352
+aS'K03403'
+p353
+aS'K03661'
+p354
+aS'K11262'
+p355
+aS'K08341'
+p356
+aS'K01885'
+p357
+aS'K17491'
+p358
+aS'K11254'
+p359
+aS'K11137'
+p360
+aS'K06027'
+p361
+aS'K17339'
+p362
+aS'K08955'
+p363
+aS'K12847'
+p364
+aS'K09527'
+p365
+aS'K00820'
+p366
+aS'K12398'
+p367
+aS'K09489'
+p368
+aS'K07375'
+p369
+aS'K01738'
+p370
+aS'K03428'
+p371
+aS'K10583'
+p372
+aS'K14403'
+p373
+aS'K00020'
+p374
+aS'K09313'
+p375
+aS'K00344'
+p376
+aS'K01534'
+p377
+aS'K00432'
+p378
+aS'K09415'
+p379
+aS'K11064'
+p380
+aS'K12199'
+p381
+aS'K15177'
+p382
+aS'K03773'
+p383
+aS'K04575'
+p384
+aS'K17637'
+p385
+aS'K17900'
+p386
+aS'K01874'
+p387
+aS'K05236'
+p388
+aS'K03032'
+p389
+aS'K03885'
+p390
+aS'K15287'
+p391
+aS'K16302'
+p392
+aS'K10393'
+p393
+aS'K02267'
+p394
+aS'K01792'
+p395
+aS'K00928'
+p396
+aS'K16196'
+p397
+aS'K03037'
+p398
+aS'K01958'
+p399
+aS'K02492'
+p400
+aS'K00566'
+p401
+aS'K00589'
+p402
+aS'K07195'
+p403
+aS'K17087'
+p404
+aS'K13095'
+p405
+aS'K11886'
+p406
+aS'K01137'
+p407
+aS'K03686'
+p408
+aS'K12403'
+p409
+aS'K11308'
+p410
+aS'K02641'
+p411
+aS'K04498'
+p412
+aS'K01676'
+p413
+aS'K08907'
+p414
+aS'K01834'
+p415
+aS'K01890'
+p416
+aS'K12197'
+p417
+aS'K00234'
+p418
+aS'K03364'
+p419
+aS'K01255'
+p420
+aS'K01769'
+p421
+aS'K01379'
+p422
+aS'K01990'
+p423
+aS'K09578'
+p424
+aS'K02326'
+p425
+aS'K01262'
+p426
+aS'K00252'
+p427
+aS'K13144'
+p428
+aS'K02689'
+p429
+aS'K00951'
+p430
+aS'K12581'
+p431
+aS'K00286'
+p432
+aS'K13342'
+p433
+aS'K08876'
+p434
+aS'K17600'
+p435
+aS'K12169'
+p436
+aS'K06972'
+p437
+aS'K13337'
+p438
+aS'K05652'
+p439
+aS'K06889'
+p440
+aS'K00927'
+p441
+aS'K06158'
+p442
+aS'K01803'
+p443
+aS'K06639'
+p444
+aS'K16365'
+p445
+aS'K09925'
+p446
+aS'K03943'
+p447
+aS'K00972'
+p448
+aS'K08495'
+p449
+aS'K12392'
+p450
+aS'K01883'
+p451
+aS'K01303'
+p452
+aS'K01601'
+p453
+aS'K17917'
+p454
+aS'K00111'
+p455
+aS'K12818'
+p456
+aS'K15555'
+p457
+aS'K08262'
+p458
+aS'K12275'
+p459
+aS'K00914'
+p460
+aS'K14648'
+p461
+aS'K00615'
+p462
+aS'K03006'
+p463
+aS'K10536'
+p464
+aS'K00817'
+p465
+aS'K04554'
+p466
+aS'K12611'
+p467
+aS'K10706'
+p468
+aS'K08902'
+p469
+aS'K03544'
+p470
+aS'K02705'
+p471
+aS'K01889'
+p472
+aS'K07511'
+p473
+aS'K12812'
+p474
+aS'K03969'
+p475
+aS'K12813'
+p476
+aS'K03011'
+p477
+aS'K03921'
+p478
+aS'K03911'
+p479
+aS'K14007'
+p480
+aS'K03940'
+p481
+aS'K03676'
+p482
+aS'K17255'
+p483
+aS'K00658'
+p484
+aS'K14683'
+p485
+aS'K05917'
+p486
+aS'K08515'
+p487
+aS'K12393'
+p488
+aS'K03687'
+p489
+aS'K01899'
+p490
+aS'K00819'
+p491
+aS'K14298'
+p492
+aS'K06063'
+p493
+aS'K08794'
+p494
+aS'K02929'
+p495
+aS'K03667'
+p496
+aS'K12524'
+p497
+aS'K01783'
+p498
+aS'K09966'
+p499
+aS'K02155'
+p500
+aS'K02728'
+p501
+aS'K06942'
+p502
+aS'K11717'
+p503
+aS'K12618'
+p504
+aS'K01734'
+p505
+aS'K11644'
+p506
+aS'K01507'
+p507
+aS'K01230'
+p508
+aS'K13237'
+p509
+aS'K06171'
+p510
+aS'K01869'
+p511
+aS'K03665'
+p512
+aS'K13116'
+p513
+aS'K02703'
+p514
+aS'K14964'
+p515
+aS'K11649'
+p516
+aS'K12614'
+p517
+aS'K15172'
+p518
+aS'K01711'
+p519
+aS'K00640'
+p520
+aS'K10365'
+p521
+aS'K08956'
+p522
+aS'K14416'
+p523
+aS'K13171'
+p524
+aS'K12418'
+p525
+aS'K00232'
+p526
+aS'K01893'
+p527
+aS'K06100'
+p528
+aS'K02480'
+p529
+aS'K00134'
+p530
+aS'K08065'
+p531
+aS'K03139'
+p532
+aS'K08790'
+p533
+aS'K01647'
+p534
+aS'K00459'
+p535
+aS'K14455'
+p536
+aS'K02259'
+p537
+aS'K02056'
+p538
+aS'K15181'
+p539
+aS'K08959'
+p540
+aS'K12604'
+p541
+aS'K14772'
+p542
+aS'K03695'
+p543
+aS'K14617'
+p544
+aS'K09291'
+p545
+aS'K12625'
+p546
+aS'K01590'
+p547
+aS'K08679'
+p548
+aS'K12198'
+p549
+aS'K07874'
+p550
+aS'K01069'
+p551
+aS'K03258'
+p552
+aS'K14005'
+p553
+aS'K03509'
+p554
+aS'K00873'
+p555
+aS'K02736'
+p556
+aS'K04078'
+p557
+aS'K02291'
+p558
+aS'K07151'
+p559
+aS'K00944'
+p560
+aS'K06685'
+p561
+aS'K01735'
+p562
+aS'K06177'
+p563
+aS'K01624'
+p564
+aS'K00166'
+p565
+aS'K01920'
+p566
+aS'K15176'
+p567
+aS'K12580'
+p568
+aS'K09531'
+p569
+aS'K02863'
+p570
+aS'K00559'
+p571
+aS'K03810'
+p572
+aS'K03094'
+p573
+aS'K07901'
+p574
+aS'K13076'
+p575
+aS'K10573'
+p576
+aS'K07904'
+p577
+aS'K05034'
+p578
+aS'K16536'
+p579
+aS'K04077'
+p580
+aS'K12898'
+p581
+aS'K01011'
+p582
+aS'K07240'
+p583
+aS'K02469'
+p584
+aS'K10756'
+p585
+aS'K02639'
+p586
+aS'K08819'
+p587
+aS'K12194'
+p588
+aS'K12343'
+p589
+aS'K06215'
+p590
+aS'K04646'
+p591
+aS'K00754'
+p592
+aS'K12586'
+p593
+aS'K05516'
+p594
+aS'K08360'
+p595
+aS'K03942'
+p596
+aS'K11314'
+p597
+aS'K03019'
+p598
+aS'K00858'
+p599
+aS'K05610'
+p600
+aS'K01427'
+p601
+aS'K12483'
+p602
+aS'K01078'
+p603
+aS'K09562'
+p604
+aS'K08869'
+p605
+aS'K03404'
+p606
+aS'K13811'
+p607
+aS'K15026'
+p608
+aS'K07942'
+p609
+aS'K03456'
+p610
+aS'K03949'
+p611
+aS'K02879'
+p612
+aS'K00382'
+p613
+aS'K01694'
+p614
+aS'K11968'
+p615
+aS'K08906'
+p616
+aS'K01340'
+p617
+aS'K11188'
+p618
+aS'K15692'
+p619
+aS'K00326'
+p620
+aS'K15178'
+p621
+aS'K01965'
+p622
+aS'K12489'
+p623
+aS'K09838'
+p624
+aS'K03347'
+p625
+aS'K02739'
+p626
+aS'K03798'
+p627
+aS'K01915'
+p628
+aS'K14016'
+p629
+aS'K09553'
+p630
+aS'K11412'
+p631
+aS'K15279'
+p632
+aS'K02867'
+p633
+aS'K11984'
+p634
+aS'K12386'
+p635
+aS'K15275'
+p636
+aS'K12855'
+p637
+aS'K00507'
+p638
+aS'K12391'
+p639
+aS'K00888'
+p640
+aS'K00600'
+p641
+aS'K05673'
+p642
+aS'K08269'
+p643
+aS'K10735'
+p644
+aS'K08576'
+p645
+aS'K09807'
+p646
+aS'K05539'
+p647
+aS'K05850'
+p648
+aS'K15371'
+p649
+aS'K00318'
+p650
+aS'K03350'
+p651
+aS'K10534'
+p652
+aS'K01408'
+p653
+aS'K03869'
+p654
+aS'K11493'
+p655
+aS'K13138'
+p656
+aS'K00698'
+p657
+aS'K03797'
+p658
+aS'K09680'
+p659
+aS'K01515'
+p660
+aS'K00939'
+p661
+aS'K00012'
+p662
+aS'K03136'
+p663
+aS'K07977'
+p664
+aS'K03596'
+p665
+aS'K01937'
+p666
+aS'K00416'
+p667
+aS'K00760'
+p668
+aS'K01537'
+p669
+aS'K01854'
+p670
+aS'K02356'
+p671
+aS'K15336'
+p672
+aS'K11274'
+p673
+aS'K00413'
+p674
+aS'K12948'
+p675
+aS'K00033'
+p676
+aS'K01251'
+p677
+aS'K12572'
+p678
+aS'K17803'
+p679
+aS'K00831'
+p680
+aS'K03639'
+p681
+aS'K04536'
+p682
+aS'K11827'
+p683
+aS'K01551'
+p684
+aS'K02437'
+p685
+aS'K04712'
+p686
+aS'K08493'
+p687
+aS'K03142'
+p688
+aS'K08516'
+p689
+aS'K01529'
+p690
+aS'K01892'
+p691
+aS'K06911'
+p692
+aS'K11843'
+p693
+aS'K00850'
+p694
+aS'K00872'
+p695
+aS'K00855'
+p696
+aS'K07098'
+p697
+aS'K10418'
+p698
+aS'K14788'
+p699
+aS'K13412'
+p700
+aS'K00235'
+p701
+aS'K14640'
+p702
+aS'K00164'
+p703
+aS'K07243'
+p704
+aS'K12861'
+p705
+aS'K02293'
+p706
+aS'K02551'
+p707
+aS'K10599'
+p708
+aS'K10597'
+p709
+aS'K02636'
+p710
+aS'K11654'
+p711
+aS'K07937'
+p712
+aS'K05293'
+p713
+aS'K03301'
+p714
+aS'K00794'
+p715
+aS'K05546'
+p716
+aS'K04532'
+p717
+atp718
+(Ntp719
+tp720
+ba(lp721
+g11
+(cnumpy
+ndarray
+p722
+(I0
+tp723
+g14
+tp724
+Rp725
+(I1
+(I2
+I683
+tp726
+g21
+I00
+(lp727
+(lp728
+S'Skcos10018'
+p729
+aa(lp730
+S'Skcos10026'
+p731
+aa(lp732
+S'Skcos10099'
+p733
+aa(lp734
+S'Skcos10109'
+p735
+aS'Skcos9501'
+p736
+aa(lp737
+S'Skcos10178'
+p738
+aa(lp739
+S'Skcos10197'
+p740
+aa(lp741
+S'Skcos10241'
+p742
+aS'Skcos1071'
+p743
+aa(lp744
+S'Skcos10261'
+p745
+aa(lp746
+S'Skcos10292'
+p747
+aS'Skcos9964'
+p748
+aa(lp749
+S'Skcos10331'
+p750
+aS'Skcos6748'
+p751
+aa(lp752
+S'Skcos10340'
+p753
+aa(lp754
+S'Skcos10395'
+p755
+aa(lp756
+S'Skcos10400'
+p757
+aa(lp758
+S'Skcos1041'
+p759
+aS'Skcos9015'
+p760
+aa(lp761
+S'Skcos10417'
+p762
+aS'Skcos22150'
+p763
+aS'Skcos575'
+p764
+aa(lp765
+S'Skcos10440'
+p766
+aa(lp767
+S'Skcos10452'
+p768
+aS'Skcos11855'
+p769
+aa(lp770
+S'Skcos10464'
+p771
+aS'Skcos14489'
+p772
+aa(lp773
+S'Skcos10565'
+p774
+aS'Skcos18123'
+p775
+aS'Skcos22262'
+p776
+aS'Skcos730'
+p777
+aa(lp778
+S'Skcos10576'
+p779
+aa(lp780
+S'Skcos10622'
+p781
+aS'Skcos25725'
+p782
+aS'Skcos4061'
+p783
+aS'Skcos9787'
+p784
+aa(lp785
+S'Skcos10638'
+p786
+aS'Skcos22341'
+p787
+aa(lp788
+S'Skcos10647'
+p789
+aa(lp790
+S'Skcos10660'
+p791
+aa(lp792
+S'Skcos10662'
+p793
+aa(lp794
+S'Skcos10677'
+p795
+aa(lp796
+S'Skcos10679'
+p797
+aS'Skcos12583'
+p798
+aS'Skcos16819'
+p799
+aa(lp800
+S'Skcos10691'
+p801
+aa(lp802
+S'Skcos10726'
+p803
+aa(lp804
+S'Skcos1079'
+p805
+aa(lp806
+S'Skcos10819'
+p807
+aS'Skcos14653'
+p808
+aa(lp809
+S'Skcos10845'
+p810
+aS'Skcos5605'
+p811
+aa(lp812
+S'Skcos10893'
+p813
+aa(lp814
+S'Skcos1098'
+p815
+aa(lp816
+S'Skcos10987'
+p817
+aa(lp818
+S'Skcos11020'
+p819
+aa(lp820
+S'Skcos11034'
+p821
+aa(lp822
+S'Skcos11062'
+p823
+aa(lp824
+S'Skcos11067'
+p825
+aa(lp826
+S'Skcos111'
+p827
+aS'Skcos13108'
+p828
+aS'Skcos21329'
+p829
+aS'Skcos8120'
+p830
+aa(lp831
+S'Skcos11107'
+p832
+aa(lp833
+S'Skcos11115'
+p834
+aa(lp835
+S'Skcos11117'
+p836
+aa(lp837
+S'Skcos11130'
+p838
+aS'Skcos26670'
+p839
+aa(lp840
+S'Skcos1114'
+p841
+aS'Skcos16546'
+p842
+aa(lp843
+S'Skcos11151'
+p844
+aa(lp845
+S'Skcos11184'
+p846
+aa(lp847
+S'Skcos11187'
+p848
+aS'Skcos4534'
+p849
+aa(lp850
+S'Skcos11213'
+p851
+aa(lp852
+S'Skcos11235'
+p853
+aa(lp854
+S'Skcos11245'
+p855
+aS'Skcos21642'
+p856
+aa(lp857
+S'Skcos11257'
+p858
+aa(lp859
+S'Skcos11263'
+p860
+aa(lp861
+S'Skcos11271'
+p862
+aa(lp863
+S'Skcos11303'
+p864
+aS'Skcos25264'
+p865
+aS'Skcos853'
+p866
+aa(lp867
+S'Skcos11318'
+p868
+aa(lp869
+S'Skcos11321'
+p870
+aa(lp871
+S'Skcos11330'
+p872
+aa(lp873
+S'Skcos11350'
+p874
+aa(lp875
+S'Skcos11373'
+p876
+aS'Skcos14978'
+p877
+aS'Skcos20446'
+p878
+aS'Skcos25978'
+p879
+aa(lp880
+S'Skcos11417'
+p881
+aa(lp882
+S'Skcos11439'
+p883
+aa(lp884
+S'Skcos11513'
+p885
+aa(lp886
+S'Skcos11515'
+p887
+aa(lp888
+S'Skcos11535'
+p889
+aS'Skcos12087'
+p890
+aS'Skcos20181'
+p891
+aa(lp892
+S'Skcos11549'
+p893
+aa(lp894
+S'Skcos11612'
+p895
+aa(lp896
+S'Skcos11618'
+p897
+aS'Skcos9017'
+p898
+aa(lp899
+S'Skcos11631'
+p900
+aS'Skcos12618'
+p901
+aS'Skcos21964'
+p902
+aa(lp903
+S'Skcos11653'
+p904
+aS'Skcos18986'
+p905
+aS'Skcos7619'
+p906
+aS'Skcos8042'
+p907
+aS'Skcos9073'
+p908
+aS'Skcos9319'
+p909
+aa(lp910
+S'Skcos11768'
+p911
+aS'Skcos3547'
+p912
+aa(lp913
+S'Skcos1182'
+p914
+aa(lp915
+S'Skcos11897'
+p916
+aa(lp917
+S'Skcos11924'
+p918
+aS'Skcos13158'
+p919
+aS'Skcos2656'
+p920
+aa(lp921
+S'Skcos11925'
+p922
+aS'Skcos8852'
+p923
+aa(lp924
+S'Skcos12'
+p925
+aS'Skcos12562'
+p926
+aa(lp927
+S'Skcos12019'
+p928
+aa(lp929
+S'Skcos12043'
+p930
+aa(lp931
+S'Skcos12046'
+p932
+aa(lp933
+S'Skcos12061'
+p934
+aa(lp935
+S'Skcos12062'
+p936
+aa(lp937
+S'Skcos12073'
+p938
+aS'Skcos12101'
+p939
+aa(lp940
+S'Skcos12151'
+p941
+aa(lp942
+S'Skcos12179'
+p943
+aS'Skcos16595'
+p944
+aa(lp945
+S'Skcos12200'
+p946
+aa(lp947
+S'Skcos12202'
+p948
+aa(lp949
+S'Skcos12203'
+p950
+aa(lp951
+S'Skcos12218'
+p952
+aS'Skcos6094'
+p953
+aa(lp954
+S'Skcos12235'
+p955
+aa(lp956
+S'Skcos12245'
+p957
+aa(lp958
+S'Skcos12262'
+p959
+aS'Skcos20618'
+p960
+aa(lp961
+S'Skcos12266'
+p962
+aa(lp963
+S'Skcos12271'
+p964
+aa(lp965
+S'Skcos12287'
+p966
+aa(lp967
+S'Skcos12293'
+p968
+aa(lp969
+S'Skcos12296'
+p970
+aa(lp971
+S'Skcos12297'
+p972
+aa(lp973
+S'Skcos12309'
+p974
+aa(lp975
+S'Skcos1236'
+p976
+aS'Skcos14803'
+p977
+aS'Skcos25737'
+p978
+aa(lp979
+S'Skcos12361'
+p980
+aa(lp981
+S'Skcos12380'
+p982
+aa(lp983
+S'Skcos12439'
+p984
+aa(lp985
+S'Skcos12447'
+p986
+aS'Skcos6412'
+p987
+aa(lp988
+S'Skcos12454'
+p989
+aa(lp990
+S'Skcos12530'
+p991
+aS'Skcos19340'
+p992
+aS'Skcos20444'
+p993
+aa(lp994
+S'Skcos1255'
+p995
+aa(lp996
+S'Skcos12593'
+p997
+aS'Skcos13152'
+p998
+aS'Skcos18704'
+p999
+aS'Skcos4911'
+p1000
+aa(lp1001
+S'Skcos1265'
+p1002
+aa(lp1003
+S'Skcos12658'
+p1004
+aa(lp1005
+S'Skcos1268'
+p1006
+aS'Skcos1359'
+p1007
+aa(lp1008
+S'Skcos12691'
+p1009
+aa(lp1010
+S'Skcos12721'
+p1011
+aS'Skcos457'
+p1012
+aa(lp1013
+S'Skcos12733'
+p1014
+aa(lp1015
+S'Skcos12772'
+p1016
+aa(lp1017
+S'Skcos12795'
+p1018
+aa(lp1019
+S'Skcos12807'
+p1020
+aa(lp1021
+S'Skcos12825'
+p1022
+aS'Skcos20470'
+p1023
+aa(lp1024
+S'Skcos12831'
+p1025
+aa(lp1026
+S'Skcos12834'
+p1027
+aS'Skcos25655'
+p1028
+aa(lp1029
+S'Skcos12837'
+p1030
+aa(lp1031
+S'Skcos12851'
+p1032
+aa(lp1033
+S'Skcos12854'
+p1034
+aa(lp1035
+S'Skcos12919'
+p1036
+aa(lp1037
+S'Skcos12956'
+p1038
+aa(lp1039
+S'Skcos12973'
+p1040
+aS'Skcos23949'
+p1041
+aS'Skcos26416'
+p1042
+aa(lp1043
+S'Skcos13032'
+p1044
+aa(lp1045
+S'Skcos13038'
+p1046
+aa(lp1047
+S'Skcos1305'
+p1048
+aS'Skcos14422'
+p1049
+aS'Skcos17560'
+p1050
+aa(lp1051
+S'Skcos13060'
+p1052
+aS'Skcos27266'
+p1053
+aa(lp1054
+S'Skcos13061'
+p1055
+aa(lp1056
+S'Skcos13065'
+p1057
+aa(lp1058
+S'Skcos13074'
+p1059
+aa(lp1060
+S'Skcos13113'
+p1061
+aa(lp1062
+S'Skcos13126'
+p1063
+aa(lp1064
+S'Skcos13141'
+p1065
+aa(lp1066
+S'Skcos13148'
+p1067
+aa(lp1068
+S'Skcos13149'
+p1069
+aa(lp1070
+S'Skcos13157'
+p1071
+aS'Skcos9980'
+p1072
+aa(lp1073
+S'Skcos13186'
+p1074
+aS'Skcos24199'
+p1075
+aS'Skcos6138'
+p1076
+aa(lp1077
+S'Skcos13234'
+p1078
+aS'Skcos16422'
+p1079
+aa(lp1080
+S'Skcos13245'
+p1081
+aS'Skcos15082'
+p1082
+aS'Skcos22827'
+p1083
+aS'Skcos3111'
+p1084
+aS'Skcos6185'
+p1085
+aS'Skcos6794'
+p1086
+aa(lp1087
+S'Skcos13283'
+p1088
+aa(lp1089
+S'Skcos13288'
+p1090
+aa(lp1091
+S'Skcos13325'
+p1092
+aa(lp1093
+S'Skcos13423'
+p1094
+aa(lp1095
+S'Skcos1348'
+p1096
+aa(lp1097
+S'Skcos13531'
+p1098
+aa(lp1099
+S'Skcos13556'
+p1100
+aa(lp1101
+S'Skcos13560'
+p1102
+aa(lp1103
+S'Skcos13574'
+p1104
+aS'Skcos6952'
+p1105
+aa(lp1106
+S'Skcos13612'
+p1107
+aa(lp1108
+S'Skcos13648'
+p1109
+aa(lp1110
+S'Skcos1365'
+p1111
+aa(lp1112
+S'Skcos13728'
+p1113
+aa(lp1114
+S'Skcos13768'
+p1115
+aa(lp1116
+S'Skcos13777'
+p1117
+aa(lp1118
+S'Skcos13785'
+p1119
+aa(lp1120
+S'Skcos138'
+p1121
+aa(lp1122
+S'Skcos13818'
+p1123
+aS'Skcos6710'
+p1124
+aS'Skcos7380'
+p1125
+aS'Skcos9230'
+p1126
+aa(lp1127
+S'Skcos1383'
+p1128
+aa(lp1129
+S'Skcos13841'
+p1130
+aa(lp1131
+S'Skcos1385'
+p1132
+aa(lp1133
+S'Skcos13939'
+p1134
+aa(lp1135
+S'Skcos13951'
+p1136
+aa(lp1137
+S'Skcos13995'
+p1138
+aS'Skcos7345'
+p1139
+aa(lp1140
+S'Skcos13996'
+p1141
+aa(lp1142
+S'Skcos13997'
+p1143
+aS'Skcos15791'
+p1144
+aS'Skcos19871'
+p1145
+aS'Skcos5725'
+p1146
+aa(lp1147
+S'Skcos14'
+p1148
+aa(lp1149
+S'Skcos14004'
+p1150
+aS'Skcos2945'
+p1151
+aa(lp1152
+S'Skcos14031'
+p1153
+aS'Skcos17077'
+p1154
+aa(lp1155
+S'Skcos14094'
+p1156
+aa(lp1157
+S'Skcos1411'
+p1158
+aa(lp1159
+S'Skcos14113'
+p1160
+aS'Skcos45'
+p1161
+aa(lp1162
+S'Skcos1413'
+p1163
+aa(lp1164
+S'Skcos14186'
+p1165
+aa(lp1166
+S'Skcos1426'
+p1167
+aa(lp1168
+S'Skcos14288'
+p1169
+aa(lp1170
+S'Skcos14292'
+p1171
+aa(lp1172
+S'Skcos14306'
+p1173
+aa(lp1174
+S'Skcos1432'
+p1175
+aS'Skcos16035'
+p1176
+aa(lp1177
+S'Skcos1433'
+p1178
+aS'Skcos27096'
+p1179
+aa(lp1180
+S'Skcos14352'
+p1181
+aS'Skcos19664'
+p1182
+aS'Skcos6048'
+p1183
+aa(lp1184
+S'Skcos14382'
+p1185
+aa(lp1186
+S'Skcos14438'
+p1187
+aa(lp1188
+S'Skcos14475'
+p1189
+aa(lp1190
+S'Skcos1450'
+p1191
+aS'Skcos23134'
+p1192
+aS'Skcos27142'
+p1193
+aa(lp1194
+S'Skcos14512'
+p1195
+aS'Skcos21037'
+p1196
+aS'Skcos8998'
+p1197
+aa(lp1198
+S'Skcos14616'
+p1199
+aS'Skcos3292'
+p1200
+aa(lp1201
+S'Skcos14644'
+p1202
+aS'Skcos17700'
+p1203
+aa(lp1204
+S'Skcos14655'
+p1205
+aa(lp1206
+S'Skcos14668'
+p1207
+aa(lp1208
+S'Skcos14694'
+p1209
+aa(lp1210
+S'Skcos14750'
+p1211
+aa(lp1212
+S'Skcos14839'
+p1213
+aa(lp1214
+S'Skcos14910'
+p1215
+aa(lp1216
+S'Skcos14930'
+p1217
+aa(lp1218
+S'Skcos14945'
+p1219
+aa(lp1220
+S'Skcos14959'
+p1221
+aa(lp1222
+S'Skcos15028'
+p1223
+aS'Skcos17459'
+p1224
+aa(lp1225
+S'Skcos15081'
+p1226
+aS'Skcos23690'
+p1227
+aa(lp1228
+S'Skcos15088'
+p1229
+aS'Skcos5451'
+p1230
+aa(lp1231
+S'Skcos15092'
+p1232
+aS'Skcos18918'
+p1233
+aS'Skcos2292'
+p1234
+aS'Skcos5477'
+p1235
+aa(lp1236
+S'Skcos15100'
+p1237
+aa(lp1238
+S'Skcos15147'
+p1239
+aa(lp1240
+S'Skcos15205'
+p1241
+aa(lp1242
+S'Skcos15292'
+p1243
+aa(lp1244
+S'Skcos15330'
+p1245
+aS'Skcos24492'
+p1246
+aa(lp1247
+S'Skcos15339'
+p1248
+aS'Skcos384'
+p1249
+aa(lp1250
+S'Skcos1535'
+p1251
+aa(lp1252
+S'Skcos15409'
+p1253
+aa(lp1254
+S'Skcos15424'
+p1255
+aS'Skcos20427'
+p1256
+aS'Skcos8835'
+p1257
+aa(lp1258
+S'Skcos15449'
+p1259
+aS'Skcos9173'
+p1260
+aa(lp1261
+S'Skcos15454'
+p1262
+aS'Skcos5779'
+p1263
+aa(lp1264
+S'Skcos1549'
+p1265
+aa(lp1266
+S'Skcos15518'
+p1267
+aa(lp1268
+S'Skcos15524'
+p1269
+aS'Skcos16295'
+p1270
+aS'Skcos2384'
+p1271
+aa(lp1272
+S'Skcos15545'
+p1273
+aS'Skcos7249'
+p1274
+aa(lp1275
+S'Skcos15558'
+p1276
+aS'Skcos8546'
+p1277
+aa(lp1278
+S'Skcos15594'
+p1279
+aS'Skcos18151'
+p1280
+aa(lp1281
+S'Skcos15664'
+p1282
+aa(lp1283
+S'Skcos15672'
+p1284
+aa(lp1285
+S'Skcos15708'
+p1286
+aS'Skcos17572'
+p1287
+aS'Skcos5120'
+p1288
+aa(lp1289
+S'Skcos158'
+p1290
+aa(lp1291
+S'Skcos15834'
+p1292
+aS'Skcos1712'
+p1293
+aa(lp1294
+S'Skcos15839'
+p1295
+aS'Skcos3567'
+p1296
+aa(lp1297
+S'Skcos15844'
+p1298
+aS'Skcos21928'
+p1299
+aa(lp1300
+S'Skcos15872'
+p1301
+aS'Skcos17605'
+p1302
+aS'Skcos2991'
+p1303
+aa(lp1304
+S'Skcos15959'
+p1305
+aa(lp1306
+S'Skcos15962'
+p1307
+aa(lp1308
+S'Skcos15963'
+p1309
+aa(lp1310
+S'Skcos16025'
+p1311
+aa(lp1312
+S'Skcos16141'
+p1313
+aS'Skcos22548'
+p1314
+aa(lp1315
+S'Skcos16152'
+p1316
+aa(lp1317
+S'Skcos16169'
+p1318
+aa(lp1319
+S'Skcos16220'
+p1320
+aS'Skcos3780'
+p1321
+aa(lp1322
+S'Skcos16241'
+p1323
+aa(lp1324
+S'Skcos16297'
+p1325
+aa(lp1326
+S'Skcos16327'
+p1327
+aS'Skcos2598'
+p1328
+aa(lp1329
+S'Skcos16431'
+p1330
+aa(lp1331
+S'Skcos16438'
+p1332
+aS'Skcos8582'
+p1333
+aa(lp1334
+S'Skcos16567'
+p1335
+aa(lp1336
+S'Skcos16581'
+p1337
+aa(lp1338
+S'Skcos16590'
+p1339
+aS'Skcos8272'
+p1340
+aa(lp1341
+S'Skcos16592'
+p1342
+aa(lp1343
+S'Skcos1663'
+p1344
+aa(lp1345
+S'Skcos16711'
+p1346
+aS'Skcos8297'
+p1347
+aa(lp1348
+S'Skcos16722'
+p1349
+aa(lp1350
+S'Skcos16771'
+p1351
+aa(lp1352
+S'Skcos1678'
+p1353
+aa(lp1354
+S'Skcos16857'
+p1355
+aS'Skcos3750'
+p1356
+aa(lp1357
+S'Skcos16866'
+p1358
+aa(lp1359
+S'Skcos16883'
+p1360
+aa(lp1361
+S'Skcos16946'
+p1362
+aa(lp1363
+S'Skcos16958'
+p1364
+aS'Skcos8735'
+p1365
+aa(lp1366
+S'Skcos1697'
+p1367
+aS'Skcos5390'
+p1368
+aS'Skcos7848'
+p1369
+aa(lp1370
+S'Skcos17035'
+p1371
+aa(lp1372
+S'Skcos17067'
+p1373
+aa(lp1374
+S'Skcos17094'
+p1375
+aS'Skcos7396'
+p1376
+aa(lp1377
+S'Skcos17206'
+p1378
+aS'Skcos6273'
+p1379
+aa(lp1380
+S'Skcos17258'
+p1381
+aa(lp1382
+S'Skcos17288'
+p1383
+aa(lp1384
+S'Skcos17295'
+p1385
+aS'Skcos6825'
+p1386
+aa(lp1387
+S'Skcos17310'
+p1388
+aS'Skcos5493'
+p1389
+aa(lp1390
+S'Skcos1732'
+p1391
+aa(lp1392
+S'Skcos17470'
+p1393
+aa(lp1394
+S'Skcos17494'
+p1395
+aa(lp1396
+S'Skcos17559'
+p1397
+aa(lp1398
+S'Skcos17588'
+p1399
+aa(lp1400
+S'Skcos17632'
+p1401
+aS'Skcos258'
+p1402
+aa(lp1403
+S'Skcos17794'
+p1404
+aa(lp1405
+S'Skcos1786'
+p1406
+aa(lp1407
+S'Skcos17883'
+p1408
+aa(lp1409
+S'Skcos17887'
+p1410
+aa(lp1411
+S'Skcos17937'
+p1412
+aa(lp1413
+S'Skcos17999'
+p1414
+aa(lp1415
+S'Skcos18060'
+p1416
+aS'Skcos3192'
+p1417
+aa(lp1418
+S'Skcos18071'
+p1419
+aS'Skcos7260'
+p1420
+aa(lp1421
+S'Skcos18090'
+p1422
+aS'Skcos2763'
+p1423
+aa(lp1424
+S'Skcos18112'
+p1425
+aa(lp1426
+S'Skcos18141'
+p1427
+aa(lp1428
+S'Skcos1815'
+p1429
+aS'Skcos2546'
+p1430
+aS'Skcos6542'
+p1431
+aa(lp1432
+S'Skcos18177'
+p1433
+aa(lp1434
+S'Skcos18228'
+p1435
+aa(lp1436
+S'Skcos18235'
+p1437
+aa(lp1438
+S'Skcos18283'
+p1439
+aa(lp1440
+S'Skcos18383'
+p1441
+aa(lp1442
+S'Skcos18388'
+p1443
+aa(lp1444
+S'Skcos18414'
+p1445
+aS'Skcos18969'
+p1446
+aS'Skcos25040'
+p1447
+aa(lp1448
+S'Skcos18422'
+p1449
+aa(lp1450
+S'Skcos1846'
+p1451
+aa(lp1452
+S'Skcos1848'
+p1453
+aS'Skcos27316'
+p1454
+aa(lp1455
+S'Skcos18665'
+p1456
+aa(lp1457
+S'Skcos18793'
+p1458
+aS'Skcos5057'
+p1459
+aa(lp1460
+S'Skcos1884'
+p1461
+aS'Skcos25866'
+p1462
+aa(lp1463
+S'Skcos18936'
+p1464
+aa(lp1465
+S'Skcos1894'
+p1466
+aa(lp1467
+S'Skcos18960'
+p1468
+aa(lp1469
+S'Skcos19029'
+p1470
+aS'Skcos5496'
+p1471
+aa(lp1472
+S'Skcos19092'
+p1473
+aa(lp1474
+S'Skcos19146'
+p1475
+aS'Skcos5870'
+p1476
+aa(lp1477
+S'Skcos1920'
+p1478
+aS'Skcos7870'
+p1479
+aa(lp1480
+S'Skcos19233'
+p1481
+aS'Skcos4337'
+p1482
+aS'Skcos9679'
+p1483
+aa(lp1484
+S'Skcos19260'
+p1485
+aa(lp1486
+S'Skcos1934'
+p1487
+aa(lp1488
+S'Skcos1963'
+p1489
+aa(lp1490
+S'Skcos19651'
+p1491
+aa(lp1492
+S'Skcos19701'
+p1493
+aS'Skcos19789'
+p1494
+aa(lp1495
+S'Skcos1974'
+p1496
+aa(lp1497
+S'Skcos19817'
+p1498
+aS'Skcos6035'
+p1499
+aa(lp1500
+S'Skcos20012'
+p1501
+aa(lp1502
+S'Skcos20066'
+p1503
+aS'Skcos5108'
+p1504
+aa(lp1505
+S'Skcos2011'
+p1506
+aa(lp1507
+S'Skcos20112'
+p1508
+aa(lp1509
+S'Skcos20185'
+p1510
+aa(lp1511
+S'Skcos20206'
+p1512
+aS'Skcos4966'
+p1513
+aa(lp1514
+S'Skcos2028'
+p1515
+aa(lp1516
+S'Skcos2029'
+p1517
+aa(lp1518
+S'Skcos2038'
+p1519
+aa(lp1520
+S'Skcos20481'
+p1521
+aa(lp1522
+S'Skcos20502'
+p1523
+aa(lp1524
+S'Skcos20563'
+p1525
+aS'Skcos4084'
+p1526
+aa(lp1527
+S'Skcos2057'
+p1528
+aa(lp1529
+S'Skcos20571'
+p1530
+aa(lp1531
+S'Skcos20683'
+p1532
+aS'Skcos5773'
+p1533
+aa(lp1534
+S'Skcos20788'
+p1535
+aa(lp1536
+S'Skcos20792'
+p1537
+aa(lp1538
+S'Skcos20877'
+p1539
+aS'Skcos5073'
+p1540
+aa(lp1541
+S'Skcos2089'
+p1542
+aa(lp1543
+S'Skcos20959'
+p1544
+aa(lp1545
+S'Skcos20966'
+p1546
+aS'Skcos4540'
+p1547
+aa(lp1548
+S'Skcos21113'
+p1549
+aa(lp1550
+S'Skcos21164'
+p1551
+aS'Skcos23984'
+p1552
+aS'Skcos9145'
+p1553
+aa(lp1554
+S'Skcos21198'
+p1555
+aa(lp1556
+S'Skcos21512'
+p1557
+aS'Skcos22356'
+p1558
+aa(lp1559
+S'Skcos2156'
+p1560
+aS'Skcos27624'
+p1561
+aa(lp1562
+S'Skcos21563'
+p1563
+aa(lp1564
+S'Skcos21571'
+p1565
+aa(lp1566
+S'Skcos21582'
+p1567
+aa(lp1568
+S'Skcos21592'
+p1569
+aa(lp1570
+S'Skcos21676'
+p1571
+aa(lp1572
+S'Skcos2169'
+p1573
+aa(lp1574
+S'Skcos21795'
+p1575
+aa(lp1576
+S'Skcos21837'
+p1577
+aS'Skcos8022'
+p1578
+aa(lp1579
+S'Skcos222'
+p1580
+aS'Skcos9245'
+p1581
+aa(lp1582
+S'Skcos22246'
+p1583
+aS'Skcos4455'
+p1584
+aa(lp1585
+S'Skcos22247'
+p1586
+aa(lp1587
+S'Skcos22347'
+p1588
+aa(lp1589
+S'Skcos22348'
+p1590
+aS'Skcos6363'
+p1591
+aa(lp1592
+S'Skcos22436'
+p1593
+aS'Skcos3226'
+p1594
+aa(lp1595
+S'Skcos2246'
+p1596
+aa(lp1597
+S'Skcos227'
+p1598
+aS'Skcos9333'
+p1599
+aa(lp1600
+S'Skcos22735'
+p1601
+aS'Skcos9903'
+p1602
+aa(lp1603
+S'Skcos2275'
+p1604
+aa(lp1605
+S'Skcos22788'
+p1606
+aa(lp1607
+S'Skcos22798'
+p1608
+aa(lp1609
+S'Skcos22868'
+p1610
+aS'Skcos4719'
+p1611
+aa(lp1612
+S'Skcos22899'
+p1613
+aa(lp1614
+S'Skcos22910'
+p1615
+aS'Skcos9340'
+p1616
+aa(lp1617
+S'Skcos22916'
+p1618
+aa(lp1619
+S'Skcos2298'
+p1620
+aa(lp1621
+S'Skcos2302'
+p1622
+aa(lp1623
+S'Skcos2306'
+p1624
+aa(lp1625
+S'Skcos23139'
+p1626
+aS'Skcos7352'
+p1627
+aa(lp1628
+S'Skcos23252'
+p1629
+aa(lp1630
+S'Skcos23267'
+p1631
+aa(lp1632
+S'Skcos23304'
+p1633
+aa(lp1634
+S'Skcos23305'
+p1635
+aa(lp1636
+S'Skcos23308'
+p1637
+aa(lp1638
+S'Skcos23316'
+p1639
+aS'Skcos3423'
+p1640
+aa(lp1641
+S'Skcos23466'
+p1642
+aa(lp1643
+S'Skcos23512'
+p1644
+aS'Skcos3654'
+p1645
+aa(lp1646
+S'Skcos23530'
+p1647
+aS'Skcos23752'
+p1648
+aS'Skcos7805'
+p1649
+aa(lp1650
+S'Skcos236'
+p1651
+aa(lp1652
+S'Skcos23694'
+p1653
+aa(lp1654
+S'Skcos2370'
+p1655
+aS'Skcos5115'
+p1656
+aa(lp1657
+S'Skcos23701'
+p1658
+aS'Skcos24201'
+p1659
+aS'Skcos2685'
+p1660
+aa(lp1661
+S'Skcos23737'
+p1662
+aS'Skcos3118'
+p1663
+aa(lp1664
+S'Skcos23740'
+p1665
+aS'Skcos25078'
+p1666
+aS'Skcos300'
+p1667
+aS'Skcos3761'
+p1668
+aS'Skcos6326'
+p1669
+aa(lp1670
+S'Skcos23866'
+p1671
+aa(lp1672
+S'Skcos2391'
+p1673
+aa(lp1674
+S'Skcos23983'
+p1675
+aa(lp1676
+S'Skcos24044'
+p1677
+aa(lp1678
+S'Skcos2429'
+p1679
+aa(lp1680
+S'Skcos24308'
+p1681
+aa(lp1682
+S'Skcos2437'
+p1683
+aS'Skcos3469'
+p1684
+aa(lp1685
+S'Skcos24409'
+p1686
+aS'Skcos6389'
+p1687
+aa(lp1688
+S'Skcos24473'
+p1689
+aa(lp1690
+S'Skcos2451'
+p1691
+aa(lp1692
+S'Skcos24668'
+p1693
+aa(lp1694
+S'Skcos2472'
+p1695
+aa(lp1696
+S'Skcos24724'
+p1697
+aS'Skcos424'
+p1698
+aa(lp1699
+S'Skcos24750'
+p1700
+aa(lp1701
+S'Skcos24831'
+p1702
+aa(lp1703
+S'Skcos24881'
+p1704
+aS'Skcos9236'
+p1705
+aa(lp1706
+S'Skcos24941'
+p1707
+aa(lp1708
+S'Skcos25030'
+p1709
+aa(lp1710
+S'Skcos2506'
+p1711
+aa(lp1712
+S'Skcos25265'
+p1713
+aa(lp1714
+S'Skcos25322'
+p1715
+aa(lp1716
+S'Skcos25324'
+p1717
+aS'Skcos4366'
+p1718
+aa(lp1719
+S'Skcos25432'
+p1720
+aS'Skcos9466'
+p1721
+aa(lp1722
+S'Skcos25517'
+p1723
+aa(lp1724
+S'Skcos25526'
+p1725
+aa(lp1726
+S'Skcos25552'
+p1727
+aa(lp1728
+S'Skcos25612'
+p1729
+aa(lp1730
+S'Skcos2571'
+p1731
+aa(lp1732
+S'Skcos2578'
+p1733
+aa(lp1734
+S'Skcos26'
+p1735
+aS'Skcos664'
+p1736
+aS'Skcos7452'
+p1737
+aa(lp1738
+S'Skcos26220'
+p1739
+aS'Skcos381'
+p1740
+aa(lp1741
+S'Skcos26252'
+p1742
+aS'Skcos27083'
+p1743
+aa(lp1744
+S'Skcos26289'
+p1745
+aS'Skcos3516'
+p1746
+aa(lp1747
+S'Skcos2629'
+p1748
+aa(lp1749
+S'Skcos26517'
+p1750
+aa(lp1751
+S'Skcos2652'
+p1752
+aS'Skcos5797'
+p1753
+aa(lp1754
+S'Skcos26573'
+p1755
+aa(lp1756
+S'Skcos26592'
+p1757
+aa(lp1758
+S'Skcos26632'
+p1759
+aS'Skcos467'
+p1760
+aa(lp1761
+S'Skcos2668'
+p1762
+aa(lp1763
+S'Skcos26739'
+p1764
+aa(lp1765
+S'Skcos26911'
+p1766
+aa(lp1767
+S'Skcos26978'
+p1768
+aS'Skcos6378'
+p1769
+aa(lp1770
+S'Skcos270'
+p1771
+aS'Skcos7840'
+p1772
+aa(lp1773
+S'Skcos27004'
+p1774
+aa(lp1775
+S'Skcos27007'
+p1776
+aa(lp1777
+S'Skcos27033'
+p1778
+aS'Skcos3786'
+p1779
+aa(lp1780
+S'Skcos27045'
+p1781
+aa(lp1782
+S'Skcos27048'
+p1783
+aS'Skcos382'
+p1784
+aa(lp1785
+S'Skcos27202'
+p1786
+aa(lp1787
+S'Skcos2728'
+p1788
+aa(lp1789
+S'Skcos27309'
+p1790
+aa(lp1791
+S'Skcos2736'
+p1792
+aa(lp1793
+S'Skcos27458'
+p1794
+aS'Skcos8155'
+p1795
+aa(lp1796
+S'Skcos27471'
+p1797
+aS'Skcos316'
+p1798
+aa(lp1799
+S'Skcos27504'
+p1800
+aa(lp1801
+S'Skcos2754'
+p1802
+aa(lp1803
+S'Skcos27540'
+p1804
+aa(lp1805
+S'Skcos27546'
+p1806
+aa(lp1807
+S'Skcos2755'
+p1808
+aS'Skcos6683'
+p1809
+aa(lp1810
+S'Skcos27607'
+p1811
+aa(lp1812
+S'Skcos27611'
+p1813
+aS'Skcos5185'
+p1814
+aa(lp1815
+S'Skcos2786'
+p1816
+aa(lp1817
+S'Skcos2821'
+p1818
+aa(lp1819
+S'Skcos2823'
+p1820
+aa(lp1821
+S'Skcos2851'
+p1822
+aa(lp1823
+S'Skcos2888'
+p1824
+aa(lp1825
+S'Skcos2904'
+p1826
+aa(lp1827
+S'Skcos2944'
+p1828
+aa(lp1829
+S'Skcos2952'
+p1830
+aa(lp1831
+S'Skcos3006'
+p1832
+aa(lp1833
+S'Skcos3020'
+p1834
+aa(lp1835
+S'Skcos3023'
+p1836
+aa(lp1837
+S'Skcos3041'
+p1838
+aa(lp1839
+S'Skcos3053'
+p1840
+aS'Skcos6933'
+p1841
+aa(lp1842
+S'Skcos3105'
+p1843
+aa(lp1844
+S'Skcos3137'
+p1845
+aa(lp1846
+S'Skcos3149'
+p1847
+aa(lp1848
+S'Skcos3187'
+p1849
+aa(lp1850
+S'Skcos3193'
+p1851
+aa(lp1852
+S'Skcos3195'
+p1853
+aa(lp1854
+S'Skcos3227'
+p1855
+aS'Skcos4723'
+p1856
+aa(lp1857
+S'Skcos3256'
+p1858
+aa(lp1859
+S'Skcos3259'
+p1860
+aa(lp1861
+S'Skcos3291'
+p1862
+aa(lp1863
+S'Skcos3422'
+p1864
+aa(lp1865
+S'Skcos3440'
+p1866
+aa(lp1867
+S'Skcos3493'
+p1868
+aS'Skcos440'
+p1869
+aS'Skcos6133'
+p1870
+aS'Skcos955'
+p1871
+aa(lp1872
+S'Skcos3499'
+p1873
+aa(lp1874
+S'Skcos3504'
+p1875
+aa(lp1876
+S'Skcos352'
+p1877
+aa(lp1878
+S'Skcos3554'
+p1879
+aS'Skcos5887'
+p1880
+aa(lp1881
+S'Skcos3604'
+p1882
+aa(lp1883
+S'Skcos3608'
+p1884
+aa(lp1885
+S'Skcos366'
+p1886
+aa(lp1887
+S'Skcos368'
+p1888
+aa(lp1889
+S'Skcos3731'
+p1890
+aa(lp1891
+S'Skcos3748'
+p1892
+aa(lp1893
+S'Skcos3760'
+p1894
+aa(lp1895
+S'Skcos3765'
+p1896
+aa(lp1897
+S'Skcos3784'
+p1898
+aa(lp1899
+S'Skcos3847'
+p1900
+aa(lp1901
+S'Skcos3884'
+p1902
+aa(lp1903
+S'Skcos395'
+p1904
+aa(lp1905
+S'Skcos399'
+p1906
+aa(lp1907
+S'Skcos3997'
+p1908
+aa(lp1909
+S'Skcos4001'
+p1910
+aa(lp1911
+S'Skcos4031'
+p1912
+aS'Skcos8162'
+p1913
+aa(lp1914
+S'Skcos4078'
+p1915
+aa(lp1916
+S'Skcos4083'
+p1917
+aa(lp1918
+S'Skcos4188'
+p1919
+aa(lp1920
+S'Skcos4196'
+p1921
+aa(lp1922
+S'Skcos4275'
+p1923
+aa(lp1924
+S'Skcos4349'
+p1925
+aa(lp1926
+S'Skcos4364'
+p1927
+aa(lp1928
+S'Skcos4368'
+p1929
+aa(lp1930
+S'Skcos4398'
+p1931
+aS'Skcos5843'
+p1932
+aa(lp1933
+S'Skcos4407'
+p1934
+aS'Skcos9436'
+p1935
+aa(lp1936
+S'Skcos4594'
+p1937
+aa(lp1938
+S'Skcos4617'
+p1939
+aa(lp1940
+S'Skcos4655'
+p1941
+aa(lp1942
+S'Skcos4668'
+p1943
+aa(lp1944
+S'Skcos4739'
+p1945
+aa(lp1946
+S'Skcos4764'
+p1947
+aa(lp1948
+S'Skcos4769'
+p1949
+aa(lp1950
+S'Skcos4779'
+p1951
+aa(lp1952
+S'Skcos4814'
+p1953
+aa(lp1954
+S'Skcos4818'
+p1955
+aa(lp1956
+S'Skcos4976'
+p1957
+aa(lp1958
+S'Skcos4977'
+p1959
+aa(lp1960
+S'Skcos4988'
+p1961
+aa(lp1962
+S'Skcos5007'
+p1963
+aa(lp1964
+S'Skcos5112'
+p1965
+aa(lp1966
+S'Skcos5127'
+p1967
+aS'Skcos952'
+p1968
+aa(lp1969
+S'Skcos5145'
+p1970
+aa(lp1971
+S'Skcos5166'
+p1972
+aa(lp1973
+S'Skcos5188'
+p1974
+aa(lp1975
+S'Skcos5220'
+p1976
+aa(lp1977
+S'Skcos5250'
+p1978
+aa(lp1979
+S'Skcos5251'
+p1980
+aa(lp1981
+S'Skcos5370'
+p1982
+aa(lp1983
+S'Skcos5383'
+p1984
+aa(lp1985
+S'Skcos5418'
+p1986
+aa(lp1987
+S'Skcos5452'
+p1988
+aa(lp1989
+S'Skcos5463'
+p1990
+aa(lp1991
+S'Skcos5479'
+p1992
+aa(lp1993
+S'Skcos5495'
+p1994
+aa(lp1995
+S'Skcos5515'
+p1996
+aa(lp1997
+S'Skcos5517'
+p1998
+aS'Skcos6'
+p1999
+aa(lp2000
+S'Skcos5558'
+p2001
+aa(lp2002
+S'Skcos557'
+p2003
+aa(lp2004
+S'Skcos5641'
+p2005
+aS'Skcos6315'
+p2006
+aS'Skcos7395'
+p2007
+aa(lp2008
+S'Skcos5644'
+p2009
+aa(lp2010
+S'Skcos5686'
+p2011
+aa(lp2012
+S'Skcos5698'
+p2013
+aa(lp2014
+S'Skcos5780'
+p2015
+aa(lp2016
+S'Skcos5835'
+p2017
+aa(lp2018
+S'Skcos5866'
+p2019
+aa(lp2020
+S'Skcos5899'
+p2021
+aa(lp2022
+S'Skcos592'
+p2023
+aa(lp2024
+S'Skcos5930'
+p2025
+aa(lp2026
+S'Skcos5940'
+p2027
+aS'Skcos6836'
+p2028
+aa(lp2029
+S'Skcos5951'
+p2030
+aa(lp2031
+S'Skcos5952'
+p2032
+aa(lp2033
+S'Skcos5969'
+p2034
+aa(lp2035
+S'Skcos5986'
+p2036
+aa(lp2037
+S'Skcos6024'
+p2038
+aa(lp2039
+S'Skcos6198'
+p2040
+aa(lp2041
+S'Skcos6204'
+p2042
+aa(lp2043
+S'Skcos623'
+p2044
+aa(lp2045
+S'Skcos6241'
+p2046
+aa(lp2047
+S'Skcos6267'
+p2048
+aa(lp2049
+S'Skcos6271'
+p2050
+aa(lp2051
+S'Skcos6277'
+p2052
+aa(lp2053
+S'Skcos6290'
+p2054
+aa(lp2055
+S'Skcos6318'
+p2056
+aa(lp2057
+S'Skcos636'
+p2058
+aa(lp2059
+S'Skcos6362'
+p2060
+aa(lp2061
+S'Skcos6367'
+p2062
+aa(lp2063
+S'Skcos6391'
+p2064
+aa(lp2065
+S'Skcos6394'
+p2066
+aa(lp2067
+S'Skcos6402'
+p2068
+aa(lp2069
+S'Skcos645'
+p2070
+aa(lp2071
+S'Skcos6458'
+p2072
+aa(lp2073
+S'Skcos6561'
+p2074
+aa(lp2075
+S'Skcos6574'
+p2076
+aa(lp2077
+S'Skcos6593'
+p2078
+aa(lp2079
+S'Skcos663'
+p2080
+aa(lp2081
+S'Skcos6657'
+p2082
+aa(lp2083
+S'Skcos6673'
+p2084
+aa(lp2085
+S'Skcos6677'
+p2086
+aa(lp2087
+S'Skcos6757'
+p2088
+aa(lp2089
+S'Skcos6768'
+p2090
+aa(lp2091
+S'Skcos6799'
+p2092
+aa(lp2093
+S'Skcos6812'
+p2094
+aa(lp2095
+S'Skcos6850'
+p2096
+aa(lp2097
+S'Skcos6855'
+p2098
+aa(lp2099
+S'Skcos6893'
+p2100
+aa(lp2101
+S'Skcos6936'
+p2102
+aa(lp2103
+S'Skcos6945'
+p2104
+aa(lp2105
+S'Skcos695'
+p2106
+aa(lp2107
+S'Skcos6968'
+p2108
+aa(lp2109
+S'Skcos698'
+p2110
+aa(lp2111
+S'Skcos6986'
+p2112
+aa(lp2113
+S'Skcos7077'
+p2114
+aa(lp2115
+S'Skcos7079'
+p2116
+aa(lp2117
+S'Skcos7129'
+p2118
+aa(lp2119
+S'Skcos7144'
+p2120
+aa(lp2121
+S'Skcos7149'
+p2122
+aa(lp2123
+S'Skcos716'
+p2124
+aa(lp2125
+S'Skcos7206'
+p2126
+aa(lp2127
+S'Skcos7223'
+p2128
+aa(lp2129
+S'Skcos725'
+p2130
+aa(lp2131
+S'Skcos7253'
+p2132
+aa(lp2133
+S'Skcos7274'
+p2134
+aa(lp2135
+S'Skcos7284'
+p2136
+aa(lp2137
+S'Skcos729'
+p2138
+aa(lp2139
+S'Skcos7290'
+p2140
+aa(lp2141
+S'Skcos7305'
+p2142
+aa(lp2143
+S'Skcos7321'
+p2144
+aa(lp2145
+S'Skcos7343'
+p2146
+aa(lp2147
+S'Skcos7375'
+p2148
+aa(lp2149
+S'Skcos7378'
+p2150
+aa(lp2151
+S'Skcos741'
+p2152
+aS'Skcos8211'
+p2153
+aa(lp2154
+S'Skcos7417'
+p2155
+aa(lp2156
+S'Skcos7442'
+p2157
+aa(lp2158
+S'Skcos7443'
+p2159
+aa(lp2160
+S'Skcos7463'
+p2161
+aa(lp2162
+S'Skcos7467'
+p2163
+aa(lp2164
+S'Skcos7475'
+p2165
+aa(lp2166
+S'Skcos7482'
+p2167
+aa(lp2168
+S'Skcos7545'
+p2169
+aa(lp2170
+S'Skcos7553'
+p2171
+aa(lp2172
+S'Skcos7566'
+p2173
+aa(lp2174
+S'Skcos7648'
+p2175
+aa(lp2176
+S'Skcos7651'
+p2177
+aa(lp2178
+S'Skcos7695'
+p2179
+aa(lp2180
+S'Skcos7765'
+p2181
+aa(lp2182
+S'Skcos7819'
+p2183
+aa(lp2184
+S'Skcos7824'
+p2185
+aa(lp2186
+S'Skcos7826'
+p2187
+aa(lp2188
+S'Skcos7872'
+p2189
+aa(lp2190
+S'Skcos7879'
+p2191
+aa(lp2192
+S'Skcos7963'
+p2193
+aa(lp2194
+S'Skcos808'
+p2195
+aa(lp2196
+S'Skcos8114'
+p2197
+aS'Skcos9675'
+p2198
+aa(lp2199
+S'Skcos8115'
+p2200
+aa(lp2201
+S'Skcos8118'
+p2202
+aa(lp2203
+S'Skcos8123'
+p2204
+aa(lp2205
+S'Skcos817'
+p2206
+aa(lp2207
+S'Skcos8172'
+p2208
+aa(lp2209
+S'Skcos824'
+p2210
+aa(lp2211
+S'Skcos8275'
+p2212
+aa(lp2213
+S'Skcos8321'
+p2214
+aa(lp2215
+S'Skcos8401'
+p2216
+aa(lp2217
+S'Skcos8402'
+p2218
+aa(lp2219
+S'Skcos8450'
+p2220
+aS'Skcos867'
+p2221
+aS'Skcos9874'
+p2222
+aa(lp2223
+S'Skcos8472'
+p2224
+aa(lp2225
+S'Skcos8496'
+p2226
+aa(lp2227
+S'Skcos8517'
+p2228
+aa(lp2229
+S'Skcos855'
+p2230
+aa(lp2231
+S'Skcos8631'
+p2232
+aa(lp2233
+S'Skcos8658'
+p2234
+aa(lp2235
+S'Skcos8712'
+p2236
+aS'Skcos8741'
+p2237
+aa(lp2238
+S'Skcos8733'
+p2239
+aa(lp2240
+S'Skcos8738'
+p2241
+aa(lp2242
+S'Skcos8751'
+p2243
+aa(lp2244
+S'Skcos8760'
+p2245
+aa(lp2246
+S'Skcos8782'
+p2247
+aa(lp2248
+S'Skcos8828'
+p2249
+aa(lp2250
+S'Skcos889'
+p2251
+aa(lp2252
+S'Skcos8927'
+p2253
+aa(lp2254
+S'Skcos8956'
+p2255
+aa(lp2256
+S'Skcos9055'
+p2257
+aa(lp2258
+S'Skcos9069'
+p2259
+aa(lp2260
+S'Skcos908'
+p2261
+aa(lp2262
+S'Skcos9095'
+p2263
+aa(lp2264
+S'Skcos9112'
+p2265
+aa(lp2266
+S'Skcos9129'
+p2267
+aa(lp2268
+S'Skcos9148'
+p2269
+aa(lp2270
+S'Skcos9225'
+p2271
+aa(lp2272
+S'Skcos9256'
+p2273
+aa(lp2274
+S'Skcos9276'
+p2275
+aa(lp2276
+S'Skcos9286'
+p2277
+aa(lp2278
+S'Skcos9303'
+p2279
+aa(lp2280
+S'Skcos9312'
+p2281
+aa(lp2282
+S'Skcos9408'
+p2283
+aa(lp2284
+S'Skcos9443'
+p2285
+aa(lp2286
+S'Skcos9462'
+p2287
+aa(lp2288
+S'Skcos9549'
+p2289
+aa(lp2290
+S'Skcos9558'
+p2291
+aa(lp2292
+S'Skcos957'
+p2293
+aa(lp2294
+S'Skcos9650'
+p2295
+aa(lp2296
+S'Skcos968'
+p2297
+aa(lp2298
+S'Skcos9732'
+p2299
+aa(lp2300
+S'Skcos9758'
+p2301
+aa(lp2302
+S'Skcos9826'
+p2303
+aa(lp2304
+S'Skcos9835'
+p2305
+aa(lp2306
+S'Skcos9844'
+p2307
+aa(lp2308
+S'Skcos9877'
+p2309
+aa(lp2310
+S'Skcos9889'
+p2311
+aa(lp2312
+S'Skcos9924'
+p2313
+aa(lp2314
+S'Skcos9961'
+p2315
+aa(lp2316
+S'Skcos9975'
+p2317
+aa(lp2318
+S'Skcos9981'
+p2319
+aaVESCRT-I complex subunit VPS37
+p2320
+aVserpin B
+p2321
+aVtranscription initiation factor TFIIH subunit 4
+p2322
+aVcalcium/calmodulin-dependent protein kinase kinase [EC:2.7.11.17]
+p2323
+aVtransaldolase [EC:2.2.1.2]
+p2324
+aVdynactin 1
+p2325
+aVlarge subunit ribosomal protein L49, mitochondrial
+p2326
+aVelongation factor Ts
+p2327
+aVpumilio RNA-binding family
+p2328
+aVcytochrome P450, family 49, subfamily A
+p2329
+aVarginine-tRNA-protein transferase [EC:2.3.2.8]
+p2330
+aVglycogen synthase kinase 3 beta [EC:2.7.11.26]
+p2331
+aVNiemann-Pick C1 protein
+p2332
+aVE1A-binding protein p400 [EC:3.6.4.-]
+p2333
+aV3',5'-cyclic-nucleotide phosphodiesterase [EC:3.1.4.17]
+p2334
+aVDerlin-2/3
+p2335
+aVvalyl-tRNA synthetase [EC:6.1.1.9]
+p2336
+aV20S proteasome subunit alpha 2 [EC:3.4.25.1]
+p2337
+aVATP-binding cassette, subfamily B (MDR/TAP), member 1 [EC:3.6.3.44]
+p2338
+aVglucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49]
+p2339
+aVlipoxygenase [EC:1.13.11.12]
+p2340
+aVtranslation initiation factor 4G
+p2341
+aVtRNA threonylcarbamoyladenosine biosynthesis protein
+p2342
+aVputative transcription factor
+p2343
+aVNADH dehydrogenase (ubiquinone) Fe-S protein 6
+p2344
+aVtyrosyl-tRNA synthetase [EC:6.1.1.1]
+p2345
+aVpolyadenylation factor subunit 2
+p2346
+aVcholestanetriol 26-monooxygenase [EC:1.14.13.15]
+p2347
+aV6-phosphogluconolactonase [EC:3.1.1.31]
+p2348
+aVcoatomer, subunit beta'
+p2349
+aVglutamate dehydrogenase (NADP+) [EC:1.4.1.4]
+p2350
+aV2-isopropylmalate synthase [EC:2.3.3.13]
+p2351
+aVubiquitin-activating enzyme E1 C [EC:6.3.2.19]
+p2352
+aV7-dehydrocholesterol reductase [EC:1.3.1.21]
+p2353
+aVmitochondrial inner membrane protease subunit 1 [EC:3.4.21.-]
+p2354
+aVDNA cross-link repair 1A protein
+p2355
+aVserine/threonine-protein phosphatase 2A regulatory subunit B'
+p2356
+aVbeta-adrenergic-receptor kinase [EC:2.7.11.15]
+p2357
+aV1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
+p2358
+aVpeptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]
+p2359
+aVproteasome maturation protein
+p2360
+aVputative hydrolase of the HAD superfamily
+p2361
+aVregulator of nonsense transcripts 1 [EC:3.6.4.-]
+p2362
+aVE3 ubiquitin-protein ligase NEDD4 [EC:6.3.2.19]
+p2363
+aVtransformation/transcription domain-associated protein
+p2364
+aVsentrin-specific protease 1 [EC:3.4.22.68]
+p2365
+aVgeneral L-amino acid transport system substrate-binding protein
+p2366
+aVprotein Mpv17
+p2367
+aVoligopeptidase A [EC:3.4.24.70]
+p2368
+aVglyoxylate/hydroxypyruvate reductase [EC:1.1.1.791.1.1.81]
+p2369
+aVsignal recognition particle subunit SRP54
+p2370
+aVmyo-inositol-1-phosphate synthase [EC:5.5.1.4]
+p2371
+aVaspartyl-tRNA synthetase [EC:6.1.1.12]
+p2372
+aVjumonji domain-containing protein 2 [EC:1.14.11.-]
+p2373
+aVMFS transporter, SP family, solute carrier family 2 (facilitated glucose transporter), member 3
+p2374
+aVelongation factor G
+p2375
+aVpre-mRNA-splicing factor 38A
+p2376
+aVcycloeucalenol cycloisomerase [EC:5.5.1.9]
+p2377
+aVtransitional endoplasmic reticulum ATPase
+p2378
+aVcation-transporting ATPase 13A1 [EC:3.6.3.-]
+p2379
+aValpha-soluble NSF attachment protein
+p2380
+aValpha-1,3-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase [EC:2.4.1.101]
+p2381
+aVserine/threonine-protein phosphatase 2A regulatory subunit B''
+p2382
+aVATP-dependent RNA helicase DDX46/PRP5 [EC:3.6.4.13]
+p2383
+aVPAB-dependent poly(A)-specific ribonuclease subunit 2 [EC:3.1.13.4]
+p2384
+aVmitotic spindle assembly checkpoint protein MAD1
+p2385
+aVglycine dehydrogenase [EC:1.4.4.2]
+p2386
+aVglutathione reductase (NADPH) [EC:1.8.1.7]
+p2387
+aValanyl-tRNA synthetase [EC:6.1.1.7]
+p2388
+aVchitinase [EC:3.2.1.14]
+p2389
+aVcohesin loading factor subunit SCC2
+p2390
+aVcarbamoyl-phosphate synthase (ammonia) [EC:6.3.4.16]
+p2391
+aVcalcium-binding protein CML
+p2392
+aVprotein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha [EC:2.5.1.582.5.1.59]
+p2393
+aVregulatory associated protein of mTOR
+p2394
+aVglycerol-3-phosphate O-acyltransferase [EC:2.3.1.15]
+p2395
+aVCOG:&nbsp;COG0666
+p2396
+aVplatelet-activating factor acetylhydrolase [EC:3.1.1.47]
+p2397
+aVlong-chain acyl-CoA synthetase [EC:6.2.1.3]
+p2398
+aVWD repeat-containing protein 68
+p2399
+aVprobable aminopeptidase NPEPL1 [EC:3.4.11.-]
+p2400
+aVphosphoinositide-3-kinase, regulatory subunit 4 [EC:2.7.11.1]
+p2401
+aVuracil phosphoribosyltransferase [EC:2.4.2.9]
+p2402
+aVAP-3 complex subunit beta
+p2403
+aVphosphatidylinositol phospholipase C, delta [EC:3.1.4.11]
+p2404
+aVpoly(A) polymerase [EC:2.7.7.19]
+p2405
+aVpre-mRNA-splicing helicase BRR2 [EC:3.6.4.13]
+p2406
+aVUDP-glucuronate decarboxylase [EC:4.1.1.35]
+p2407
+aVnicotinate phosphoribosyltransferase [EC:6.3.4.21]
+p2408
+aVcoatomer protein complex, subunit gamma
+p2409
+aVDNA-directed RNA polymerase II subunit RPB2 [EC:2.7.7.6]
+p2410
+aV5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11]
+p2411
+aVtranscription factor IIIB 90 kDa subunit
+p2412
+aVphosphatidylinositol glycan, class W [EC:2.3.-.-]
+p2413
+aVRas-related protein Rab-18
+p2414
+aValanine transaminase [EC:2.6.1.2]
+p2415
+aVhyaluronan synthase [EC:2.4.1.212]
+p2416
+aVeukaryotic translation initiation factor 2-alpha kinase 3 [EC:2.7.11.1]
+p2417
+aVUV excision repair protein RAD23
+p2418
+aVprotein phosphatase 1L [EC:3.1.3.16]
+p2419
+aVDNA-directed RNA polymerase III subunit RPC1 [EC:2.7.7.6]
+p2420
+aVadenylate cyclase [EC:4.6.1.1]
+p2421
+aVCCR4-NOT transcription complex subunit 6 [EC:3.1.13.4]
+p2422
+aVmannose-6-phosphate isomerase [EC:5.3.1.8]
+p2423
+aVribosome maturation protein SDO1
+p2424
+aVnitrogen fixation protein NifU and related proteins
+p2425
+aVmidasin
+p2426
+aVubiquilin
+p2427
+aVDnaJ homolog subfamily B member 12
+p2428
+aVMFS transporter, NNP family, nitrate/nitrite transporter
+p2429
+aVxanthine dehydrogenase/oxidase [EC:1.17.1.41.17.3.2]
+p2430
+aVaminopeptidase N [EC:3.4.11.2]
+p2431
+aVHSP20 family protein
+p2432
+aVnuclear pore complex protein Nup62
+p2433
+aVphosphoacetylglucosamine mutase [EC:5.4.2.3]
+p2434
+aValpha-dioxygenase [EC:1.-.-.-]
+p2435
+aVprotein MYSM1
+p2436
+aVgeranylgeranyl diphosphate synthase, type II [EC:2.5.1.12.5.1.102.5.1.29]
+p2437
+aVmembrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase [EC:2.7.11.1]
+p2438
+aVcleavage and polyadenylation specificity factor subunit 1
+p2439
+aVESCRT-I complex subunit VPS28
+p2440
+aVcyclin H
+p2441
+aVsplicing factor U2AF 65 kDa subunit
+p2442
+aVubiquitin-conjugating enzyme E2 N [EC:6.3.2.19]
+p2443
+aVzinc transporter, ZIP family
+p2444
+aVtubulin-folding cofactor B
+p2445
+aVstructural maintenance of chromosome 1
+p2446
+aVisoleucyl-tRNA synthetase [EC:6.1.1.5]
+p2447
+aVprostaglandin-endoperoxide synthase 1 [EC:1.14.99.1]
+p2448
+aVER degradation enhancer, mannosidase alpha-like 2
+p2449
+aVsuccinate dehydrogenase (ubiquinone) cytochrome b560 subunit
+p2450
+aVADP-ribosylation factor GTPase-activating protein 1
+p2451
+aVATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]
+p2452
+aVasparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]
+p2453
+aVmalonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.181.2.1.27]
+p2454
+aVCOG:&nbsp;COG2391
+p2455
+aVglutamate--cysteine ligase catalytic subunit [EC:6.3.2.2]
+p2456
+aVmyb proto-oncogene protein
+p2457
+aVtrypsin [EC:3.4.21.4]
+p2458
+aV4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]
+p2459
+aVhexosaminidase [EC:3.2.1.52]
+p2460
+aVAMP deaminase [EC:3.5.4.6]
+p2461
+aVtripeptidyl-peptidase II [EC:3.4.14.10]
+p2462
+aVHUS1 checkpoint protein
+p2463
+aVD-lactate dehydrogenase (cytochrome) [EC:1.1.2.4]
+p2464
+aV17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase [EC:1.1.1.621.1.1.330]
+p2465
+aVapyrase [EC:3.6.1.5]
+p2466
+aV1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]
+p2467
+aV1,2-diacylglycerol 3-beta-galactosyltransferase [EC:2.4.1.46]
+p2468
+aVglutathione S-transferase [EC:2.5.1.18]
+p2469
+aVglucose-6-phosphate isomerase [EC:5.3.1.9]
+p2470
+aVNADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 9
+p2471
+aVvery-long-chain enoyl-CoA reductase [EC:1.3.1.93]
+p2472
+aVleishmanolysin-like peptidase [EC:3.4.24.-]
+p2473
+aVNADPH-ferrihemoprotein reductase [EC:1.6.2.4]
+p2474
+aVphotosystem II 13kDa protein
+p2475
+aVphospholipase D1/2 [EC:3.1.4.4]
+p2476
+aVthreonine dehydratase [EC:4.3.1.19]
+p2477
+aVtrehalose 6-phosphate synthase/phosphatase [EC:2.4.1.153.1.3.12]
+p2478
+aVthreonyl-tRNA synthetase [EC:6.1.1.3]
+p2479
+aVcystathionine beta-synthase [EC:4.2.1.22]
+p2480
+aVseryl-tRNA synthetase [EC:6.1.1.11]
+p2481
+aVdiacylglycerol kinase (ATP dependent) [EC:2.7.1.107]
+p2482
+aVdynein heavy chain 1, cytosolic
+p2483
+aVE3 ubiquitin-protein ligase UBR4 [EC:6.3.2.19]
+p2484
+aVtranscription initiation factor TFIID subunit 1
+p2485
+aVubiquitin-activating enzyme E1 [EC:6.3.2.19]
+p2486
+aVaminomethyltransferase [EC:2.1.2.10]
+p2487
+aVCu+-exporting ATPase [EC:3.6.3.54]
+p2488
+aVATP-dependent Clp protease ATP-binding subunit ClpC
+p2489
+aVprotein transport protein SEC23
+p2490
+aVglutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]
+p2491
+aVgamma-aminobutyric acid type B receptor
+p2492
+aV26S proteasome regulatory subunit N6
+p2493
+aVDnaJ homolog subfamily C member 3
+p2494
+aVCCR4-NOT transcription complex subunit 2
+p2495
+aVATP synthase mitochondrial F1 complex assembly factor 1
+p2496
+aVCDC-like kinase [EC:2.7.12.1]
+p2497
+aVsoluble calcium-activated nucleotidase 1 [EC:3.6.1.6]
+p2498
+aVpeptidylprolyl isomerase [EC:5.2.1.8]
+p2499
+aVmyosin V
+p2500
+aVguanylate kinase [EC:2.7.4.8]
+p2501
+aVcoproporphyrinogen III oxidase [EC:1.3.3.3]
+p2502
+aVperoxiredoxin Q/BCP [EC:1.11.1.15]
+p2503
+aVankyrin only family, other
+p2504
+aVprotein kinase, cGMP-dependent [EC:2.7.11.12]
+p2505
+aVprolyl-tRNA synthetase [EC:6.1.1.15]
+p2506
+aVtransmembrane 9 superfamily member 2/4
+p2507
+aVU3 small nucleolar RNA-associated protein 10
+p2508
+aVCUG-BP- and ETR3-like factor
+p2509
+aV26S proteasome regulatory subunit T2
+p2510
+aV4-hydroxy-3-methylbut-2-enyl diphosphate reductase [EC:1.17.1.2]
+p2511
+aVAP-2 complex subunit alpha
+p2512
+aVkynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase [EC:2.6.1.74.4.1.132.6.1.64]
+p2513
+aVpuromycin-sensitive aminopeptidase [EC:3.4.11.-]
+p2514
+aV5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+p2515
+aVaspartate--ammonia ligase [EC:6.3.1.1]
+p2516
+aVsolute carrier family 35 (adenosine 3'-phospho 5'-phosphosulfate transporter), member B2
+p2517
+aVadenylosuccinate synthase [EC:6.3.4.4]
+p2518
+aVubiquinol-cytochrome c reductase subunit 7
+p2519
+aVmonothiol glutaredoxin
+p2520
+aVATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+p2521
+aVpurine-nucleoside phosphorylase [EC:2.4.2.1]
+p2522
+aVUDP-glucose 4-epimerase [EC:5.1.3.2]
+p2523
+aVRING-box protein 1
+p2524
+aVglutamate synthase (NADPH/NADH) [EC:1.4.1.131.4.1.14]
+p2525
+aVintron-binding protein aquarius
+p2526
+aVlarge subunit ribosomal protein L8e
+p2527
+aVprotein kinase A [EC:2.7.11.11]
+p2528
+aVpolypeptide N-acetylgalactosaminyltransferase [EC:2.4.1.41]
+p2529
+aV1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150]
+p2530
+aVall-trans-8'-apo-beta-carotenal 15,15'-oxygenase [EC:1.13.11.75]
+p2531
+aVpyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]
+p2532
+aVGTP-binding protein
+p2533
+aVblocked early in transport 1
+p2534
+aVESCRT-I complex subunit TSG101
+p2535
+aVF-box and leucine-rich repeat protein 10/11 [EC:1.14.11.27]
+p2536
+aVpre-mRNA-splicing factor 38B
+p2537
+aVserine palmitoyltransferase [EC:2.3.1.50]
+p2538
+aVNAD(P) transhydrogenase [EC:1.6.1.2]
+p2539
+aVprotein phosphatase [EC:3.1.3.16]
+p2540
+aVRNA-binding protein 5/10
+p2541
+aVvacuolar protein-sorting-associated protein 4
+p2542
+aVnucleoredoxin [EC:1.8.1.8]
+p2543
+aVheat shock 70kDa protein 5
+p2544
+aVLon-like ATP-dependent protease [EC:3.4.21.-]
+p2545
+aVcathepsin X [EC:3.4.18.1]
+p2546
+aVSTE24 endopeptidase [EC:3.4.24.84]
+p2547
+aVcellular nucleic acid-binding protein
+p2548
+aVubiquitin carboxyl-terminal hydrolase 9/24 [EC:3.4.19.12]
+p2549
+aVpeptide deformylase [EC:3.5.1.88]
+p2550
+aVDNA-directed RNA polymerase III subunit RPC5
+p2551
+aVT-complex protein 1 subunit alpha
+p2552
+aVphosphoadenosine phosphosulfate reductase [EC:1.8.4.8]
+p2553
+aVmitochondrial fission 1 protein
+p2554
+aVcullin-associated NEDD8-dissociated protein 1
+p2555
+aV(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1]
+p2556
+aVintegrin-linked kinase-associated serine/threonine phosphatase 2C [EC:3.1.3.16]
+p2557
+aVADP-ribosylation factor GTPase-activating protein 2/3
+p2558
+aVubiquitin-protein ligase E3 C [EC:6.3.2.19]
+p2559
+aVNADH dehydrogenase (ubiquinone) Fe-S protein 8 [EC:1.6.5.31.6.99.3]
+p2560
+aVvoltage-dependent calcium channel alpha-2/delta, invertebrate
+p2561
+aVtranscription elongation factor SPT6
+p2562
+aVmethylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]
+p2563
+aVhistone deacetylase 1/2 [EC:3.5.1.98]
+p2564
+aVH+-transporting ATPase [EC:3.6.3.6]
+p2565
+aVbranched-chain amino acid aminotransferase [EC:2.6.1.42]
+p2566
+aVinositol hexakisphosphate/diphosphoinositol-pentakisphosphate kinase [EC:2.7.4.212.7.4.24]
+p2567
+aVserine/threonine-protein kinase SRPK3 [EC:2.7.11.1]
+p2568
+aVheat shock 70kDa protein 1/8
+p2569
+aVcell wall-associated protease [EC:3.4.21.-]
+p2570
+aVsolute carrier family 36 (proton-coupled amino acid transporter)
+p2571
+aVE3 ubiquitin-protein ligase MARCH6 [EC:6.3.2.19]
+p2572
+aVko00363&nbsp;&nbsp;
+p2573
+aVCa2+:H+ antiporter
+p2574
+aVV-type H+-transporting ATPase subunit a
+p2575
+aVstructural maintenance of chromosome 3 (chondroitin sulfate proteoglycan 6)
+p2576
+aVGDP-L-fucose synthase [EC:1.1.1.271]
+p2577
+aVcathepsin A (carboxypeptidase C) [EC:3.4.16.5]
+p2578
+aVRNA-binding protein Musashi
+p2579
+aVRas-related protein Rab-2A
+p2580
+aVcathepsin L [EC:3.4.22.15]
+p2581
+aVtranslocation protein SEC63
+p2582
+aVribose 5-phosphate isomerase A [EC:5.3.1.6]
+p2583
+aVcell division protein FtsZ
+p2584
+aV5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]
+p2585
+aVsuperoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+p2586
+aVorigin recognition complex subunit 2
+p2587
+aVL-ascorbate peroxidase [EC:1.11.1.11]
+p2588
+aVCOG:&nbsp;COG2374
+p2589
+aVomega-6 fatty acid desaturase (delta-12 desaturase) [EC:1.14.19.-]
+p2590
+aVF-type H+-transporting ATPase subunit O
+p2591
+aVRING finger and CHY zinc finger domain-containing protein 1 [EC:6.3.2.19]
+p2592
+aVselenide, water dikinase [EC:2.7.9.3]
+p2593
+aVsyntaxin-binding protein 1
+p2594
+aV4-nitrophenyl phosphatase [EC:3.1.3.41]
+p2595
+aVfar upstream element-binding protein
+p2596
+aVcharged multivesicular body protein 2A
+p2597
+aVfructose-1,6-bisphosphatase I [EC:3.1.3.11]
+p2598
+aVthioredoxin 1
+p2599
+aVsolute carrier family 35 (UDP-sugar transporter), member A1/2/3
+p2600
+aVcysteine desulfurase [EC:2.8.1.7]
+p2601
+aVlactoylglutathione lyase [EC:4.4.1.5]
+p2602
+aVhepatitis B virus X-interacting protein
+p2603
+aVhypoxia up-regulated 1
+p2604
+aVamino-acid N-acetyltransferase [EC:2.3.1.1]
+p2605
+aVcyanate lyase [EC:4.2.1.104]
+p2606
+aVATP-binding cassette, subfamily C (CFTR/MRP), member 1
+p2607
+aVMFS transporter, ceroid-lipofuscinosis neuronal protein 7
+p2608
+aVhigh mobility group protein B2
+p2609
+aVreceptor expression-enhancing protein 5/6
+p2610
+aVpeptidyl-tRNA hydrolase ICT1 [EC:3.1.1.29]
+p2611
+aVsmall nuclear ribonucleoprotein D2
+p2612
+aVoligopeptidase B [EC:3.4.21.83]
+p2613
+aVtranscription factor SPN1
+p2614
+aVcardiolipin-specific phospholipase [EC:3.1.1.-]
+p2615
+aVsignal recognition particle subunit SRP72
+p2616
+aVthioredoxin reductase (NADPH) [EC:1.8.1.9]
+p2617
+aVsplicing factor, arginine/serine-rich 4/5/6
+p2618
+aVpre-mRNA-processing factor 8
+p2619
+aVammonium transporter, Amt family
+p2620
+aVubiquitin carboxyl-terminal hydrolase 8 [EC:3.4.19.12]
+p2621
+aVGTP-binding protein
+p2622
+aVcyclin-dependent kinase 1 [EC:2.7.11.222.7.11.23]
+p2623
+aVputative glutathione S-transferase
+p2624
+aVubiquitin carboxyl-terminal hydrolase 47 [EC:3.4.19.12]
+p2625
+aVsolute carrier family 35 (adenosine 3'-phospho 5'-phosphosulfate transporter), member B3
+p2626
+aVprolyl 4-hydroxylase [EC:1.14.11.2]
+p2627
+aVpolyhydroxybutyrate depolymerase
+p2628
+aVmagnesium chelatase subunit I [EC:6.6.1.1]
+p2629
+aVregulator of nonsense transcripts 2
+p2630
+aVS-adenosylmethionine synthetase [EC:2.5.1.6]
+p2631
+aVsolute carrier family 25 (mitochondrial citrate transporter), member 1
+p2632
+aVcomplex III assembly factor LYRM7
+p2633
+aVhistone H3
+p2634
+aV26S proteasome regulatory subunit N10
+p2635
+aVpolyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+p2636
+aVubiquitin-conjugating enzyme E2 variant
+p2637
+aVmagnesium chelatase subunit H [EC:6.6.1.1]
+p2638
+aVV-type H+-transporting ATPase 21kDa proteolipid subunit
+p2639
+aVacetyl-CoA carboxylase / biotin carboxylase [EC:6.4.1.26.3.4.14]
+p2640
+aVGABA(A) receptor-associated protein
+p2641
+aVglutamyl-tRNA synthetase [EC:6.1.1.17]
+p2642
+aVprotein phosphatase 4 regulatory subunit 3
+p2643
+aVhistone H4
+p2644
+aVtelomere length regulation protein
+p2645
+aVvesicle-fusing ATPase [EC:3.6.4.6]
+p2646
+aVatlastin [EC:3.6.5.-]
+p2647
+aVATP-dependent metalloprotease [EC:3.4.24.-]
+p2648
+aVU4/U6.U5 tri-snRNP-associated protein 2
+p2649
+aVDnaJ homolog subfamily C member 7
+p2650
+aVglucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]
+p2651
+aVAP-3 complex subunit mu
+p2652
+aVheat shock 70kDa protein 4
+p2653
+aVtubulin beta
+p2654
+aVcysteine synthase A [EC:2.5.1.47]
+p2655
+aVmagnesium-protoporphyrin O-methyltransferase [EC:2.1.1.11]
+p2656
+aVubiquitin-conjugating enzyme E2 S [EC:6.3.2.19]
+p2657
+aVcleavage and polyadenylation specificity factor subunit 3 [EC:3.1.27.-]
+p2658
+aV3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]
+p2659
+aVhomeobox protein cut-like
+p2660
+aVNADPH2:quinone reductase [EC:1.6.5.5]
+p2661
+aVCd2+/Zn2+-exporting ATPase [EC:3.6.3.33.6.3.5]
+p2662
+aVglutathione peroxidase [EC:1.11.1.9]
+p2663
+aVheat shock transcription factor 2
+p2664
+aVmonocyte to macrophage differentiation protein
+p2665
+aVvacuolar protein sorting-associated protein VTA1
+p2666
+aVRNA polymerase-associated protein LEO1
+p2667
+aVFKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+p2668
+aVamyotrophic lateral sclerosis 2 protein
+p2669
+aVexocyst complex component 2
+p2670
+aVlipase ATG15 [EC:3.1.1.3]
+p2671
+aVmethionyl-tRNA synthetase [EC:6.1.1.10]
+p2672
+aVcoatomer protein complex, subunit alpha (xenin)
+p2673
+aV26S proteasome regulatory subunit N2
+p2674
+aVNADH dehydrogenase [EC:1.6.99.3]
+p2675
+aVsolute carrier family 35, member F1/2
+p2676
+aVmetal transporter CNNM
+p2677
+aVkinesin family member 2/24
+p2678
+aVcytochrome c oxidase subunit 6b
+p2679
+aVglucose-6-phosphate 1-epimerase [EC:5.1.3.15]
+p2680
+aVaspartate kinase [EC:2.7.2.4]
+p2681
+aVeukaryotic translation initiation factor 2-alpha kinase 4 [EC:2.7.11.1]
+p2682
+aV26S proteasome regulatory subunit N7
+p2683
+aVpyruvate carboxylase [EC:6.4.1.1]
+p2684
+aVglutamyl-tRNA reductase [EC:1.2.1.70]
+p2685
+aVtRNA-specific 2-thiouridylase [EC:2.8.1.-]
+p2686
+aVuroporphyrin-III C-methyltransferase [EC:2.1.1.107]
+p2687
+aVexocyst complex component 7
+p2688
+aVtransmembrane 9 superfamily member 3
+p2689
+aVsplicing factor 1
+p2690
+aVproteasome component ECM29
+p2691
+aVN-acetylglucosamine-6-sulfatase [EC:3.1.6.14]
+p2692
+aVmolecular chaperone DnaJ
+p2693
+aVAP-4 complex subunit sigma-1
+p2694
+aVhistone acetyltransferase MYST1 [EC:2.3.1.48]
+p2695
+aVferredoxin--NADP+ reductase [EC:1.18.1.2]
+p2696
+aVE1A/CREB-binding protein [EC:2.3.1.48]
+p2697
+aVfumarate hydratase, class I [EC:4.2.1.2]
+p2698
+aVlight-harvesting complex I chlorophyll a/b binding protein 1
+p2699
+aV2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]
+p2700
+aVphenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+p2701
+aVcharged multivesicular body protein 1
+p2702
+aVsuccinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1]
+p2703
+aVcell division cycle 20-like protein 1, cofactor of APC complex
+p2704
+aVleucyl aminopeptidase [EC:3.4.11.1]
+p2705
+aVguanylate cyclase, other [EC:4.6.1.2]
+p2706
+aVcathepsin D [EC:3.4.23.5]
+p2707
+aVABC-2 type transport system ATP-binding protein
+p2708
+aVpeptidyl-prolyl cis-trans isomerase NIMA-interacting 1 [EC:5.2.1.8]
+p2709
+aVDNA polymerase epsilon subunit 3 [EC:2.7.7.7]
+p2710
+aVXaa-Pro aminopeptidase [EC:3.4.11.9]
+p2711
+aVglutaryl-CoA dehydrogenase [EC:1.3.8.6]
+p2712
+aVintegrator complex subunit 7
+p2713
+aVphotosystem I P700 chlorophyll a apoprotein A1
+p2714
+aVGTP pyrophosphokinase [EC:2.7.6.5]
+p2715
+aVCCR4-NOT transcription complex subunit 7/8
+p2716
+aVpyrroline-5-carboxylate reductase [EC:1.5.1.2]
+p2717
+aVperoxin-5
+p2718
+aVSCY1-like protein 1
+p2719
+aVvacuolar protein sorting-associated protein 54
+p2720
+aVKip1 ubiquitination-promoting complex protein 1 [EC:6.3.2.19]
+p2721
+aVCOG:&nbsp;COG1026
+p2722
+aVperoxin-19
+p2723
+aVATP-binding cassette, subfamily A (ABC1), member 10
+p2724
+aVCOG:&nbsp;COG1073
+p2725
+aVphosphoglycerate kinase [EC:2.7.2.3]
+p2726
+aVATP-binding cassette, subfamily F, member 3
+p2727
+aVtriosephosphate isomerase (TIM) [EC:5.3.1.1]
+p2728
+aVcell division cycle 14 [EC:3.1.3.163.1.3.48]
+p2729
+aVsmall glutamine-rich tetratricopeptide repeat-containing protein alpha
+p2730
+aVhypothetical protein
+p2731
+aVNADH dehydrogenase (ubiquinone) flavoprotein 2 [EC:1.6.5.31.6.99.3]
+p2732
+aVUDP-N-acetylglucosamine/UDP-N-acetylgalactosamine diphosphorylase [EC:2.7.7.232.7.7.83]
+p2733
+aVgolgi SNAP receptor complex member 1
+p2734
+aVAP-1 complex subunit beta-1
+p2735
+aVcysteinyl-tRNA synthetase [EC:6.1.1.16]
+p2736
+aVacylaminoacyl-peptidase [EC:3.4.19.1]
+p2737
+aVribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]
+p2738
+aVsorting nexin-1/2
+p2739
+aVglycerol-3-phosphate dehydrogenase [EC:1.1.5.3]
+p2740
+aVATP-dependent RNA helicase DHX8/PRP22 [EC:3.6.4.13]
+p2741
+aVsulfonate transport system ATP-binding protein [EC:3.6.3.-]
+p2742
+aVdelta12-fatty acid dehydrogenase [EC:1.14.99.33]
+p2743
+aVtranslocation protein SEC62
+p2744
+aVphosphatidylinositol 3-kinase [EC:2.7.1.137]
+p2745
+aVpoly(U)-specific endoribonuclease [EC:3.1.-.-]
+p2746
+aVtransketolase [EC:2.2.1.1]
+p2747
+aVDNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
+p2748
+aVagmatine deiminase [EC:3.5.3.12]
+p2749
+aVhistidinol-phosphate aminotransferase [EC:2.6.1.9]
+p2750
+aVubiquitin-conjugating enzyme E2 J2 [EC:6.3.2.19]
+p2751
+aVmRNA-decapping enzyme 1B [EC:3.-.-.-]
+p2752
+aVsenataxin [EC:3.6.4.-]
+p2753
+aVphotosystem II Psb27 protein
+p2754
+aVATP-dependent Clp protease ATP-binding subunit ClpX
+p2755
+aVphotosystem II CP43 chlorophyll apoprotein
+p2756
+aVphenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+p2757
+aVenoyl-CoA hydratase [EC:4.2.1.17]
+p2758
+aVATP-dependent RNA helicase UAP56/SUB2 [EC:3.6.4.13]
+p2759
+aVphage shock protein A
+p2760
+aVpre-mRNA-splicing factor ATP-dependent RNA helicase DHX16 [EC:3.6.4.13]
+p2761
+aVDNA-directed RNA polymerase II subunit RPB3
+p2762
+aVacyl-[acyl-carrier-protein] desaturase [EC:1.14.19.2]
+p2763
+aVantithrombin III
+p2764
+aVprotein transport protein SEC24
+p2765
+aVNADH dehydrogenase (ubiquinone) Fe-S protein 7 [EC:1.6.5.31.6.99.3]
+p2766
+aVglutaredoxin 3
+p2767
+aVRab GDP dissociation inhibitor
+p2768
+aV2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]
+p2769
+aVsolute carrier family 34 (sodium-dependent phosphate cotransporter)
+p2770
+aVsterol 14-demethylase [EC:1.14.13.70]
+p2771
+aVvesicle-associated membrane protein 7
+p2772
+aVAP-1 complex subunit mu
+p2773
+aVmolecular chaperone GrpE
+p2774
+aVsuccinyl-CoA synthetase alpha subunit [EC:6.2.1.46.2.1.5]
+p2775
+aVornithine--oxo-acid transaminase [EC:2.6.1.13]
+p2776
+aVmRNA export factor
+p2777
+aVSNW domain-containing protein 1
+p2778
+aVcalcium/calmodulin-dependent protein kinase I [EC:2.7.11.17]
+p2779
+aVlarge subunit ribosomal protein L44e
+p2780
+aVATP-dependent HslUV protease ATP-binding subunit HslU
+p2781
+aVbifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.41.1.1.3]
+p2782
+aVribulose-phosphate 3-epimerase [EC:5.1.3.1]
+p2783
+aVhypothetical protein
+p2784
+aVV-type H+-transporting ATPase 16kDa proteolipid subunit
+p2785
+aV20S proteasome subunit alpha 3 [EC:3.4.25.1]
+p2786
+aVCOG:&nbsp;COG0012
+p2787
+aVcysteine desulfurase / selenocysteine lyase [EC:2.8.1.74.4.1.16]
+p2788
+aV5'-3' exoribonuclease 1 [EC:3.1.13.-]
+p2789
+aVmethylglyoxal synthase [EC:4.2.3.3]
+p2790
+aVpaired amphipathic helix protein Sin3a
+p2791
+aVinorganic pyrophosphatase [EC:3.6.1.1]
+p2792
+aVmannosyl-oligosaccharide alpha-1,2-mannosidase [EC:3.2.1.113]
+p2793
+aVperoxisomal 2,4-dienoyl-CoA reductase [EC:1.3.1.34]
+p2794
+aVnicastrin
+p2795
+aVleucyl-tRNA synthetase [EC:6.1.1.4]
+p2796
+aVGTP-binding protein HflX
+p2797
+aVATP-dependent RNA helicase DDX41 [EC:3.6.4.13]
+p2798
+aVphotosystem II P680 reaction center D1 protein
+p2799
+aVSet1/Ash2 histone methyltransferase complex subunit ASH2
+p2800
+aVSWI/SNF related-matrix-associated actin-dependent regulator of chromatin subfamily C
+p2801
+aVATP-dependent RNA helicase DDX6/DHH1 [EC:3.6.4.13]
+p2802
+aVtranscription elongation factor SPT5
+p2803
+aVGDPmannose 4,6-dehydratase [EC:4.2.1.47]
+p2804
+aVserine O-acetyltransferase [EC:2.3.1.30]
+p2805
+aVcapping protein (actin filament) muscle Z-line, beta
+p2806
+aVAFG3 family protein [EC:3.4.24.-]
+p2807
+aVelongation factor 1 alpha-like protein
+p2808
+aVserine/arginine repetitive matrix protein 1
+p2809
+aVfatty acid desaturase (delta-4 desaturase) [EC:1.14.19.-]
+p2810
+aVacyl-CoA oxidase [EC:1.3.3.6]
+p2811
+aVasparaginyl-tRNA synthetase [EC:6.1.1.22]
+p2812
+aVsymplekin
+p2813
+aVtwo-component system, NarL family, sensor kinase [EC:2.7.13.3]
+p2814
+aVglyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+p2815
+aVnuclear transcription Y subunit beta
+p2816
+aVtranscription initiation factor TFIIF subunit beta [EC:3.6.4.12]
+p2817
+aVserine/threonine kinase 38 [EC:2.7.11.1]
+p2818
+aVcitrate synthase [EC:2.3.3.1]
+p2819
+aVnitronate monooxygenase [EC:1.13.12.16]
+p2820
+aVaspartate aminotransferase, mitochondrial [EC:2.6.1.1]
+p2821
+aVcytochrome c oxidase assembly protein subunit 15
+p2822
+aVsimple sugar transport system ATP-binding protein [EC:3.6.3.17]
+p2823
+aVnegative elongation factor C/D
+p2824
+aVcasein kinase 1, delta [EC:2.7.11.1]
+p2825
+aVCCR4-NOT transcription complex subunit 1
+p2826
+aVU3 small nucleolar RNA-associated protein 20
+p2827
+aVATP-dependent Clp protease ATP-binding subunit ClpB
+p2828
+aVLMBR1 domain-containing protein 1
+p2829
+aVnucleoprotein TPR
+p2830
+aVU6 snRNA-associated Sm-like protein LSm6
+p2831
+aVhistidine decarboxylase [EC:4.1.1.22]
+p2832
+aVUDP-glucuronate 4-epimerase [EC:5.1.3.6]
+p2833
+aVcharged multivesicular body protein 5
+p2834
+aVRas-related protein Rab-1A
+p2835
+aVhydroxyacylglutathione hydrolase [EC:3.1.2.6]
+p2836
+aVtranslation initiation factor 4B
+p2837
+aVprotein transport protein SEC31
+p2838
+aVDNA polymerase eta [EC:2.7.7.7]
+p2839
+aVpyruvate kinase [EC:2.7.1.40]
+p2840
+aV20S proteasome subunit beta 7 [EC:3.4.25.1]
+p2841
+aVchaperonin GroES
+p2842
+aVphytoene synthase [EC:2.5.1.32]
+p2843
+aVdolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18]
+p2844
+aVnucleoside-triphosphate--adenylate kinase [EC:2.7.4.10]
+p2845
+aVMOB kinase activator 1
+p2846
+aV3-dehydroquinate synthase [EC:4.2.3.4]
+p2847
+aVtRNA pseudouridine32 synthase / 23S rRNA pseudouridine746 synthase [EC:5.4.99.285.4.99.29]
+p2848
+aVfructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+p2849
+aV2-oxoisovalerate dehydrogenase E1 component alpha subunit [EC:1.2.4.4]
+p2850
+aVglutathione synthase [EC:6.3.2.3]
+p2851
+aVRNA polymerase-associated protein CTR9
+p2852
+aVCCR4-NOT transcription complex subunit 3
+p2853
+aVDnaJ homolog subfamily C member 11
+p2854
+aVlarge subunit ribosomal protein L1
+p2855
+aVsterol 24-C-methyltransferase [EC:2.1.1.41]
+p2856
+aVvirulence factor
+p2857
+aVS-phase kinase-associated protein 1
+p2858
+aVRas-related protein Rab-8A
+p2859
+aVdelta8-fatty-acid desaturase [EC:1.14.19.4]
+p2860
+aVubiquitin-conjugating enzyme E2 A [EC:6.3.2.19]
+p2861
+aVRas-related protein Rab-11A
+p2862
+aVsolute carrier family 6 (neurotransmitter transporter, GABA) member 1
+p2863
+aVprotein HOOK3
+p2864
+aVchaperonin GroEL
+p2865
+aVheterogeneous nuclear ribonucleoprotein F/H
+p2866
+aVthiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.12.8.1.2]
+p2867
+aVchromate transporter
+p2868
+aVDNA gyrase subunit A [EC:5.99.1.3]
+p2869
+aVreplication factor C subunit 3/5
+p2870
+aVferredoxin
+p2871
+aVcyclin-dependent kinase 12/13 [EC:2.7.11.222.7.11.23]
+p2872
+aVcharged multivesicular body protein 4
+p2873
+aV3-oxo-5-alpha-steroid 4-dehydrogenase 1 [EC:1.3.1.22]
+p2874
+aVpyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]
+p2875
+aVclathrin heavy chain
+p2876
+aVko00051&nbsp;&nbsp;
+p2877
+aVexosome complex component RRP43
+p2878
+aVcurved DNA-binding protein
+p2879
+aVcytochrome b-561
+p2880
+aVNADH dehydrogenase (ubiquinone) flavoprotein 1 [EC:1.6.5.31.6.99.3]
+p2881
+aVtranscriptional adapter 2-alpha
+p2882
+aVDNA-directed RNA polymerase III subunit RPC10
+p2883
+aVNAD+ kinase [EC:2.7.1.23]
+p2884
+aVubiquitin carboxyl-terminal hydrolase L5 [EC:3.4.19.12]
+p2885
+aVurease [EC:3.5.1.5]
+p2886
+aVEH domain-containing protein 1
+p2887
+aVacid phosphatase [EC:3.1.3.2]
+p2888
+aVhsp70-interacting protein
+p2889
+aVaarF domain-containing kinase
+p2890
+aVmagnesium chelatase subunit D [EC:6.6.1.1]
+p2891
+aV3'-phosphoadenosine 5'-phosphosulfate synthase [EC:2.7.7.42.7.1.25]
+p2892
+aVtranslation initiation factor 2A
+p2893
+aVADP-ribosylation factor-like protein 1
+p2894
+aVserine/threonine-protein phosphatase 2A regulatory subunit A
+p2895
+aVNADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 5
+p2896
+aVlarge subunit ribosomal protein L17
+p2897
+aVdihydrolipoamide dehydrogenase [EC:1.8.1.4]
+p2898
+aVtryptophan synthase [EC:4.2.1.20]
+p2899
+aVariadne-1
+p2900
+aVcytochrome c6
+p2901
+aVtryptase [EC:3.4.21.59]
+p2902
+aVperoxiredoxin 6, 1-Cys peroxiredoxin [EC:1.11.1.71.11.1.153.1.1.-]
+p2903
+aVE3 ubiquitin-protein ligase RNF13 [EC:6.3.2.19]
+p2904
+aVcytochrome-b5 reductase [EC:1.6.2.2]
+p2905
+aVRNA polymerase-associated protein RTF1
+p2906
+aVpropionyl-CoA carboxylase alpha chain [EC:6.4.1.3]
+p2907
+aVArf-GAP with coiled-coil, ANK repeat and PH domain-containing protein
+p2908
+aVzeaxanthin epoxidase [EC:1.14.13.90]
+p2909
+aVcullin 1
+p2910
+aV20S proteasome subunit beta 2 [EC:3.4.25.1]
+p2911
+aVcell division protease FtsH [EC:3.4.24.-]
+p2912
+aVglutamine synthetase [EC:6.3.1.2]
+p2913
+aVubiquitin fusion degradation protein 1
+p2914
+aVstress-induced-phosphoprotein 1
+p2915
+aVNAD-dependent deacetylase sirtuin 2 [EC:3.5.1.-]
+p2916
+aVsolute carrier family 35 (GDP-fucose transporter), member C1
+p2917
+aVlarge subunit ribosomal protein L11
+p2918
+aVU4/U6.U5 tri-snRNP-associated protein 1
+p2919
+aVcystinosin
+p2920
+aVsolute carrier family 35 (UDP-galactose transporter), member B1
+p2921
+aVpre-mRNA-processing factor 6
+p2922
+aVstearoyl-CoA desaturase (delta-9 desaturase) [EC:1.14.19.1]
+p2923
+aVAP-1 complex subunit gamma-1
+p2924
+aVphosphatidylinositol 4-kinase [EC:2.7.1.67]
+p2925
+aVglycine hydroxymethyltransferase [EC:2.1.2.1]
+p2926
+aVATP-binding cassette, subfamily C (CFTR/MRP), member 4
+p2927
+aVserine/threonine-protein kinase ULK/ATG1 [EC:2.7.11.1]
+p2928
+aVGINS complex subunit 4
+p2929
+aVcalpain-7 [EC:3.4.22.-]
+p2930
+aVhypothetical protein
+p2931
+aVtRNA-dihydrouridine synthase A [EC:1.-.-.-]
+p2932
+aVCa2+ transporting ATPase, plasma membrane [EC:3.6.3.8]
+p2933
+aVglutamate dehydrogenase [EC:1.4.1.2]
+p2934
+aVproline dehydrogenase [EC:1.5.-.-]
+p2935
+aVanaphase-promoting complex subunit 3
+p2936
+aVnitrate reductase (NAD(P)H) [EC:1.7.1.11.7.1.21.7.1.3]
+p2937
+aVinsulysin [EC:3.4.24.56]
+p2938
+aVcullin 3
+p2939
+aVregulator of chromosome condensation
+p2940
+aVintegrator complex subunit 1
+p2941
+aVchitin synthase [EC:2.4.1.16]
+p2942
+aVcarboxyl-terminal processing protease [EC:3.4.21.102]
+p2943
+aVtype II pantothenate kinase [EC:2.7.1.33]
+p2944
+aVADP-ribose pyrophosphatase [EC:3.6.1.13]
+p2945
+aVadenylate kinase [EC:2.7.4.3]
+p2946
+aVUDPglucose 6-dehydrogenase [EC:1.1.1.22]
+p2947
+aVtranscription initiation factor TFIIE subunit alpha
+p2948
+aVArf/Sar family, other
+p2949
+aVGTP-binding protein LepA
+p2950
+aVCTP synthase [EC:6.3.4.2]
+p2951
+aVubiquinol-cytochrome c reductase subunit 6
+p2952
+aVhypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+p2953
+aVCa2+-transporting ATPase [EC:3.6.3.8]
+p2954
+aVUDP-galactopyranose mutase [EC:5.4.99.9]
+p2955
+aVelongation factor P
+p2956
+aVtRNA (cytosine38-C5)-methyltransferase [EC:2.1.1.204]
+p2957
+aVchromosome transmission fidelity protein 4
+p2958
+aVubiquinol-cytochrome c reductase cytochrome c1 subunit
+p2959
+aVsignal peptidase complex subunit 3 [EC:3.4.-.-]
+p2960
+aV6-phosphogluconate dehydrogenase [EC:1.1.1.44]
+p2961
+aVadenosylhomocysteinase [EC:3.3.1.1]
+p2962
+aVPAB-dependent poly(A)-specific ribonuclease subunit 3
+p2963
+aVmethyltransferase OMS1, mitochondrial [EC:2.1.1.-]
+p2964
+aVphosphoserine aminotransferase [EC:2.6.1.52]
+p2965
+aVcyclic pyranopterin phosphate synthase [EC:4.1.99.18]
+p2966
+aVguanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1
+p2967
+aVAP-2 complex subunit sigma-1
+p2968
+aVarsenite-transporting ATPase [EC:3.6.3.16]
+p2969
+aVglycine cleavage system H protein
+p2970
+aVsphingolipid delta-4 desaturase [EC:1.14.-.-]
+p2971
+aVvesicle transport through interaction with t-SNAREs 1
+p2972
+aVtranscription initiation factor TFIIH subunit 2
+p2973
+aVsynaptobrevin homolog YKT6
+p2974
+aVEnzymes [BR:ko01000]&nbsp;3. Hydrolases&nbsp;&nbsp;3.6&nbsp;&nbsp;Acting on acid anhydrides&nbsp;&nbsp;&nbsp;3.6.1&nbsp;&nbsp;In phosphorus-containing anhydrides&nbsp;&nbsp;&nbsp;&nbsp;3.6.1.-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K01529&nbsp;&nbsp;E3.6.1.-
+p2975
+aVhistidyl-tRNA synthetase [EC:6.1.1.21]
+p2976
+aVCOG:&nbsp;COG1741
+p2977
+aVubiquitin carboxyl-terminal hydrolase 14 [EC:3.4.19.12]
+p2978
+aV6-phosphofructokinase 1 [EC:2.7.1.11]
+p2979
+aVhomoserine kinase [EC:2.7.1.39]
+p2980
+aVphosphoribulokinase [EC:2.7.1.19]
+p2981
+aVCOG:&nbsp;COG1408
+p2982
+aVdynein light chain LC8-type
+p2983
+aVribosome biogenesis protein ENP2
+p2984
+aVcalcium-dependent protein kinase [EC:2.7.11.1]
+p2985
+aVsuccinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1]
+p2986
+aVsolute carrier family 20 (sodium-dependent phosphate transporter)
+p2987
+aV2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]
+p2988
+aVhigh-affinity iron transporter
+p2989
+aVpre-mRNA-splicing factor SPF27
+p2990
+aV15-cis-phytoene desaturase [EC:1.3.5.5]
+p2991
+aV2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [EC:2.2.1.9]
+p2992
+aVpre-mRNA-processing factor 19 [EC:6.3.2.19]
+p2993
+aVubiquitin conjugation factor E4 B [EC:6.3.2.19]
+p2994
+aVcytochrome b6-f complex iron-sulfur subunit [EC:1.10.9.1]
+p2995
+aVSWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5 [EC:3.6.4.-]
+p2996
+aVADP-ribosylation factor 1
+p2997
+aVphosphatidylinositol glycan, class U
+p2998
+aVATP:ADP antiporter, AAA family
+p2999
+aV6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]
+p3000
+aValpha 1,3-glucosidase [EC:3.2.1.84]
+p3001
+aVamyloid beta precursor protein binding protein 1
+p3002
+atp3003
+ba(lp3004
+g11
+(g12
+(I0
+tp3005
+g14
+tp3006
+Rp3007
+((I1
+(I2
+tp3008
+g21
+I00
+(lp3009
+g25
+ag26
+atp3010
+(Ntp3011
+tp3012
+ba(dp3013
+S'0.14.1'
+p3014
+(dp3015
+S'axes'
+p3016
+g10
+sS'blocks'
+p3017
+(lp3018
+(dp3019
+S'mgr_locs'
+p3020
+c__builtin__
+slice
+p3021
+(I0
+I2
+I1
+tp3022
+Rp3023
+sS'values'
+p3024
+g725
+sasstp3025
+bbsS'T'
+p3026
+g2
+(g3
+g4
+Ntp3027
+Rp3028
+g2
+(g7
+g4
+Ntp3029
+Rp3030
+((lp3031
+g11
+(g12
+(I0
+tp3032
+g14
+tp3033
+Rp3034
+((I1
+(I2
+tp3035
+g21
+I00
+(lp3036
+g25
+ag26
+atp3037
+(Ntp3038
+tp3039
+bag11
+(g12
+(I0
+tp3040
+g14
+tp3041
+Rp3042
+((I1
+(I89
+tp3043
+g21
+I00
+(lp3044
+S'K06972'
+p3045
+aS'K11684'
+p3046
+aS'K02712'
+p3047
+aS'K08908'
+p3048
+aS'K02112'
+p3049
+aS'K00855'
+p3050
+aS'K13525'
+p3051
+aS'K01586'
+p3052
+aS'K00670'
+p3053
+aS'K03671'
+p3054
+aS'K08568'
+p3055
+aS'K02366'
+p3056
+aS'K06669'
+p3057
+aS'K06693'
+p3058
+aS'K01269'
+p3059
+aS'K14769'
+p3060
+aS'K15687'
+p3061
+aS'K01148'
+p3062
+aS'K02639'
+p3063
+aS'K02183'
+p3064
+aS'K02866'
+p3065
+aS'K14347'
+p3066
+aS'K05595'
+p3067
+aS'K17616'
+p3068
+aS'K07466'
+p3069
+aS'K02977'
+p3070
+aS'K08342'
+p3071
+aS'K00134'
+p3072
+aS'K01628'
+p3073
+aS'K02551'
+p3074
+aS'K07375'
+p3075
+aS'K15216'
+p3076
+aS'K01814'
+p3077
+aS'K16056'
+p3078
+aS'K14554'
+p3079
+aS'K12418'
+p3080
+aS'K14319'
+p3081
+aS'K02635'
+p3082
+aS'K05658'
+p3083
+aS'K03969'
+p3084
+aS'K00672'
+p3085
+aS'K00387'
+p3086
+aS'K01694'
+p3087
+aS'K02720'
+p3088
+aS'K03040'
+p3089
+aS'K02036'
+p3090
+aS'K10960'
+p3091
+aS'K15371'
+p3092
+aS'K02636'
+p3093
+aS'K09487'
+p3094
+aS'K17609'
+p3095
+aS'K03231'
+p3096
+aS'K08065'
+p3097
+aS'K03544'
+p3098
+aS'K01115'
+p3099
+aS'K01601'
+p3100
+aS'K02705'
+p3101
+aS'K00658'
+p3102
+aS'K03016'
+p3103
+aS'K10610'
+p3104
+aS'K12879'
+p3105
+aS'K02355'
+p3106
+aS'K03665'
+p3107
+aS'K01251'
+p3108
+aS'K10573'
+p3109
+aS'K01711'
+p3110
+aS'K00939'
+p3111
+aS'K13125'
+p3112
+aS'K01001'
+p3113
+aS'K12194'
+p3114
+aS'K02358'
+p3115
+aS'K14683'
+p3116
+aS'K02690'
+p3117
+aS'K05692'
+p3118
+aS'K13812'
+p3119
+aS'K01835'
+p3120
+aS'K06672'
+p3121
+aS'K01893'
+p3122
+aS'K07204'
+p3123
+aS'K07374'
+p3124
+aS'K00472'
+p3125
+aS'K01280'
+p3126
+aS'K01183'
+p3127
+aS'K02703'
+p3128
+aS'K02111'
+p3129
+aS'K02704'
+p3130
+aS'K05863'
+p3131
+aS'K02930'
+p3132
+aS'K14721'
+p3133
+atp3134
+(Ntp3135
+tp3136
+ba(lp3137
+g11
+(g722
+(I0
+tp3138
+g14
+tp3139
+Rp3140
+(I1
+(I2
+I89
+tp3141
+g21
+I00
+(lp3142
+(lp3143
+S'Throt10088'
+p3144
+aa(lp3145
+S'Throt10187'
+p3146
+aa(lp3147
+S'Throt10204'
+p3148
+aa(lp3149
+S'Throt10358'
+p3150
+aa(lp3151
+S'Throt1042'
+p3152
+aa(lp3153
+S'Throt1077'
+p3154
+aa(lp3155
+S'Throt1121'
+p3156
+aa(lp3157
+S'Throt1127'
+p3158
+aa(lp3159
+S'Throt11297'
+p3160
+aa(lp3161
+S'Throt11377'
+p3162
+aa(lp3163
+S'Throt1177'
+p3164
+aa(lp3165
+S'Throt12404'
+p3166
+aa(lp3167
+S'Throt12632'
+p3168
+aa(lp3169
+S'Throt12652'
+p3170
+aa(lp3171
+S'Throt13123'
+p3172
+aa(lp3173
+S'Throt13259'
+p3174
+aa(lp3175
+S'Throt13339'
+p3176
+aS'Throt13340'
+p3177
+aa(lp3178
+S'Throt13512'
+p3179
+aa(lp3180
+S'Throt138'
+p3181
+aS'Throt363'
+p3182
+aa(lp3183
+S'Throt14439'
+p3184
+aS'Throt17627'
+p3185
+aa(lp3186
+S'Throt14530'
+p3187
+aa(lp3188
+S'Throt14636'
+p3189
+aa(lp3190
+S'Throt14860'
+p3191
+aa(lp3192
+S'Throt14956'
+p3193
+aa(lp3194
+S'Throt15469'
+p3195
+aa(lp3196
+S'Throt15493'
+p3197
+aa(lp3198
+S'Throt16114'
+p3199
+aa(lp3200
+S'Throt169'
+p3201
+aa(lp3202
+S'Throt1706'
+p3203
+aa(lp3204
+S'Throt17120'
+p3205
+aa(lp3206
+S'Throt17253'
+p3207
+aS'Throt17254'
+p3208
+aS'Throt4898'
+p3209
+aS'Throt9054'
+p3210
+aa(lp3211
+S'Throt17301'
+p3212
+aa(lp3213
+S'Throt18178'
+p3214
+aa(lp3215
+S'Throt18345'
+p3216
+aa(lp3217
+S'Throt19196'
+p3218
+aa(lp3219
+S'Throt1987'
+p3220
+aa(lp3221
+S'Throt2013'
+p3222
+aa(lp3223
+S'Throt2146'
+p3224
+aa(lp3225
+S'Throt2177'
+p3226
+aa(lp3227
+S'Throt2274'
+p3228
+aa(lp3229
+S'Throt228'
+p3230
+aa(lp3231
+S'Throt2297'
+p3232
+aa(lp3233
+S'Throt2355'
+p3234
+aa(lp3235
+S'Throt2661'
+p3236
+aa(lp3237
+S'Throt277'
+p3238
+aa(lp3239
+S'Throt2971'
+p3240
+aa(lp3241
+S'Throt302'
+p3242
+aa(lp3243
+S'Throt3192'
+p3244
+aa(lp3245
+S'Throt324'
+p3246
+aa(lp3247
+S'Throt330'
+p3248
+aa(lp3249
+S'Throt3303'
+p3250
+aa(lp3251
+S'Throt3325'
+p3252
+aa(lp3253
+S'Throt3411'
+p3254
+aa(lp3255
+S'Throt3481'
+p3256
+aa(lp3257
+S'Throt3537'
+p3258
+aa(lp3259
+S'Throt360'
+p3260
+aa(lp3261
+S'Throt380'
+p3262
+aa(lp3263
+S'Throt4028'
+p3264
+aa(lp3265
+S'Throt4126'
+p3266
+aa(lp3267
+S'Throt4146'
+p3268
+aa(lp3269
+S'Throt4235'
+p3270
+aa(lp3271
+S'Throt439'
+p3272
+aa(lp3273
+S'Throt44'
+p3274
+aa(lp3275
+S'Throt478'
+p3276
+aa(lp3277
+S'Throt4887'
+p3278
+aa(lp3279
+S'Throt4925'
+p3280
+aa(lp3281
+S'Throt4968'
+p3282
+aS'Throt9995'
+p3283
+aa(lp3284
+S'Throt5301'
+p3285
+aa(lp3286
+S'Throt54'
+p3287
+aS'Throt9675'
+p3288
+aa(lp3289
+S'Throt5475'
+p3290
+aa(lp3291
+S'Throt557'
+p3292
+aa(lp3293
+S'Throt579'
+p3294
+aa(lp3295
+S'Throt591'
+p3296
+aa(lp3297
+S'Throt594'
+p3298
+aS'Throt595'
+p3299
+aa(lp3300
+S'Throt631'
+p3301
+aa(lp3302
+S'Throt6601'
+p3303
+aa(lp3304
+S'Throt6777'
+p3305
+aa(lp3306
+S'Throt6954'
+p3307
+aa(lp3308
+S'Throt7269'
+p3309
+aa(lp3310
+S'Throt7363'
+p3311
+aa(lp3312
+S'Throt7397'
+p3313
+aa(lp3314
+S'Throt7475'
+p3315
+aa(lp3316
+S'Throt7774'
+p3317
+aa(lp3318
+S'Throt81'
+p3319
+aa(lp3320
+S'Throt904'
+p3321
+aa(lp3322
+S'Throt911'
+p3323
+aa(lp3324
+S'Throt9348'
+p3325
+aa(lp3326
+S'Throt951'
+p3327
+aS'Throt952'
+p3328
+aa(lp3329
+S'Throt9825'
+p3330
+aaVCOG:&nbsp;COG1026
+p3331
+aVbromodomain-containing factor 1
+p3332
+aVphotosystem II PsbK protein
+p3333
+aVlight-harvesting complex I chlorophyll a/b binding protein 2
+p3334
+aVF-type H+-transporting ATPase subunit beta [EC:3.6.3.14]
+p3335
+aVphosphoribulokinase [EC:2.7.1.19]
+p3336
+aVtransitional endoplasmic reticulum ATPase
+p3337
+aVdiaminopimelate decarboxylase [EC:4.1.1.20]
+p3338
+aVpeptide alpha-N-acetyltransferase [EC:2.3.1.88]
+p3339
+aVthioredoxin 1
+p3340
+aVcathepsin X [EC:3.4.18.1]
+p3341
+aVglucuronyl/N-acetylglucosaminyl transferase EXT1 [EC:2.4.1.2242.4.1.225]
+p3342
+aVstructural maintenance of chromosome 3 (chondroitin sulfate proteoglycan 6)
+p3343
+aV26S proteasome non-ATPase regulatory subunit 9
+p3344
+aVaminopeptidase [EC:3.4.11.-]
+p3345
+aVU3 small nucleolar RNA-associated protein 11
+p3346
+aVE3 ubiquitin-protein ligase makorin [EC:6.3.2.19]
+p3347
+aVpoly(A)-specific ribonuclease [EC:3.1.13.4]
+p3348
+aVferredoxin
+p3349
+aVcalmodulin
+p3350
+aVlarge subunit ribosomal protein L10e
+p3351
+aVsolute carrier family 10 (sodium/bile acid cotransporter), member 7
+p3352
+aVmultiple antibiotic resistance protein
+p3353
+aVCTD small phosphatase-like protein 2 [EC:3.1.3.-]
+p3354
+aVreplication factor A1
+p3355
+aVsmall subunit ribosomal protein S27Ae
+p3356
+aVcysteine protease ATG4 [EC:3.4.22.-]
+p3357
+aVglyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+p3358
+aVL-fuculose-phosphate aldolase [EC:4.1.2.17]
+p3359
+aV2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [EC:2.2.1.9]
+p3360
+aVtubulin beta
+p3361
+aVRNA polymerase I-specific transcription initiation factor RRN3
+p3362
+aVphosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]
+p3363
+aVcalcium release-activated calcium channel protein 1
+p3364
+aVU3 small nucleolar RNA-associated protein 21
+p3365
+aVfatty acid desaturase (delta-4 desaturase) [EC:1.14.19.-]
+p3366
+aVRan GTPase-activating protein 1
+p3367
+aVcytochrome b6
+p3368
+aVATP-binding cassette, subfamily B (MDR/TAP), member 1 [EC:3.6.3.44]
+p3369
+aVphage shock protein A
+p3370
+aVformylmethanofuran--tetrahydromethanopterin N-formyltransferase [EC:2.3.1.101]
+p3371
+aVsulfite oxidase [EC:1.8.3.1]
+p3372
+aVtryptophan synthase [EC:4.2.1.20]
+p3373
+aVphotosystem II cytochrome c550
+p3374
+aVDNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+p3375
+aVphosphate transport system ATP-binding protein [EC:3.6.3.27]
+p3376
+aVgeranylgeranyl reductase [EC:1.3.1.83]
+p3377
+aVglutamate dehydrogenase [EC:1.4.1.2]
+p3378
+aVcytochrome b6-f complex iron-sulfur subunit [EC:1.10.9.1]
+p3379
+aVheat shock protein 90kDa beta
+p3380
+aVnucleoredoxin [EC:1.8.1.8]
+p3381
+aVelongation factor 1-alpha
+p3382
+aVnuclear transcription Y subunit beta
+p3383
+aVATP-dependent Clp protease ATP-binding subunit ClpX
+p3384
+aVphospholipase D1/2 [EC:3.1.4.4]
+p3385
+aVribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]
+p3386
+aVphotosystem II CP43 chlorophyll apoprotein
+p3387
+aV2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]
+p3388
+aVDNA-directed RNA polymerases I, II, and III subunit RPABC3
+p3389
+aVDNA damage-binding protein 1
+p3390
+aVTHO complex subunit 2
+p3391
+aVelongation factor G
+p3392
+aVGTP-binding protein HflX
+p3393
+aVadenosylhomocysteinase [EC:3.3.1.1]
+p3394
+aVubiquitin-conjugating enzyme E2 A [EC:6.3.2.19]
+p3395
+aVGDPmannose 4,6-dehydratase [EC:4.2.1.47]
+p3396
+aVadenylate kinase [EC:2.7.4.3]
+p3397
+aVnitric oxide synthase-interacting protein
+p3398
+aVUDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]
+p3399
+aVcharged multivesicular body protein 4
+p3400
+aVelongation factor Tu
+p3401
+aVsolute carrier family 34 (sodium-dependent phosphate cotransporter)
+p3402
+aVphotosystem I P700 chlorophyll a apoprotein A2
+p3403
+aVactin beta/gamma 1
+p3404
+aVbifunctional enzyme Fae/Hps [EC:4.2.1.1474.1.2.43]
+p3405
+aVphosphoglucomutase [EC:5.4.2.2]
+p3406
+aVcohesin loading factor subunit SCC2
+p3407
+aVasparaginyl-tRNA synthetase [EC:6.1.1.22]
+p3408
+aVregulatory associated protein of mTOR
+p3409
+aVtubulin alpha
+p3410
+aVprolyl 4-hydroxylase [EC:1.14.11.2]
+p3411
+aVtripeptidyl-peptidase II [EC:3.4.14.10]
+p3412
+aVchitinase [EC:3.2.1.14]
+p3413
+aVphotosystem II P680 reaction center D1 protein
+p3414
+aVF-type H+-transporting ATPase subunit alpha [EC:3.6.3.14]
+p3415
+aVphotosystem II CP47 chlorophyll apoprotein
+p3416
+aVsolute carrier family 25 (mitochondrial adenine nucleotide translocator), member 4/5/6/31
+p3417
+aVlarge subunit ribosomal protein L4e
+p3418
+aVDNA-directed RNA polymerase III subunit RPC5
+p3419
+atp3420
+ba(lp3421
+g11
+(g12
+(I0
+tp3422
+g14
+tp3423
+Rp3424
+((I1
+(I2
+tp3425
+g21
+I00
+(lp3426
+g25
+ag26
+atp3427
+(Ntp3428
+tp3429
+ba(dp3430
+g3014
+(dp3431
+g3016
+g3031
+sg3017
+(lp3432
+(dp3433
+g3020
+g3021
+(I0
+I2
+I1
+tp3434
+Rp3435
+sg3024
+g3140
+sasstp3436
+bbs.
